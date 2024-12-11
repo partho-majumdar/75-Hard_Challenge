@@ -1,0 +1,2001 @@
+,name,ratting,reviews,salaries,company_details
+0,TCS,3.7,83.7k,9L,IT Services & Consulting | Mumbai +370 other locations
+1,Accenture,3.9,52.2k,6L,IT Services & Consulting | Dublin +190 other locations
+2,Cognizant,3.8,46.9k,5.9L,IT Services & Consulting | Teaneck. New Jersey. +189 other locations
+3,Wipro,3.7,46.7k,4.5L,IT Services & Consulting | Bangalore/Bengaluru +296 other locations
+4,Capgemini,3.8,38.6k,4.5L,IT Services & Consulting | Paris +154 other locations
+5,HDFC Bank,3.9,37.3k,1.4L,Banking | Mumbai +1613 other locations
+6,ICICI Bank,4.0,36.5k,1.5L,Banking | Mumbai +1323 other locations
+7,Infosys,3.7,36.2k,4.8L,IT Services & Consulting | Bengaluru/Bangalore +194 other locations
+8,HCLTech,3.6,33.4k,3.3L,IT Services & Consulting | Noida +196 other locations
+9,Tech Mahindra,3.6,30.6k,2.6L,IT Services & Consulting | Pune +277 other locations
+10,Genpact,3.9,29.1k,2L,IT Services & Consulting | New York +133 other locations
+11,Teleperformance,3.9,26.9k,90k,BPO | Paris +202 other locations
+12,Concentrix Corporation,3.8,24.8k,1.2L,BPO | Fremont +137 other locations
+13,Axis Bank,3.8,24k,99.1k,Banking | Mumbai +1353 other locations
+14,Amazon,4.1,23.6k,1.3L,Internet | Seattle +455 other locations
+15,Jio,3.9,21.6k,64.6k,Navi Mumbai +1199 other locations
+16,Reliance Retail,3.9,21.1k,65.9k,Retail | Ghansoli +1036 other locations
+17,IBM,4.1,21k,2.1L,IT Services & Consulting | Armonk +154 other locations
+18,iEnergizer,4.7,20k,20.8k,BPO | Noida +33 other locations
+19,HDB Financial Services,4.0,19.3k,49.9k,NBFC | Ahmedabad +983 other locations
+20,Larsen & Toubro Limited,4.0,17.7k,70.6k,Engineering & Construction | Mumbai +645 other locations
+21,Deloitte,3.8,16.6k,2L,Management Consulting | London +157 other locations
+22,BYJU'S,3.1,15.9k,60.9k,EdTech | Bangalore +310 other locations
+23,Kotak Mahindra Bank,3.8,15.5k,83k,Banking | Mumbai +602 other locations
+24,LTIMindtree,3.5,15.2k,1.8L,IT Services & Consulting | Mumbai +121 other locations
+25,Reliance Industries,4.0,14.9k,67.5k,Oil & Gas | Navi Mumbai +717 other locations
+26,Vodafone Idea,4.1,14.9k,55.5k,Telecom | Mumbai +652 other locations
+27,Bharti Airtel,4.0,13k,46.3k,Telecom | Gurgaon/Gurugram +689 other locations
+28,Tata Motors,4.2,11.3k,41.7k,Automobile | Pune +459 other locations
+29,WNS,3.4,10.5k,56.7k,BPO | Mumbai +42 other locations
+30,Flipkart,4.0,10.3k,48.6k,Internet | Bangalore +520 other locations
+31,IndusInd Bank,3.6,10.2k,48.3k,Banking | Gurgaon/Gurugram +715 other locations
+32,Ernst & Young,3.5,9.9k,1.2L,Management Consulting | London +108 other locations
+33,IDFC FIRST Bank,4.0,9.6k,44.4k,Banking | Mumbai +613 other locations
+34,DXC Technology,3.7,9.5k,78.3k,IT Services & Consulting | Minato +100 other locations
+35,AU Small Finance Bank,4.3,9.4k,20.7k,Banking | Jaipur +438 other locations
+36,Mahindra & Mahindra,4.1,9.4k,37.8k,Automobile | Mumbai +498 other locations
+37,Infosys BPM,3.7,9.1k,65.8k,BPO | Bangalore/Bengaluru +77 other locations
+38,Bajaj Finserv,4.0,8.6k,26.7k,Financial Services | Pune +961 other locations
+39,HDFC Life,4.0,8.5k,31.1k,Insurance | Mumbai +590 other locations
+40,PwC,3.4,8.4k,93.5k,Management Consulting | London +106 other locations
+41,Conneqt Business Solutions,3.7,8.4k,26.6k,BPO | Mumbai +236 other locations
+42,Mphasis,3.4,7.7k,68.7k,IT Services & Consulting | Bangalore/Bengaluru +53 other locations
+43,HSBC Group,4.0,7.2k,59.5k,Financial Services | Pune +62 other locations
+44,Yes Bank,3.8,7.2k,43.6k,Banking | Mumbai +473 other locations
+45,Maruti Suzuki,4.2,7.1k,25.6k,Automobile | New Delhi +390 other locations
+46,Startek,3.2,7k,23.3k,Mumbai +73 other locations
+47,Paytm,3.3,7k,33.2k,FinTech | Noida +340 other locations
+48,Asian Paints,4.0,7k,23.1k,Chemicals | Mumbai +466 other locations
+49,Bandhan Bank,3.7,7k,21.8k,Banking | Kolkata +831 other locations
+50,Samsung,4.0,6.9k,26.7k,Consumer Electronics & Appliances | Seoul +523 other locations
+51,Ericsson,4.2,6.8k,43.3k,Telecom | Stockholm +150 other locations
+52,Quess,3.9,6.8k,28.1k,BPO | Bangalore +594 other locations
+53,Shriram Finance,4.1,6.8k,14.6k,NBFC | Mumbai +985 other locations
+54,Hinduja Global Solutions,3.9,6.7k,23.8k,BPO | Bangalore/Bengaluru +106 other locations
+55,EXL Service,3.8,6.6k,39.9k,Analytics & KPO | New York City +49 other locations
+56,UltraTech Cement,4.2,6.5k,21.3k,Building Material | Mumbai +446 other locations
+57,Cipla,4.1,6.5k,24.7k,Pharma | Mumbai +253 other locations
+58,NTT Data Information Processing Services,4.0,6.5k,53k,IT Services & Consulting | Chiyoda City +61 other locations
+59,Dr. Reddy's,4.1,6.5k,24.5k,Pharma | Hyderabad / Secunderabad +180 other locations
+60,Sutherland Global Services,3.7,6.4k,29.9k,IT Services & Consulting | Greater Noida +61 other locations
+61,Tata Steel,4.1,6.4k,28.8k,Iron & Steel | Mumbai +189 other locations
+62,Bajaj Finance,4.0,6.2k,20.4k,NBFC | Pune +811 other locations
+63,Muthoot Fincorp,4.5,6.1k,8.1k,NBFC | Trivandrum/Thiruvananthapuram +774 other locations
+64,ICICI Prudential Life Insurance,4.1,6k,22k,Insurance | Mumbai +464 other locations
+65,Wells Fargo,3.9,5.9k,51.3k,Financial Services | San Francisco +22 other locations
+66,Jana Small Finance Bank,3.8,5.9k,15k,Banking | Bangalore/Bengaluru +365 other locations
+67,Amazon Development Centre India,4.1,5.9k,31.5k,Internet | Hosur +94 other locations
+68,Zydus Lifesciences,4.2,5.7k,18.7k,Pharma | Ahmedabad +157 other locations
+69,Lupin,4.2,5.7k,22.5k,Pharma | Mumbai +175 other locations
+70,Delhivery,3.9,5.7k,18.7k,Logistics | Delhi +659 other locations
+71,L&T Construction,4.0,5.7k,19.3k,Engineering & Construction | Chennai +369 other locations
+72,JPMorgan Chase & Co.,4.1,5.7k,73.7k,Financial Services | New York +36 other locations
+73,Sun Pharmaceutical Industries,4.1,5.5k,22.2k,Pharma | Mumbai +219 other locations
+74,Hexaware Technologies,3.6,5.4k,49.1k,IT Services & Consulting | Navi Mumbai +53 other locations
+75,JSW Steel,4.0,5.3k,26.5k,Iron & Steel | Mumbai +154 other locations
+76,ITC,4.0,5.3k,22.7k,FMCG | Kolkata +324 other locations
+77,HCL Group,3.7,5.3k,56.6k,IT Services & Consulting | Rampur +80 other locations
+78,FIS,3.9,5.3k,39.6k,FinTech | Jacksonville +47 other locations
+79,Indian Army,4.7,5.3k,9.5k,Defence & Aerospace | New Delhi +337 other locations
+80,Hindustan Unilever,4.2,5.3k,20.4k,FMCG | London +451 other locations
+81,KPMG India,3.5,5.1k,55k,Management Consulting | Katihar +90 other locations
+82,Max Life Insurance,4.1,5k,18.5k,Insurance | Gurgaon/Gurugram +423 other locations
+83,IIFL Finance,4.0,5k,15k,NBFC | Mumbai +716 other locations
+84,Ujjivan Small Finance Bank,4.1,5k,11.8k,Banking | Bangalore/Bengaluru +464 other locations
+85,Oracle,3.7,5k,59.3k,Emerging Technologies | Austin +51 other locations
+86,Udaan,4.0,5k,17.4k,Internet | Bangalore +344 other locations
+87,Tata Projects,4.3,4.8k,20.1k,Engineering & Construction | Mumbai +249 other locations
+88,Muthoot Finance,3.6,4.7k,12.3k,NBFC | Kochi/Cochin +682 other locations
+89,Ekart Logistics,4.0,4.7k,13.2k,San Francisco +644 other locations
+90,Megha Engineering & Infrastructures,4.0,4.7k,16.5k,Engineering & Construction | Hyderabad/Secunderabad +324 other locations
+91,eClerx,3.4,4.7k,28.4k,IT Services & Consulting | Mumbai +21 other locations
+92,Omega Healthcare,3.8,4.6k,22.5k,BPO | Boca Raton +55 other locations
+93,Aurobindo Pharma,4.0,4.5k,21.8k,Pharma | Hyderabad/Secunderabad +96 other locations
+94,JLL,4.2,4.5k,20.8k,Real Estate | Mumbai +74 other locations
+95,Shapoorji Pallonji Group,4.2,4.5k,15.2k,Engineering & Construction | Mumbai +177 other locations
+96,Bajaj Allianz Life Insurance,4.0,4.5k,15.9k,Insurance | Pune +528 other locations
+97,Siemens,4.1,4.5k,31.4k,Industrial Automation | Munich +138 other locations
+98,Coforge,3.4,4.4k,40.9k,IT Services & Consulting | Noida +91 other locations
+99,Virtusa Consulting Services,3.8,4.4k,53.7k,IT Services & Consulting | Southborough +41 other locations
+100,Indiamart Intermesh,3.5,4.4k,19.1k,Internet | Noida +147 other locations
+101,L&T Technology Services,3.4,4.4k,38.3k,IT Services & Consulting | Vadodara/Baroda +64 other locations
+102,Ashok Leyland,4.1,4.3k,18.1k,Automobile | Chennai +225 other locations
+103,Apollo Hospitals,4.1,4.3k,15.9k,Healthcare | Chennai +194 other locations
+104,First Source,3.7,4.3k,21.8k,BPO | Mumbai +56 other locations
+105,Standard Chartered,3.8,4.3k,40.2k,Banking | London +62 other locations
+106,DMart,4.0,4.3k,15.6k,Retail | Mumbai +217 other locations
+107,JustDial,3.5,4.3k,15.5k,Internet | Mumbai +190 other locations
+108,BigBasket,4.0,4.3k,17.1k,Internet | Bangalore +118 other locations
+109,ICICI Lombard General Insurance Company,3.7,4.2k,18.8k,Insurance | Mumbai +272 other locations
+110,Vivo,4.1,4.2k,13.6k,Consumer Electronics & Appliances | Gurgaon/Gurugram +384 other locations
+111,Hero MotoCorp,4.2,4.2k,14.8k,Automobile | Gurgaon/Gurugram +323 other locations
+112,Cyient,3.7,4.2k,26.8k,IT Services & Consulting | Hyderabad/Secunderabad +39 other locations
+113,CGI Group,4.0,4.2k,43.8k,IT Services & Consulting | Montreal +32 other locations
+114,Home Credit Finance,4.1,4.2k,10.6k,NBFC | Gurugram +119 other locations
+115,Mahindra Finance,4.1,4.2k,11.2k,NBFC | Mumbai +657 other locations
+116,GlobalLogic,3.7,4.2k,35.7k,IT Services & Consulting | San Jose +44 other locations
+117,Equitas Small Finance Bank,4.3,4.2k,12k,Banking | Chennai +389 other locations
+118,Cholamandalam Investment & Finance,4.0,4.1k,11.1k,Financial Services | Chennai +688 other locations
+119,UST,3.8,4.1k,36.6k,IT Services & Consulting | Aliso Viejo +38 other locations
+120,Bosch Global Software Technologies,4.0,4k,36.6k,Software Product | Gerlingen +32 other locations
+121,OPPO,4.0,4k,12.6k,Consumer Electronics & Appliances | Dongguan +374 other locations
+122,Nagarro,4.0,4k,28.5k,IT Services & Consulting | Munich +40 other locations
+123,Manappuram Finance,4.0,4k,8k,NBFC | Thrissur/Trichur +540 other locations
+124,SMFG India Credit,4.1,3.9k,10.6k,NBFC | Mumbai +508 other locations
+125,TVS Motor,4.0,3.9k,14.7k,Automobile | Chennai +290 other locations
+126,SBI Cards & Payment Services,3.7,3.9k,15.9k,Financial Services | Gurgaon/Gurugram +372 other locations
+127,IQVIA,3.9,3.9k,28.3k,Clinical Research | Durham +49 other locations
+128,Kalpataru Projects International,4.2,3.8k,12.5k,Engineering & Construction | Mumbai +268 other locations
+129,Optum,4.0,3.8k,30.4k,Prairie +36 other locations
+130,Atos Syntel,3.6,3.8k,34.1k,IT Services & Consulting | Troy +28 other locations
+131,Swiggy,3.8,3.8k,20.8k,Internet | Bangalore +196 other locations
+132,BNY,4.0,3.8k,29.2k,Financial Services | New York City +18 other locations
+133,Amdocs,3.8,3.8k,36.2k,Software Product | Chesterfield +17 other locations
+134,Hewlett Packard Enterprise,4.2,3.7k,27.5k,IT Services & Consulting | Houston +93 other locations
+135,State Bank of India,3.8,3.7k,11.1k,Banking | Mumbai +523 other locations
+136,Bosch,4.2,3.7k,20.5k,Auto Components | Gerlingen +107 other locations
+137,CBRE,4.2,3.7k,16.9k,Real Estate | Los Angeles +79 other locations
+138,Hyundai Motor India Limited,4.4,3.6k,13.7k,Automobile | Seoul +276 other locations
+139,Dell,4.1,3.6k,27.6k,Consumer Electronics & Appliances | Round Rock +101 other locations
+140,Persistent Systems,3.5,3.6k,37.8k,IT Services & Consulting | Pune +35 other locations
+141,SBI Life Insurance Company,3.8,3.6k,11.5k,Insurance | Mumbai +562 other locations
+142,JBM Group,4.0,3.6k,13.5k,Auto Components | Gurgaon/Gurugram +91 other locations
+143,Schneider Electric,4.2,3.6k,21.5k,Industrial Automation | Paris +106 other locations
+144,Ecom Express,3.9,3.5k,8.9k,Logistics | Gurgaon +659 other locations
+145,Marpu Foundation,4.9,3.5k,39,Non-Profit | Hyderabad/Secunderabad +54 other locations
+146,KEC International,4.1,3.5k,12k,Engineering & Construction | Mumbai +273 other locations
+147,Bajaj Auto,3.9,3.5k,13.6k,Automobile | Pune +278 other locations
+148,Nagarjuna Construction Company,4.2,3.5k,10.4k,Engineering & Construction | Hyderabad/Secunderabad +235 other locations
+149,Oyo Rooms,3.3,3.5k,21.9k,Hospitality | Gurgaon +118 other locations
+150,Piramal Capital Housing Finance,4.2,3.4k,9.1k,NBFC | Mumbai +349 other locations
+151,ITC Infotech,3.8,3.4k,29k,IT Services & Consulting | Bangalore/Bengaluru +55 other locations
+152,Aditya Birla Fashion and Retail,4.2,3.4k,12.2k,Fashion & Textile | Mumbai +243 other locations
+153,Reliance Communications,4.0,3.4k,11.2k,Telecom | Navi Mumbai +436 other locations
+154,CARS24,3.6,3.4k,13.9k,Internet | Gurgaon +155 other locations
+155,Varun Beverages,4.1,3.3k,10.4k,Beverage | Gurgaon/Gurugram +309 other locations
+156,Randstad,3.8,3.3k,15k,Recruitment | Chennai +275 other locations
+157,EY Global Delivery Services ( EY GDS),3.6,3.2k,33.4k,Accounting & Auditing | Bangalore/Bengaluru +40 other locations
+158,L&T Finance,4.0,3.2k,11.2k,NBFC | Mumbai +499 other locations
+159,Tata Communications,4.1,3.2k,23.2k,Telecom | Mumbai +92 other locations
+160,Kogta Financial India Limited,4.8,3.2k,1.6k,NBFC | Jaipur +228 other locations
+161,Intas Pharmaceuticals,4.1,3.2k,15.9k,Ahmedabad +126 other locations
+162,John Deere,4.1,3.2k,14.7k,Industrial Machinery | Moline +120 other locations
+163,Deutsche Bank,3.9,3.2k,32.2k,Banking | Frankfurt +38 other locations
+164,Royal Enfield,4.2,3.2k,13.6k,Automobile | Gurgaon/Gurugram +326 other locations
+165,LG Electronics,4.0,3.1k,10.4k,Consumer Electronics & Appliances | Seoul +262 other locations
+166,PolicyBazaar,3.6,3.1k,14.3k,Internet | Gurgaon +103 other locations
+167,Thermax Limited,4.2,3.1k,12.1k,Industrial Machinery | Pune +194 other locations
+168,Team Lease,3.9,3.1k,15.3k,Recruitment | Bangalore/Bengaluru +321 other locations
+169,R1 RCM,3.9,3.1k,18.3k,Healthcare | Murray +35 other locations
+170,Macleods Pharmaceuticals,3.7,3.1k,14.6k,Mumbai +105 other locations
+171,Havells,4.0,3.1k,13.2k,Electrical Equipment | Noida +194 other locations
+172,Access Healthcare,3.9,3k,20.7k,IT Services & Consulting | Dallas +34 other locations
+173,Hetero Drugs,3.9,3k,14.1k,Hyderabad/Secunderabad +50 other locations
+174,Godrej & Boyce Manufacturing,3.9,3k,15.4k,Consumer Electronics & Appliances | Mumbai +136 other locations
+175,Future Group,4.3,3k,9.9k,Retail | Mumbai +202 other locations
+176,Tata AIA Life Insurance,4.0,3k,12.7k,Insurance | Mumbai +362 other locations
+177,Aakash Educational Services,3.5,3k,12k,Education & Training | New Delhi +217 other locations
+178,Publicis Sapient,3.5,3k,28.3k,IT Services & Consulting | Boston +31 other locations
+179,Cummins,4.3,3k,15.2k,Industrial Machinery | Columbus +92 other locations
+180,PVR Inox,4.0,3k,9.4k,Media & Entertainment | Gurgaon +137 other locations
+181,Samvardhana Motherson Group,3.8,3k,12.8k,Auto Components | Noida +79 other locations
+182,VE Commercial Vehicles,4.0,3k,13.1k,Automobile | Gurgaon/Gurugram +135 other locations
+183,Viatris,4.2,3k,14.2k,Pharma | Canonsburg +72 other locations
+184,Atos,3.8,2.9k,29.2k,IT Services & Consulting | Vilnius +45 other locations
+185,Utkarsh Small Finance Bank,3.9,2.9k,9.6k,Banking | Varanasi +332 other locations
+186,Square Yards,4.1,2.9k,8.3k,Real Estate | Gurgaon / Gurugram +44 other locations
+187,Pidilite Industries,4.3,2.9k,10.3k,Chemicals | Mumbai +259 other locations
+188,Abbott,4.2,2.9k,11k,Pharma | Illinois City +180 other locations
+189,Subros,3.9,2.9k,12.1k,Auto Components | Noida +62 other locations
+190,American Express,4.2,2.9k,21.7k,Financial Services | New York City +41 other locations
+191,DCB Bank,3.8,2.9k,9.5k,Banking | Mumbai +314 other locations
+192,Indian Oil Corporation,4.4,2.9k,7.9k,Oil & Gas | Delhi/NCR +275 other locations
+193,Automatic Data Processing (ADP),4.1,2.9k,20.6k,Software Product | New Jersey +31 other locations
+194,Berger Paints,3.7,2.9k,9k,Chemicals | Kolkata +276 other locations
+195,Alembic Pharmaceuticals,4.0,2.9k,14.1k,Pharma | Vadodara/Baroda +158 other locations
+196,Whitehat jr,3.5,2.9k,10k,EdTech | Mumbai +50 other locations
+197,Bharat Electronics,4.2,2.9k,12k,Electronics Manufacturing | Bangalore/Bengaluru +60 other locations
+198,Barclays,3.9,2.9k,25.7k,Banking | London +33 other locations
+199,Sodexo,4.1,2.9k,9.7k,Facility Management Services | Issy les Moulineaux +137 other locations
+200,Carelon Global Solutions,4.0,2.8k,25.5k,IT Services & Consulting | Bangalore Rural +17 other locations
+201,Hindalco Industries,4.2,2.8k,10.5k,Metals & Mining | Mumbai +98 other locations
+202,Lenskart,3.2,2.8k,10.5k,Internet | Faridabad +185 other locations
+203,Bank of America,4.4,2.8k,25.7k,Banking | Charlotte +29 other locations
+204,Ford Motor,4.4,2.8k,14.4k,Automobile | Dearborn +115 other locations
+205,Alkem Laboratories,3.9,2.7k,9.5k,Pharma | Mumbai +172 other locations
+206,Vishal Mega Mart,3.8,2.7k,6.6k,Retail | Gurgaon/Gurugram +332 other locations
+207,Jindal Steel and Power,4.0,2.7k,13.9k,Iron & Steel | Delhi/NCR +135 other locations
+208,HDFC Ergo General Insurance,4.0,2.7k,12k,Insurance | Mumbai +258 other locations
+209,Cogent E Services,3.3,2.7k,9.1k,Noida +42 other locations
+210,Maersk,4.3,2.7k,17.2k,Logistics | Copenhagen +41 other locations
+211,RBL Bank,3.7,2.7k,17k,Banking | Mumbai +239 other locations
+212,Escorts Kubota Limited,4.1,2.7k,11.8k,Automobile | Faridabad +139 other locations
+213,Johnson Controls,3.6,2.7k,15.9k,Industrial Automation | Cork +51 other locations
+214,Wipro Infotech,4.0,2.7k,14.8k,IT Services & Consulting | Bangalore +128 other locations
+215,Jubilant Foods Works,3.8,2.7k,8.1k,Hospitality | Noida +214 other locations
+216,Ipca Laboratories,4.0,2.7k,11.2k,Pharma | Mumbai +140 other locations
+217,Reliance Digital,4.2,2.7k,7.8k,Retail | Mumbai +323 other locations
+218,Indian Air Force,4.7,2.7k,5.3k,Defence & Aerospace | New Delhi +125 other locations
+219,Glenmark Pharmaceuticals,4.0,2.7k,11.3k,Pharma | Mumbai +145 other locations
+220,Synechron,3.6,2.7k,28k,IT Services & Consulting | New York +28 other locations
+221,Aarti Industries,4.2,2.7k,13.7k,Agro Chemicals | Mumbai +45 other locations
+222,Birlasoft,3.7,2.7k,29k,IT Services & Consulting | Pune +37 other locations
+223,24/7 Customer,3.5,2.6k,13.3k,Software Product | San Jose +29 other locations
+224,MRF Tyres,3.7,2.6k,11.6k,Auto Components | Chennai +173 other locations
+225,Kotak Mahindara Life Insurance,3.8,2.6k,11.6k,Insurance | Mumbai +227 other locations
+226,Honda Motorcycle & Scooter,4.1,2.6k,11k,Automobile | Gurgaon/Gurugram +237 other locations
+227,Hindustan Coca Cola Beverages,4.2,2.6k,7.2k,Beverage | Bangalore +227 other locations
+228,Paras Hospital,4.5,2.6k,3k,Healthcare | Gurgaon/Gurugram +51 other locations
+229,PNB MetLife,3.4,2.6k,8.1k,Insurance | Mumbai +346 other locations
+230,JK Cement,4.1,2.6k,8.8k,Building Material | Gurgaon / Gurugram +263 other locations
+231,DTDC Express,3.8,2.6k,8.3k,Logistics | Bangalore/Bengaluru +238 other locations
+232,Dabur,3.8,2.6k,8.2k,FMCG | Ghaziabad +271 other locations
+233,Reliance Nippon Life Insurance,3.7,2.6k,8k,Insurance | Mumbai +446 other locations
+234,UnitedHealth,4.1,2.6k,18.5k,Healthcare | Minnetonka +15 other locations
+235,Ceat Tyres,4.0,2.6k,12.1k,Auto Components | Mumbai +120 other locations
+236,KPIT Technologies,3.5,2.6k,21.1k,Software Product | Pune +32 other locations
+237,HARMAN,3.8,2.6k,24.3k,Consumer Electronics & Appliances | Stamford +31 other locations
+238,ABB,4.1,2.6k,15.7k,Industrial Automation | Zurich +96 other locations
+239,NatWest Group,4.0,2.6k,19.9k,Banking | Mumbai +22 other locations
+240,GeBBS Healthcare Solutions,3.7,2.5k,11k,Healthcare | Culver City +20 other locations
+241,Conduent,3.5,2.5k,17.9k,BPO | Florham Park +25 other locations
+242,InterGlobe Aviation,3.6,2.5k,12.7k,Aviation | Gurgaon/Gurugram +91 other locations
+243,IGT Solutions,3.3,2.5k,11.9k,IT Services & Consulting | Gurgaon/Gurugram +41 other locations
+244,CMS IT Services,3.1,2.5k,10.3k,IT Services & Consulting | Bangalore +144 other locations
+245,State Street Corporation,3.8,2.5k,26.2k,Financial Services | Boston +24 other locations
+246,RSPL Group,4.2,2.5k,8.7k,FMCG | Kanpur +213 other locations
+247,Aditya Birla Sun Life Insurance,4.1,2.4k,8.5k,Insurance | Mumbai +392 other locations
+248,TVS Credit,4.4,2.4k,6.5k,NBFC | Chennai +333 other locations
+249,Sahrudaya Healthcare (Medicover Hospitals),4.6,2.4k,3k,Healthcare | Hyderabad/Secunderabad +40 other locations
+250,Alstom Transportation,3.8,2.4k,12.9k,Engineering & Construction | Saint-Ouen +67 other locations
+251,ArcelorMittal Nippon Steel,4.1,2.4k,10k,Iron & Steel | Surat +74 other locations
+252,Reliance SMSL,4.0,2.4k,5.7k,BPO | Mumbai +503 other locations
+253,Titan Company,4.3,2.4k,8.6k,Retail | Bangalore +152 other locations
+254,Tata AIG,4.1,2.4k,10.6k,Insurance | Mumbai +231 other locations
+255,ACC,3.9,2.4k,9.8k,Building Material | Mumbai +232 other locations
+256,PepsiCo,4.1,2.4k,11k,Food Processing | Harrison +238 other locations
+257,IDFC FIRST Bharat,4.5,2.4k,4.5k,NBFC | Tiruchirappalli +322 other locations
+258,Kyndryl,4.0,2.4k,20.6k,IT Services & Consulting | New York City +28 other locations
+259,UPL,4.2,2.4k,10.7k,Agro Chemicals | Mumbai +168 other locations
+260,S&P Global,4.2,2.4k,17.9k,Analytics & KPO | New York City +35 other locations
+261,Motilal Oswal Financial Services,3.8,2.4k,10.3k,Financial Services | Mumbai +137 other locations
+262,Shoppers Stop,4.1,2.4k,7.1k,Retail | Mumbai +72 other locations
+263,Tata Technologies,3.7,2.4k,20.8k,Engineering & Construction | Singapore +46 other locations
+264,Grasim Industries,4.0,2.4k,10.4k,Building Material | Nagda +147 other locations
+265,Torrent Pharmaceuticals,3.9,2.4k,10.3k,Pharma | Ahmedabad +105 other locations
+266,Zensar Technologies,3.7,2.4k,26.2k,IT Services & Consulting | Pune +24 other locations
+267,Tata Capital,4.1,2.3k,9.3k,NBFC | Mumbai +237 other locations
+268,Mankind Pharma,3.9,2.3k,8.5k,New Delhi +210 other locations
+269,Afcons Infrastructure,4.3,2.3k,8k,Engineering & Construction | Mumbai +104 other locations
+270,Dilip Buildcon,4.0,2.3k,8k,Engineering & Construction | Bhopal +200 other locations
+271,UNO Minda,4.0,2.3k,9.4k,Auto Components | Gurgaon +91 other locations
+272,Walmart,3.9,2.3k,18.2k,Retail | Bangalore/Bengaluru +83 other locations
+273,Flex,4.0,2.3k,17k,Logistics | Austin +40 other locations
+274,Tech Mahindra Business Services,3.4,2.3k,11.4k,Mumbai +49 other locations
+275,Bajaj Allianz General Insurance,3.9,2.3k,9k,Insurance | Guntakal +237 other locations
+276,Croma,4.0,2.3k,7.5k,Retail | Mumbai +159 other locations
+277,Statestreet HCL Services,3.3,2.3k,16.8k,BPO | New Delhi +16 other locations
+278,ElasticRun,3.5,2.3k,6.4k,Logistics | Pune +354 other locations
+279,GATI-KWE,4.0,2.3k,5.7k,Logistics | Hyderabad/Secunderabad +154 other locations
+280,Capita,3.6,2.2k,14k,IT Services & Consulting | Indore +26 other locations
+281,HDFC Sales,4.0,2.2k,7.9k,Financial Services | Mumbai +292 other locations
+282,I Process Services,3.9,2.2k,5.4k,Mumbai +334 other locations
+283,Nokia,4.2,2.2k,15.3k,Telecom | Espoo +155 other locations
+284,Societe Generale Global Solution Centre,3.9,2.2k,20.9k,IT Services & Consulting | Paris +17 other locations
+285,Apollo Tyres,4.1,2.2k,9.3k,Auto Components | Gurgaon/Gurugram +151 other locations
+286,Sammaan Capital Limited,3.8,2.2k,8.2k,NBFC | Gurgaon/Gurugram +191 other locations
+287,Landmark Group,4.0,2.2k,9.2k,Retail | Dubai Marina +149 other locations
+288,Nestle,4.0,2.2k,9.4k,FMCG | Vevey +247 other locations
+289,Quest Global,3.6,2.2k,18.7k,IT Services & Consulting | Singapore +36 other locations
+290,AGS Health,4.0,2.2k,10.4k,Analytics & KPO | Washington DC +44 other locations
+291,Fiserv,3.3,2.2k,18.9k,FinTech | Brookfield +30 other locations
+292,Max Healthcare,4.1,2.2k,8.7k,Healthcare | Delhi/NCR +62 other locations
+293,Blue Dart Express,4.1,2.2k,6.4k,Logistics | Mumbai +244 other locations
+294,BlackBuck,3.8,2.1k,6.1k,Internet | Bangalore +333 other locations
+295,Suzlon Group,4.1,2.1k,7.3k,Power | Pune +112 other locations
+296,Domino's Pizza,4.0,2.1k,4.4k,Ypsilanti +225 other locations
+297,Bajaj Electricals,4.0,2.1k,7.9k,Consumer Electronics & Appliances | Mumbai +201 other locations
+298,IKS Health,3.6,2.1k,9.9k,BPO | Mumbai +19 other locations
+299,KocharTech,4.0,2.1k,3.8k,IT Services & Consulting | Gurgaon/Gurugram +24 other locations
+300,Axis Direct,3.9,2.1k,5.6k,Financial Services | San Mateo +260 other locations
+301,G4S,4.0,2.1k,4.8k,Law Enforcement & Security | Gurgaon/Gurugram +141 other locations
+302,Sterlite Technologies,3.8,2.1k,10.7k,Hardware & Networking | Pune +83 other locations
+303,Zomato,3.8,2.1k,12.9k,Internet | Gurgaon +191 other locations
+304,Capgemini Engineering,3.5,2.1k,18.3k,Pune +24 other locations
+305,McDonald's,4.2,2.1k,4.6k,Chicago +140 other locations
+306,Britannia,4.1,2.1k,7.5k,FMCG | Bengaluru +243 other locations
+307,Micro Labs,3.7,2.1k,9.4k,Pharma | Bangalore/Bengaluru +131 other locations
+308,Shree Cement,3.8,2.1k,9.1k,Building Material | Kolkata +219 other locations
+309,XpressBees,3.7,2.1k,7.5k,Pune +252 other locations
+310,PhonePe,4.0,2.1k,9.9k,FinTech | Bangalore +261 other locations
+311,KPMG Global Services,3.6,2k,19.3k,Management Consulting | Bangana +32 other locations
+312,Exide Industries,3.5,2k,7.8k,Auto Components | Kolkata +190 other locations
+313,Huawei Technologies,4.0,2k,10.2k,Telecom | Gurgaon/Gurugram +101 other locations
+314,Patanjali Ayurved,4.0,2k,6.3k,FMCG | Haridwar +262 other locations
+315,TVS Supply Chain Solutions,3.9,2k,8.3k,Chennai +137 other locations
+316,Voltas,4.0,2k,8.1k,Consumer Electronics & Appliances | Mumbai +180 other locations
+317,KFintech,3.6,2k,10.2k,Hyderabad +102 other locations
+318,Mahindra Logistics,4.0,2k,8.6k,Logistics | Mumbai +139 other locations
+319,Fujitsu,3.8,2k,16.2k,IT Services & Consulting | Bangalore/Bengaluru +32 other locations
+320,Fortis Healthcare,4.1,2k,7.2k,Healthcare | Gurgaon/Gurugram +63 other locations
+321,DS Group,4.1,2k,6.2k,FMCG | Noida +223 other locations
+322,Yazaki,3.8,2k,7.8k,Auto Components | Tokyo +73 other locations
+323,Taj Hotels Resorts and Palaces,4.2,2k,4.8k,Mumbai +98 other locations
+324,Indus Towers,3.9,2k,7.9k,Hardware & Networking | Gurgaon +173 other locations
+325,Tractors and Farm Equipment,4.1,2k,8.1k,Industrial Machinery | Chennai +169 other locations
+326,Simplex Infrastructures,3.3,2k,5.9k,Engineering & Construction | Kolkata +134 other locations
+327,ACT Fibernet,4.0,2k,7.4k,Telecom | Bengaluru/Bangalore +46 other locations
+328,ZS,3.4,2k,17.3k,Management Consulting | Evanston +13 other locations
+329,Dalmia Bharat Cement,4.0,2k,8k,Building Material | Delhi/NCR +214 other locations
+330,Lava International,4.1,2k,4.6k,Consumer Electronics & Appliances | Noida +216 other locations
+331,Himalaya Wellness,4.1,2k,6.2k,San Francisco +203 other locations
+332,VVDN Technologies,3.6,2k,11.4k,IT Services & Consulting | Gurgaon +36 other locations
+333,Tata Elxsi,3.9,1.9k,19.2k,IT Services & Consulting | Bangalore/Bengaluru +27 other locations
+334,SRF,4.2,1.9k,8k,Chemicals | Gurgaon/Gurugram +54 other locations
+335,Blue Star,4.1,1.9k,9.1k,Consumer Electronics & Appliances | Mumbai +136 other locations
+336,Shell,4.1,1.9k,13.4k,Oil & Gas | London +80 other locations
+337,Citicorp,3.7,1.9k,21.9k,Financial Services | Mumbai +23 other locations
+338,V-Mart,4.2,1.9k,4.3k,Retail | Gurgaon/Gurugram +253 other locations
+339,Ajanta Pharma,4.0,1.9k,8.5k,Pharma | Mumbai +105 other locations
+340,State Street Syntel,3.7,1.9k,9.6k,Financial Services | Mumbai +22 other locations
+341,Sonalika Tractors,3.7,1.9k,8.4k,Automobile | Hoshiarpur +159 other locations
+342,NoBroker,3.2,1.9k,8.8k,Real Estate | Bangalore +38 other locations
+343,Aditya Birla Group,4.1,1.9k,10.4k,Building Material | Mumbai +230 other locations
+344,Mahindra Rural Housing Finance,4.0,1.9k,4.9k,NBFC | Mumbai +427 other locations
+345,Lifestyle,4.4,1.9k,6.8k,Retail | Bangalore/Bengaluru +118 other locations
+346,Ola Cabs,3.4,1.9k,10.9k,Internet | Bangalore +95 other locations
+347,Movate,3.3,1.9k,14k,IT Services & Consulting | Plano +31 other locations
+348,Datamatics Global Services,3.5,1.9k,11.7k,IT Services & Consulting | Mumbai +29 other locations
+349,Extramarks Education,3.4,1.9k,8.1k,EdTech | Noida +105 other locations
+350,Kalyan Jewellers,4.7,1.9k,1.4k,Jewellery | Kangra +137 other locations
+351,suzuki motor gujarat,4.3,1.9k,7.1k,Automobile | Bhubaneswar +100 other locations
+352,Kansai Nerolac Paints,3.9,1.9k,6.8k,Chemicals | Mumbai +194 other locations
+353,Info Edge,4.0,1.9k,10.7k,Internet | Noida +61 other locations
+354,MSN Laboratories,3.7,1.9k,7.9k,Hyderabad/Secunderabad +78 other locations
+355,Parle Agro,4.1,1.9k,6.5k,Beverage | Mumbai +201 other locations
+356,Delhi Public School,3.9,1.9k,5.4k,Greater Noida +244 other locations
+357,Cholamandalam MS General Insurance,3.9,1.9k,5.8k,Insurance | Chennai +338 other locations
+358,Ninjacart,4.0,1.9k,5.8k,Internet | Bangalore +99 other locations
+359,Eureka Forbes,3.7,1.9k,5.7k,Consumer Electronics & Appliances | Mumbai +165 other locations
+360,Unacademy,3.0,1.8k,9.6k,EdTech | Bangalore +63 other locations
+361,Cloudnine Hospital,4.4,1.8k,2.4k,Bangalore +32 other locations
+362,Foundever,3.6,1.8k,7.1k,Miami +16 other locations
+363,Radisson Hotels,4.0,1.8k,5.5k,Minnetonka +110 other locations
+364,Blinkit,3.8,1.8k,8.7k,Internet | Gurgaon +69 other locations
+365,3i Infotech,3.5,1.8k,10.8k,IT Services & Consulting | Mumbai +110 other locations
+366,Emcure Pharmaceuticals,3.8,1.8k,8.1k,Pune +100 other locations
+367,Jindal Stainless,4.2,1.8k,9.4k,Iron & Steel | Delhi/NCR +59 other locations
+368,Nokia Networks,4.3,1.8k,11.9k,Hardware & Networking | Rajkot +82 other locations
+369,Cybage,3.9,1.8k,17.1k,IT Services & Consulting | Pune +9 other locations
+370,Mahindra Holidays & Resorts,3.5,1.8k,6.2k,Hospitality | Mumbai +99 other locations
+371,ICICI Securities,3.9,1.8k,9k,Financial Services | Mumbai +127 other locations
+372,Syngene International,3.9,1.8k,11.5k,Clinical Research | Bangalore/Bengaluru +17 other locations
+373,Google,4.4,1.8k,21k,Software Product | Mountain View +79 other locations
+374,BT Group,4.0,1.8k,11k,London +17 other locations
+375,Life Insurance Corporation of India,4.4,1.8k,4.4k,Insurance | Mumbai +426 other locations
+376,Biocon Limited,3.9,1.8k,11.5k,Biotechnology | Bangalore Rural +56 other locations
+377,Planet Spark,3.7,1.8k,3k,EdTech | Gurgaon +41 other locations
+378,Akums Drugs & Pharmaceuticals Limited,4.3,1.8k,6k,Pharma | Delhi/NCR +31 other locations
+379,JCB,4.0,1.8k,8.9k,Rocester +95 other locations
+380,Gallagher,3.8,1.8k,11.4k,Insurance | Rolling Meadows +21 other locations
+381,Cadila Pharmaceuticals,3.5,1.8k,7.2k,Pharma | Ahmedabad +117 other locations
+382,Myntra,4.0,1.8k,9.9k,Internet | Bangalore +97 other locations
+383,upGrad,3.8,1.8k,8.2k,EdTech | San Francisco +40 other locations
+384,GlaxoSmithKline Pharmaceuticals,4.1,1.8k,5.5k,Pharma | Brentford +188 other locations
+385,Indian Railways,4.1,1.8k,3.4k,Railways | Delhi/NCR +216 other locations
+386,Care Health Insurance,3.7,1.7k,8k,Insurance | Gurgaon +205 other locations
+387,Canara HSBC Life Insurance,3.7,1.7k,6.2k,Insurance | Gurgaon/Gurugram +261 other locations
+388,Adani Power,3.9,1.7k,8.2k,Power | Ahmedabad +93 other locations
+389,Intellect Design Arena,4.0,1.7k,11.9k,Software Product | Chennai +32 other locations
+390,Bharat Financial Inclusion,3.9,1.7k,4.2k,NBFC | Hyderabad +378 other locations
+391,Reliance Trends,4.3,1.7k,4.3k,Retail | Navi Mumbai +346 other locations
+392,Fincare Small Finance Bank,4.1,1.7k,6.2k,Banking | Bangalore +381 other locations
+393,IntouchCX,3.0,1.7k,7.9k,BPO | Winnipeg +18 other locations
+394,Pfizer,4.0,1.7k,5.9k,Pharma | Chennai +116 other locations
+395,Sobha,3.9,1.7k,7.8k,Real Estate | Bangalore/Bengaluru +35 other locations
+396,Rivigo,3.9,1.7k,6.2k,Internet | Gurgaon +152 other locations
+397,Whirlpool,4.1,1.7k,7.8k,Consumer Electronics & Appliances | Michigan +145 other locations
+398,RMSI,3.6,1.7k,7.8k,IT Services & Consulting | Noida +18 other locations
+399,DBS Bank,3.9,1.7k,12.3k,Banking | Mumbai +147 other locations
+400,DBS Bank,3.9,1.7k,12.3k,Banking | Mumbai +147 other locations
+401,Renault-Nissan,4.2,1.7k,7.7k,Chennai +74 other locations
+402,Aavas Financiers,3.9,1.7k,5.6k,NBFC | Jaipur +246 other locations
+403,Raymond Lifestyle Limited,4.2,1.7k,7k,Fashion & Textile | New York +130 other locations
+404,Shahi Exports,4.0,1.7k,6.8k,Fashion & Textile | Faridabad +60 other locations
+405,Photon Interactive,4.1,1.7k,6.8k,IT Services & Consulting | London +11 other locations
+406,Sopra Steria,3.9,1.7k,13.9k,IT Services & Consulting | Paris +14 other locations
+407,Bharti AXA Life Insurance,3.9,1.7k,5.3k,Insurance | Mumbai +224 other locations
+408,ESAF Small Finance Bank,3.8,1.7k,6.4k,Banking | Thrissur/Trichur +319 other locations
+409,Star Health & Allied Insurance,3.8,1.7k,8k,Insurance | Chennai +265 other locations
+410,Future Retail,4.3,1.7k,5.4k,Retail | San Francisco +197 other locations
+411,Endurance Technologies,3.9,1.7k,7.3k,Auto Components | Aurangabad +44 other locations
+412,Ambuja Cements,3.9,1.7k,5.9k,Building Material | Mumbai +209 other locations
+413,BHEL,4.2,1.7k,5.1k,Electrical Equipment | Bangalore/Bengaluru +96 other locations
+414,Bharat Petroleum,4.2,1.7k,6.5k,Oil & Gas | Mumbai +232 other locations
+415,GVK Emergency Management and Research Institute,3.6,1.7k,4.4k,Hyderabad/Secunderabad +162 other locations
+416,Lodha Group,4.1,1.7k,7.9k,Real Estate | Mumbai +22 other locations
+417,Straive,3.4,1.7k,9k,Analytics & KPO | Singapore +24 other locations
+418,Hero FinCorp,4.1,1.7k,5.1k,NBFC | Delhi +342 other locations
+419,Bureau Veritas,4.0,1.7k,7.5k,Logistics | Paris La Défense +117 other locations
+420,Kia Motors,3.9,1.7k,7.3k,Automobile | Seoul +151 other locations
+421,Alldigi Tech,3.9,1.7k,6.8k,BPO | Irving +29 other locations
+422,Force Motors,3.6,1.6k,7.9k,Automobile | Pune +86 other locations
+423,Optum Global Solutions,4.1,1.6k,9.7k,IT Services & Consulting | Gurgaon / Gurugram +14 other locations
+424,Varroc Group,3.7,1.6k,6.5k,Auto Components | Aurangabad +37 other locations
+425,Xoriant,4.0,1.7k,11.4k,IT Services & Consulting | Sunnyvale +21 other locations
+426,American Broadcasting Company,4.0,1.6k,28.6k,Indi +99 other locations
+427,Poonawalla Fincorp,3.8,1.6k,5.1k,NBFC | Mumbai +247 other locations
+428,CAMS,3.7,1.6k,7.4k,Financial Services | Chennai +92 other locations
+429,Bank of Baroda,3.6,1.6k,6.5k,Banking | Vadodara/Baroda +260 other locations
+430,Laurus Labs,4.2,1.6k,6.8k,Pharma | Hyderabad/Secunderabad +20 other locations
+431,Dhani Loans and Services,3.8,1.6k,5.2k,NBFC | New Delhi +179 other locations
+432,Delphi TVS,4.0,1.6k,5.6k,Auto Components | Kanchipuram +42 other locations
+433,Microsoft Corporation,4.1,1.6k,24.4k,Software Product | Sunnyvale +40 other locations
+434,ITC Hotels,4.1,1.6k,5.4k,Kolkata +77 other locations
+435,Cargill,4.1,1.6k,7.5k,Food Processing | Wayzata +98 other locations
+436,Brakes India,4.0,1.6k,6.6k,Auto Components | Chennai +79 other locations
+437,Meesho,3.7,1.6k,7.3k,Internet | Bengaluru/Bangalore +100 other locations
+438,Niva Bupa Health Insurance Company,3.7,1.6k,7.1k,Insurance | Delhi/NCR +202 other locations
+439,ValueLabs,3.8,1.6k,15.5k,IT Services & Consulting | Hyderabad / Secunderabad +16 other locations
+440,Coromandel International,4.1,1.6k,6.9k,Agro Chemicals | Hyderabad/Secunderabad +153 other locations
+441,SAP,4.2,1.6k,15.3k,Software Product | Walldorf +46 other locations
+442,Adani Wilmar,4.2,1.6k,6.2k,FMCG | Ahmedabad +161 other locations
+443,Renault Nissan Technology & Business Centre India,3.8,1.6k,13.6k,Automobile | Chennai +15 other locations
+444,KENT RO Systems,4.0,1.6k,4.5k,Consumer Electronics & Appliances | Noida +136 other locations
+445,Tata Motors Finance,4.1,1.6k,4.6k,NBFC | Mumbai +233 other locations
+446,Future Generali India Life Insurance,3.7,1.6k,6.6k,Insurance | Mumbai +174 other locations
+447,Apollo Pharmacy,3.9,1.6k,5.6k,Chennai +221 other locations
+448,Sify Technologies,3.9,1.6k,9.5k,IT Services & Consulting | Chennai +111 other locations
+449,TCE,3.8,1.6k,7.9k,Engineering & Construction | Mumbai +112 other locations
+450,Sterling & Wilson,4.1,1.5k,7.7k,Engineering & Construction | Mumbai +102 other locations
+451,Allstate,3.9,1.5k,11.1k,Insurance | Bangalore/Bengaluru +9 other locations
+452,Star Union Dai-ichi Life Insurance,3.9,1.5k,4.8k,Insurance | Navi Mumbai +248 other locations
+453,CitiusTech,3.4,1.5k,13.1k,IT Services & Consulting | New Jersey +16 other locations
+454,JK Tyres,3.7,1.5k,6.6k,Auto Components | New Delhi +131 other locations
+455,Gabriel India,4.2,1.5k,5.6k,Auto Components | Pune +42 other locations
+456,Matrimony.com,4.3,1.5k,4.3k,Internet | Chennai +56 other locations
+457,GAO Tek,4.5,1.5k,194,Electrical Equipment | New York +25 other locations
+458,YASH Technologies,3.8,1.5k,15.9k,IT Services & Consulting | East Moline +24 other locations
+459,SBI General Insurance,3.7,1.5k,6k,Insurance | Mumbai +225 other locations
+460,Tata Advanced Systems,3.8,1.5k,10k,Defence & Aerospace | Hyderabad/Secunderabad +42 other locations
+461,IDBI Bank,3.6,1.5k,5.7k,Banking | Mumbai +292 other locations
+462,SBI Securities,3.8,1.5k,6.1k,Financial Services | Mumbai +243 other locations
+463,Citibank,3.9,1.5k,15.9k,Banking | New York +48 other locations
+464,AECOM,4.3,1.5k,6.3k,Engineering & Construction | Dallas +111 other locations
+465,Aditya Birla Capital,4.0,1.5k,8.1k,Financial Services | Mumbai +216 other locations
+466,Power Mech Projects,3.9,1.5k,6.3k,Engineering & Construction | Hyderabad/Secunderabad +123 other locations
+467,Lucas-TVS,4.0,1.5k,5.8k,Auto Components | Chennai +63 other locations
+468,Spark Minda,3.9,1.5k,6.1k,Auto Components | Noida +60 other locations
+469,Crisil,3.7,1.5k,11.5k,Analytics & KPO | Mumbai +60 other locations
+470,L&T Energy Hydrocarbon,3.9,1.5k,8.2k,Engineering & Construction | Mumbai +73 other locations
+471,Parle Products,4.0,1.5k,3.9k,FMCG | Mumbai +208 other locations
+472,NeoSOFT,4.0,1.5k,9.4k,IT Services & Consulting | Mumbai +20 other locations
+473,Exl India,3.5,1.5k,11.1k,IT Services & Consulting | New Delhi +27 other locations
+474,Kotak Securities,3.7,1.5k,8.8k,Financial Services | Mumbai +122 other locations
+475,Reliance General Insurance,3.8,1.5k,6.8k,Insurance | Mumbai +177 other locations
+476,Novartis,4.1,1.5k,8.7k,Pharma | Switzerland +69 other locations
+477,Thomson Reuters,4.1,1.5k,10.3k,Software Product | Toronto +24 other locations
+478,Hindustan Aeronautics,4.3,1.5k,4.1k,Defence & Aerospace | Bangalore/Bengaluru +47 other locations
+479,Uflex,3.8,1.5k,6.5k,Packaging | Noida +42 other locations
+480,Dr Lal PathLabs,4.2,1.5k,4.3k,Healthcare | Gurgaon/Gurugram +158 other locations
+481,Panasonic Life Solutions India,4.1,1.5k,5.6k,Consumer Electronics & Appliances | Gurgaon / Gurugram +119 other locations
+482,Vedantu,3.4,1.5k,9.2k,EdTech | Bangalore +60 other locations
+483,Sagility,3.9,1.5k,7k,BPO | Westminster +21 other locations
+484,Tata Teleservices,4.1,1.5k,4.1k,Telecom | Mumbai +135 other locations
+485,Taurus BPO Services,4.6,1.5k,802,BPO | Pune +14 other locations
+486,Saint-Gobain,4.0,1.5k,9.6k,Engineering & Construction | Paris +94 other locations
+487,HCL Infosystems,4.0,1.5k,8.9k,IT Services & Consulting | Noida +104 other locations
+488,Safexpress,4.0,1.5k,5.3k,Logistics | Delhi/NCR +143 other locations
+489,SGS,3.9,1.5k,5.9k,Other | Geneva +117 other locations
+490,Microland,3.5,1.5k,11.1k,IT Services & Consulting | Bangalore +41 other locations
+491,Frankfinn Institute of Air Hostess Training,4.0,1.4k,3.3k,Education & Training | Gurgaon/Gurugram +60 other locations
+492,Biological E,4.3,1.4k,6.4k,Pharma | Hyderabad/Secunderabad +55 other locations
+493,café Coffee day,3.8,1.4k,4.1k,Hospitality | Bengaluru +96 other locations
+494,Philips,3.9,1.4k,10.4k,Consumer Electronics & Appliances | Amsterdam +84 other locations
+495,Paisabazaar.com,3.5,1.4k,6.5k,Internet | Gurgaon/Gurugram +23 other locations
+496,TVS Sundram Fasteners,3.8,1.4k,6.6k,Auto Components | Chennai +48 other locations
+497,Mercedes-Benz Research and Development India,3.9,1.4k,16.1k,IT Services & Consulting | Bengaluru/Bangalore +46 other locations
+498,SS&C TECHNOLOGIES,3.4,1.4k,12.4k,IT Services & Consulting | Windsor Locks +27 other locations
+499,Physicswallah,3.8,1.4k,4.9k,EdTech | Noida +84 other locations
+500,Honeywell Automation,3.8,1.4k,11.1k,Industrial Automation | Morris Plains +68 other locations
+501,Henry Harvin Education,3.7,1.4k,713,Noida +25 other locations
+502,G R Infraprojects,4.1,1.4k,5.1k,Engineering & Construction | Gurgaon/Gurugram +139 other locations
+503,Narayana Health,4.2,1.4k,5.6k,Healthcare | Bangalore/Bengaluru +59 other locations
+504,NEC,4.4,1.4k,5.6k,IT Services & Consulting | Noida +48 other locations
+505,NCR Corporation,4.0,1.4k,8.8k,IT Services & Consulting | Atlanta +84 other locations
+506,Aragen Life Sciences,4.1,1.4k,6k,Clinical Research | Hyderabad/Secunderabad +20 other locations
+507,Honda Cars,4.4,1.4k,6.4k,Automobile | Datia +100 other locations
+508,Ola Electric Mobility,3.2,1.4k,7.3k,Automobile | Bangalore +204 other locations
+509,Fusion CX,3.5,1.4k,4.1k,Ohio +45 other locations
+510,Nuvoco Vistas,4.2,1.4k,6.1k,Building Material | Mumbai +157 other locations
+511,Team Computers,3.7,1.4k,7.9k,IT Services & Consulting | Delhi/NCR +87 other locations
+512,Indian Navy,4.6,1.4k,3.5k,Defence & Aerospace | Delhi/NCR +61 other locations
+513,BA Continuum,4.2,1.4k,10.7k,NBFC | Gurgaon/Gurugram +16 other locations
+514,Morgan Stanley,3.7,1.4k,21.1k,Financial Services | New York +17 other locations
+515,Medi Assist India,3.6,1.4k,6.9k,Insurance | Bangalore +56 other locations
+516,MetLife,4.3,1.4k,8.1k,Insurance | New York +39 other locations
+517,AXA Business Services,3.9,1.4k,7.1k,Insurance | Paris +9 other locations
+518,FirstCry,3.7,1.4k,7.8k,Internet | Pune +160 other locations
+519,Tata Play,4.0,1.4k,4.8k,Broadcasting | Mumbai +203 other locations
+520,R.R. Donnelley,4.0,1.4k,9.5k,Marketing & Advertising | Chicago +13 other locations
+521,Adani Group,3.9,1.4k,8.9k,Power | Ahmedabad +140 other locations
+522,CMS Infosystems,3.6,1.4k,4.4k,Other | Mumbai +176 other locations
+523,Tata Power,3.9,1.4k,7.1k,Power | Mumbai +128 other locations
+524,Angel One,3.9,1.4k,7.1k,FinTech | Tikamgarh +115 other locations
+525,Honda,4.2,1.4k,4.9k,Automobile | Greater Noida +203 other locations
+526,BNP Paribas,3.9,1.4k,14.5k,Financial Services | Paris +24 other locations
+527,Torrent Power,3.8,1.4k,7k,Power | Ahmedabad +43 other locations
+528,Daikin,4.2,1.4k,6.5k,Consumer Electronics & Appliances | Osaka City +96 other locations
+529,Adecco Group,3.7,1.4k,6.5k,Zurich +141 other locations
+530,TaskUs,3.4,1.4k,6.5k,BPO | New Braunfels +24 other locations
+531,Chegg,4.1,1.4k,3.6k,EdTech | Santa Clara +61 other locations
+532,Innovsource Services,4.0,1.4k,4.4k,Recruitment | Mumbai +207 other locations
+533,Metro Cash & Carry,4.2,1.4k,4.9k,Retail | Bangalore/Bengaluru +82 other locations
+534,Globiva,3.2,1.4k,4.5k,BPO | Gurgaon/Gurugram +20 other locations
+535,Amazon Transportation Services,4.1,1.4k,4.5k,Logistics | Seattle +130 other locations
+536,PI Industries,4.1,1.4k,6.5k,Gurgaon/Gurugram +92 other locations
+537,PHN Technology,4.6,1.4k,286,Hyderabad / Secunderabad +30 other locations
+538,Iris Software,4.1,1.4k,7k,IT Services & Consulting | Edison +18 other locations
+539,UBS,3.8,1.4k,14.9k,Financial Services | Zurich +17 other locations
+540,USV,4.1,1.4k,5.3k,Mumbai +95 other locations
+541,Reckitt Benckiser,4.0,1.4k,6k,FMCG | Slough +114 other locations
+542,DHL Supply Chain,4.2,1.4k,5.5k,Logistics | Bonn +79 other locations
+543,NTPC,4.2,1.4k,3.9k,Power | Delhi/NCR +103 other locations
+544,Haier Appliances India,4.0,1.4k,6.2k,Consumer Electronics & Appliances | Qingdao +114 other locations
+545,HERE Technologies,3.9,1.3k,7.6k,IT Services & Consulting | Eindhoven +14 other locations
+546,CMA CGM,4.0,1.3k,8.2k,Ports & Shipping | Marseille +25 other locations
+547,Procter & Gamble,4.2,1.3k,5.8k,FMCG | Cincinnati +221 other locations
+548,Wockhardt,3.9,1.3k,4.4k,Pharma | Mumbai +78 other locations
+549,Motherson Automotive Technologies and Engineering,3.9,1.3k,6.7k,Auto Components | Noida +56 other locations
+550,USHA International,4.1,1.3k,4.7k,Consumer Electronics & Appliances | Gurgaon/Gurugram +120 other locations
+551,XL Dynamics,3.2,1.3k,3.9k,IT Services & Consulting | Navi Mumbai +28 other locations
+552,Credit Suisse,4.3,1.3k,15.9k,Financial Services | Zurich +11 other locations
+553,Tata Communications Transformation Services,4.0,1.3k,8.4k,Telecom | Mumbai +86 other locations
+554,KONE,4.2,1.3k,5.4k,Industrial Machinery | Chennai +66 other locations
+555,Jindal Saw,4.0,1.3k,5.8k,Iron & Steel | Delhi/NCR +64 other locations
+556,Yamaha Motor,4.1,1.3k,5.6k,Automobile | Iwata +133 other locations
+557,Altruist Technologies,3.2,1.3k,7.2k,BPO | Chandigarh +36 other locations
+558,Cavinkare,4.0,1.3k,5k,FMCG | Chennai +154 other locations
+559,FactSet,4.0,1.3k,9.5k,Financial Services | Norwalk +16 other locations
+560,Aadhar Housing Finance,4.1,1.3k,4k,Financial Services | Mumbai +270 other locations
+561,Trident Group,3.4,1.3k,5.2k,Fashion & Textile | Ludhiana +48 other locations
+562,Verizon,4.2,1.3k,10.8k,Telecom | Basking Ridge +9 other locations
+563,DIVI'S Laboratories,3.8,1.3k,6.2k,Pharma | Hyderabad/Secunderabad +25 other locations
+564,Johnson & Johnson,4.1,1.3k,5.9k,New Brunswick +149 other locations
+565,DHL Express,4.1,1.3k,6k,Logistics | Bonn +85 other locations
+566,HTC Global Services,3.6,1.3k,11.6k,IT Services & Consulting | Troy +26 other locations
+567,Infinite Computer Solutions,3.3,1.3k,12.4k,IT Services & Consulting | Rockville  +30 other locations
+568,BT Global Services,4.1,1.3k,8.9k,IT Services & Consulting | London +10 other locations
+569,V-Guard Industries,4.3,1.3k,3.8k,Consumer Electronics & Appliances | Kochi/Cochin +138 other locations
+570,Exela Technologies,3.4,1.3k,7.6k,IT Services & Consulting | Irving +19 other locations
+571,Tata Group,4.2,1.3k,5.9k,IT Services & Consulting | Mumbai +160 other locations
+572,First American Corporation,3.8,1.3k,8.3k,Insurance | Santa Ana +15 other locations
+573,Arvind Group,4.0,1.3k,5.4k,Fashion & Textile | Ahmedabad +82 other locations
+574,Big Bazaar,4.3,1.3k,3.6k,Retail | Mumbai +156 other locations
+575,Isgec Heavy Engineering,3.8,1.3k,6.5k,Industrial Machinery | Noida +72 other locations
+576,Mother Dairy Fruit & Vegetable,4.1,1.3k,4.8k,Food Processing | Noida +116 other locations
+577,Honeywell Technology Solutions,3.8,1.3k,12.4k,Defence & Aerospace | Bangalore/Bengaluru +19 other locations
+578,Sheenlac Paints,4.6,1.3k,1.6k,Chemicals | Chennai +157 other locations
+579,Oracle Cerner,3.7,1.3k,11.2k,Software Product | Kansas +5 other locations
+580,Hindustan Petroleum,4.2,1.3k,5.4k,Oil & Gas | Mumbai +210 other locations
+581,Trent,4.1,1.3k,4k,Retail | Mumbai +116 other locations
+582,Orange Business,4.3,1.3k,8.9k,IT Services & Consulting | Paris +46 other locations
+583,Dainik Bhaskar Group,4.3,1.3k,4.5k,Printing & Publishing | Bhopal +132 other locations
+584,HighRadius,2.9,1.3k,7.2k,FinTech | Houston +13 other locations
+585,Polycab Wires,4.1,1.3k,6k,Electrical Equipment | Mumbai +130 other locations
+586,Manipal Hospitals,4.2,1.3k,5.5k,Healthcare | Bangalore/Bengaluru +59 other locations
+587,HDFC Securities,3.6,1.3k,5.4k,Mumbai +164 other locations
+588,Bata,3.7,1.3k,3.8k,Fashion & Textile | Lausanne +127 other locations
+589,Foxconn,4.0,1.3k,7.4k,Electronics Manufacturing | Taipei +45 other locations
+590,EPAM Systems,3.7,1.3k,14.3k,IT Services & Consulting | Newtown +21 other locations
+591,Spinny,3.8,1.3k,6k,Internet | Gurgaon +45 other locations
+592,Relaxo Footwear,4.2,1.3k,4.1k,Fashion & Textile | New Delhi +133 other locations
+593,Medanta the Medicity,4.1,1.3k,4.6k,Gurgaon +34 other locations
+594,Vardhman Fabrics,4.0,1.2k,5.1k,Fashion & Textile | Ludhiana +50 other locations
+595,Max Fashion,4.1,1.2k,3.5k,Retail | Abu Dhabi +136 other locations
+596,IDC Technologies,3.3,1.2k,7.6k,IT Services & Consulting | Milpitas +60 other locations
+597,Newgen Software Technologies,3.6,1.2k,10.7k,IT Services & Consulting | New Delhi +26 other locations
+598,Security and Intelligence Services (India),4.2,1.2k,4.2k,Law Enforcement & Security | Delhi/NCR +166 other locations
+599,Oberoi Group of Hotels,4.2,1.2k,4.1k,Hospitality | Delhi/NCR +31 other locations
+600,Emami,4.0,1.2k,5k,FMCG | Kolkata +153 other locations
+601,Shadowfax Technologies,3.6,1.2k,5.7k,Logistics | Bangalore +172 other locations
+602,Jio Platforms,3.5,1.2k,9.5k,IT Services & Consulting | Meerut +76 other locations
+603,Tesco,3.8,1.2k,8.1k,Retail | Bangalore Rural +14 other locations
+604,Mercer,3.7,1.2k,9.4k,Management Consulting | New York +16 other locations
+605,iOPEX Technologies,3.6,1.2k,5k,IT Services & Consulting | San Jose +15 other locations
+606,Veritas Finance,4.7,1.2k,1.9k,NBFC | Chennai +261 other locations
+607,AkzoNobel,4.2,1.2k,4k,Chemicals | Amsterdam +134 other locations
+608,NextComm Corporation,4.9,1.2k,33,Ahmedabad +9 other locations
+609,Hyatt Regency,4.2,1.2k,3.4k,Hospitality | New Delhi +45 other locations
+610,NIIT,3.6,1.2k,6.3k,Education & Training | Mumbai Suburban +97 other locations
+611,CG Power and Industrial Solutions,3.9,1.2k,6.2k,Electrical Equipment | Mumbai +81 other locations
+612,TCS iON,3.9,1.2k,4.8k,IT Services & Consulting | Mumbai +102 other locations
+613,Belrise Industries,3.8,1.2k,6.2k,Auto Components | Aurangabad +41 other locations
+614,Bajaj Capital,3.9,1.2k,3.7k,Financial Services | Delhi/NCR +148 other locations
+615,ICICI Home Finance,3.7,1.2k,4.5k,Financial Services | Mumbai +190 other locations
+616,Marriott International,4.3,1.2k,4.9k,Hospitality | Bethesda +79 other locations
+617,Aforeserve,3.4,1.2k,3.8k,IT Services & Consulting | Noida +149 other locations
+618,L.G.Balakrishnan & Bros,3.6,1.2k,5.6k,Auto Components | Coimbatore +45 other locations
+619,KFC,4.1,1.2k,3k,Louisville +150 other locations
+620,Marico,4.0,1.2k,5.3k,FMCG | Mumbai +155 other locations
+621,Aye Finance,4.2,1.2k,3k,FinTech | Delhi +271 other locations
+622,Toyota Kirloskar Motor,4.4,1.2k,4k,Automobile | Bangalore/Bengaluru +77 other locations
+623,Wipro Enterprises Ltd,3.9,1.2k,7.2k,FMCG | Bangalore +102 other locations
+624,Bhushan Power & Steel,4.0,1.2k,4.5k,Iron & Steel | Delhi/NCR +52 other locations
+625,Hero Motors Company,4.1,1.2k,5.7k,Automobile | New Delhi +203 other locations
+626,Suguna Foods,4.0,1.2k,4k,Food Processing | Coimbatore +169 other locations
+627,Aon,3.8,1.2k,5.6k,Financial Services | London +20 other locations
+628,LivSpace,3.6,1.2k,7.1k,Architecture & Interior Design | Bangalore +42 other locations
+629,Faurecia,3.9,1.2k,6.5k,Auto Components | Nanterre +28 other locations
+630,Pine Labs,3.5,1.2k,6.2k,Financial Services | Noida +89 other locations
+631,Exotic Learning,4.5,1.2k,378,EdTech | Lucknow +141 other locations
+632,Welspun,4.1,1.2k,4.7k,Fashion & Textile | Mumbai +69 other locations
+633,Chandigarh University,4.4,1.2k,2.4k,Mohali +45 other locations
+634,Aditya Birla Health Insurance Co,3.9,1.2k,6k,Insurance | Mumbai +212 other locations
+635,Haldiram Foods,3.8,1.2k,5.4k,FMCG | Noida +122 other locations
+636,TTEC India,3.7,1.2k,4.5k,BPO | Englewood +25 other locations
+637,Tietoevry,4.3,1.2k,9.3k,IT Services & Consulting | Helsinki +11 other locations
+638,JioMart,3.9,1.2k,3.9k,Gwalior +271 other locations
+639,Oracle Financial Services Software,3.6,1.2k,12.2k,Software Product | Mumbai +18 other locations
+640,Muthoot Group,3.6,1.2k,4k,Financial Services | Wedel +274 other locations
+641,Krishna Maruti,4.0,1.2k,4.9k,Auto Components | Gurgaon/Gurugram +37 other locations
+642,Sigma Electric Manufacturing Corporation,4.0,1.2k,3.6k,Industrial Machinery | Garner +19 other locations
+643,Cushman & Wakefield,4.2,1.2k,5.5k,Real Estate | Chicago +39 other locations
+644,AB InBev India,3.4,1.2k,7.1k,Beverage | Leuven +67 other locations
+645,FedEx Express,4.0,1.2k,4.3k,Logistics | 	Moon Township +91 other locations
+646,Collabera Technologies,3.5,1.2k,7.9k,IT Services & Consulting | Basking Ridge +44 other locations
+647,Satin Creditcare Network,4.0,1.1k,3.2k,NBFC | Gurgaon/Gurugram +247 other locations
+648,IFB,3.7,1.1k,5k,Consumer Electronics & Appliances | Kolkata +143 other locations
+649,Dell EMC,4.1,1.1k,10.9k,IT Services & Consulting | Hopkinton +52 other locations
+650,Health Care Global Enterprises,4.2,1.1k,2.6k,Healthcare | Bangalore/Bengaluru +44 other locations
+651,Sony,4.3,1.1k,4.5k,Consumer Electronics & Appliances | Delhi/NCR +126 other locations
+652,ISS Facility Services,4.2,1.1k,3.9k,Facility Management Services | Copenhagen +58 other locations
+653,Daimler India Commercial Vehicles,4.1,1.1k,6.5k,Automobile | Chennai +40 other locations
+654,Redcliffe Labs,4.4,1.1k,1.5k,Healthcare | Noida +80 other locations
+655,Granules India,3.9,1.1k,5.6k,Pharma | Hyderabad/Secunderabad +15 other locations
+656,Narayana Educational Society,3.7,1.1k,4.2k,Education & Training | Hyderabad/Secunderabad +133 other locations
+657,Paytm Payments Bank,3.9,1.1k,6.2k,Banking | Noida +115 other locations
+658,Broadridge Financial Solutions,4.0,1.1k,10.2k,FinTech | New York City +10 other locations
+659,GMR Group,4.1,1.1k,4.5k,Engineering & Construction | Delhi/NCR +58 other locations
+660,Xyz Company,3.8,1.1k,29.9k,Financial Services | Doha +94 other locations
+661,K12 Techno Services,2.9,1.1k,4.6k,EdTech | Bangalore/Bengaluru +35 other locations
+662,Piramal Group,3.9,1.1k,4.6k,Pharma | Mumbai +125 other locations
+663,Caterpillar Inc,4.3,1.1k,8.8k,Industrial Machinery | Deerfield +35 other locations
+664,Gland Pharma,3.8,1.1k,5.9k,Pharma | Hyderabad +28 other locations
+665,Goldman Sachs,3.6,1.1k,16.5k,New York +21 other locations
+666,Annapurna Finance,4.1,1.1k,3.4k,NBFC | Bhubaneswar +296 other locations
+667,GE Vernova,4.1,1.1k,4.6k,Power | Nakhatrana +77 other locations
+668,Jindal X,3.4,1.1k,2.9k,BPO | New Delhi +19 other locations
+669,Supreme Industries,4.1,1.1k,5.2k,Petrochemicals | Mumbai +97 other locations
+670,Nayara Energy,4.2,1.1k,5.6k,Petrochemicals | Mumbai +79 other locations
+671,Sanofi,4.3,1.1k,4.3k,Pharma | Paris +78 other locations
+672,Evalueserve,3.3,1.1k,9.8k,IT Services & Consulting | Switzerland +13 other locations
+673,Godrej Industries Group,4.0,1.1k,2.9k,Chemicals | Mumbai +127 other locations
+674,NSE.IT,3.6,1.1k,6.2k,IT Services & Consulting | Mumbai +144 other locations
+675,J. Kumar Infraprojects,4.1,1.1k,4.5k,Engineering & Construction | Mumbai +33 other locations
+676,Xiaomi,3.9,1.1k,5.6k,Consumer Electronics & Appliances | Haidian District +186 other locations
+677,FastInfo,4.4,1.1k,754,Kolkata +9 other locations
+678,Compass Group Support Services,4.1,1.1k,5k,Facility Management Services | London +64 other locations
+679,Gujarat Fluorochemicals,4.0,1.1k,5.8k,Chemicals | Noida +25 other locations
+680,Pantaloons,4.2,1.1k,2.9k,Fashion & Textile | Mumbai +144 other locations
+681,Canara Bank,3.4,1.1k,3.7k,Banking | Bangalore/Bengaluru +177 other locations
+682,CorroHealth,3.3,1.1k,5.2k,Analytics & KPO | Rajapalayam +22 other locations
+683,Tanishq,4.4,1.1k,2.8k,Bangalore/Bengaluru +202 other locations
+684,Ashoka Buildcon,4.1,1.1k,4k,Engineering & Construction | Nasik/Nashik +137 other locations
+685,ITD Cementation India,4.3,1.1k,4k,Engineering & Construction | Mumbai +74 other locations
+686,Sysnet Global Technologies,3.6,1.1k,3.9k,IT Services & Consulting | Delhi/NCR +118 other locations
+687,Heritage Foods,4.1,1.1k,3.6k,Food Processing | Hyderabad/Secunderabad +102 other locations
+688,Spicejet,3.6,1.1k,5.4k,Aviation | Gurgaon/Gurugram +59 other locations
+689,VLCC,3.6,1.1k,3.3k,Beauty & Personal Care | Delhi/NCR +101 other locations
+690,Asahi India Glass,3.9,1.1k,4.7k,Auto Components | Gurgaon/Gurugram +65 other locations
+691,CSB Bank,3.2,1.1k,5.9k,Banking | Thrissur/Trichur +171 other locations
+692,GE,4.3,1.1k,7.8k,Defence & Aerospace | Boston +65 other locations
+693,Lumax Industries,4.0,1.1k,5.3k,Auto Components | Pune +31 other locations
+694,Bharat FIH,4.0,1.1k,5.5k,Electronics Manufacturing | Kancheepuram +33 other locations
+695,AtkinsRealis,4.0,1.1k,5k,Engineering & Construction | Montreal +54 other locations
+696,Lavender Technology,5.0,1.1k,15,IT Services & Consulting | USA +5 other locations
+697,Amul India,4.1,1.1k,3.1k,Food Processing | Anand +176 other locations
+698,Amity University,3.6,1.1k,5k,Education & Training | Noida +78 other locations
+699,Devyani International,3.9,1.1k,3.2k,Hospitality | Gurugram +101 other locations
+700,Fabindia,3.9,1.1k,4.3k,Fashion & Textile | Delhi/NCR +81 other locations
+701,Panasonic,4.1,1.1k,5.4k,Consumer Electronics & Appliances | Kadoma +112 other locations
+702,Valeo,4.0,1.1k,7.6k,Auto Components | Paris +19 other locations
+703,Godrej Properties,3.7,1.1k,6.6k,Real Estate | Mumbai +27 other locations
+704,Tata 1mg,3.7,1.1k,5.5k,Internet | Gurgaon +54 other locations
+705,Unisys,3.8,1.1k,10.1k,IT Services & Consulting | Blue Bell +15 other locations
+706,Hindustan Construction Company,4.2,1.1k,3.6k,Engineering & Construction | Mumbai +82 other locations
+707,Bharat Forge,3.8,1.1k,5.7k,Auto Components | Pune +24 other locations
+708,Tekwissen,4.9,1.1k,449,IT Services & Consulting | Visakhapatnam +5 other locations
+709,SRL Diagnostics,4.1,1.1k,3.4k,Healthcare | Mumbai +120 other locations
+710,VMware Software,4.4,1.1k,10.6k,Software Product | Palo Alto +18 other locations
+711,Aptara,3.3,1.1k,6.1k,Content Development | Falls Church +11 other locations
+712,CIE Automotive,3.7,1.1k,4.6k,Auto Components | Medak +42 other locations
+713,Infinx,3.7,1.1k,4.5k,Software Product | Mumbai +29 other locations
+714,Inox Leisure,4.1,--,--,Media & Entertainment | Mumbai +86 other locations
+715,Capri Global Capital,3.6,1.1k,3.4k,NBFC | Mumbai +240 other locations
+716,Bisleri,4.2,1.1k,3.9k,Beverage | Mumbai +140 other locations
+717,MiraMed Ajuba,4.0,1.1k,4.4k,BPO | Chennai +17 other locations
+718,Indoco Remedies,3.6,1.1k,5.3k,Pharma | Mumbai +73 other locations
+719,TELUS International Philippines,3.8,1.1k,7.8k,IT Services & Consulting | Vancouver +15 other locations
+720,Hitachi Astemo,4.1,1.1k,5k,Auto Components | Greater Noida +36 other locations
+721,QualityKiosk Technologies,3.5,1.1k,9.9k,IT Services & Consulting | Mumbai +17 other locations
+722,Sharekhan,4.0,1.1k,4.9k,Financial Services | Mumbai +110 other locations
+723,Unichem Laboratories,3.9,1.1k,5k,Pharma | Mumbai +69 other locations
+724,Jakson Group,4.4,1.1k,3.5k,Power | Noida +88 other locations
+725,Barclays Shared Services,3.9,1.1k,5.8k,IT Services & Consulting | London +14 other locations
+726,Pristyn Care,3.9,1.1k,3.9k,Healthcare | Delhi +29 other locations
+727,Provana,4.0,1.1k,3.3k,IT Services & Consulting | Lisle +7 other locations
+728,Clover Infotech,3.6,1.1k,10.4k,IT Services & Consulting | Mumbai +17 other locations
+729,Indegene,3.5,1.1k,8.2k,Analytics & KPO | Princeton +24 other locations
+730,Suryoday Small Finance Bank,4.0,1.1k,4.2k,Banking | Mumbai +172 other locations
+731,ZF Commercial Vehicle Control Systems,3.9,1.1k,2.6k,Auto Components | Bhopal +34 other locations
+732,Vfs Global Services,3.7,1k,4k,IT Services & Consulting | Mumbai +28 other locations
+733,Jet Airways,4.6,1k,3.3k,Aviation | Mumbai +43 other locations
+734,Steel Strips Wheels,3.7,1k,5.3k,Auto Components | Chandigarh +35 other locations
+735,Ocwen Financial Solutions,4.0,1k,5.1k,Financial Services | West Palm Beach +7 other locations
+736,Schindler,4.0,1k,4.5k,Industrial Machinery | Coimbatore +62 other locations
+737,Wheelseye Technology,3.7,1k,3.1k,Internet | Gurgaon +190 other locations
+738,Synchrony,4.4,1k,5.1k,Financial Services | Stamford +9 other locations
+739,Infogain,3.6,1k,10.8k,IT Services & Consulting | Los Gatos +17 other locations
+740,Kantar,3.5,1k,6.3k,Analytics & KPO | London +33 other locations
+741,SAI Life Sciences,3.9,1k,5.2k,Clinical Research | Hyderabad +18 other locations
+742,Edelweiss,3.8,1k,7.3k,Financial Services | Mumbai +109 other locations
+743,Cinépolis,4.0,1k,2.9k,Media & Entertainment | Morelia +56 other locations
+744,Burger King,3.9,1k,3.3k,Hospitality | Miami +97 other locations
+745,Dixon Technologies,4.1,1k,5k,Electronics Manufacturing | Noida +34 other locations
+746,IndiaFirst Life Insurance,3.9,1k,3.4k,Insurance | Mumbai +193 other locations
+747,EOSGlobe,3.1,1k,3.6k,Thane +17 other locations
+748,FOCUS EDUMATICS,3.3,1k,2.8k,EdTech | Bangalore/Bengaluru +19 other locations
+749,Tata AutoComp Systems,3.9,1k,5.6k,Auto Components | Pune +36 other locations
+750,Amara Raja Energy & Mobility,4.2,1k,3.7k,Auto Components | Tadepalligudem +74 other locations
+751,Fino Payments Bank,3.9,1k,4k,Banking | Mumbai +225 other locations
+752,FDC,4.0,1k,3.5k,Pharma | Mumbai +103 other locations
+753,ReNew,4.2,1k,5k,Power | Gurugram +87 other locations
+754,Iffco Tokio General Insurance Co.,4.0,1k,3.9k,Insurance | Gurgaon/Gurugram +238 other locations
+755,Northern Trust Operating Services,4.0,1k,7.1k,Financial Services | Chicago +16 other locations
+756,Patanjali Foods,3.9,1k,3.3k,FMCG | Mumbai +165 other locations
+757,Morningstar,3.9,1k,8.2k,Financial Services | Chicago +16 other locations
+758,BVG India,4.0,1k,3.7k,Facility Management Services | Pune +97 other locations
+759,IIFL SAMASTA,4.0,1k,2.6k,NBFC | Bhiwani +295 other locations
+760,ECIL,4.2,1k,3.4k,Electronics Manufacturing | Hyderabad/Secunderabad +42 other locations
+761,Sansera Engineering,4.2,1k,4.7k,Auto Components | Bangalore/Bengaluru +25 other locations
+762,Apco Infratech,3.8,1k,4k,Engineering & Construction | Lucknow +77 other locations
+763,VIBGYOR Group of Schools,3.7,1k,4k,Mumbai +31 other locations
+764,Continental Automotive Components,4.2,998,8.6k,Auto Components | Lower Saxony +20 other locations
+765,NTT DATA Business Solutions,3.8,996,10k,IT Services & Consulting | Mumbai +26 other locations
+766,Punjab National Bank,4.0,993,2.8k,Banking | Delhi/NCR +184 other locations
+767,Hinduja Leyland Finance,4.0,993,2.5k,NBFC | Chennai +240 other locations
+768,AGS Transact Technologies,3.3,992,4.1k,FinTech | Mumbai +103 other locations
+769,Adobe,4.0,992,10.9k,Software Product | San Jose +15 other locations
+770,DCM Shriram,4.2,990,4.4k,Chemicals | Delhi/NCR +85 other locations
+771,Urban Company,3.5,989,5k,Internet | Gurgaon +51 other locations
+772,SYSKA LED Lights,2.8,988,2.7k,Consumer Electronics & Appliances | Pune +153 other locations
+773,Oil And Natural Gas Corporation,4.3,989,3.4k,Oil & Gas | Delhi/NCR +68 other locations
+774,Jaquar,4.1,988,4.4k,Building Material | Gurgaon +93 other locations
+775,Fidelity National Financial,3.8,986,5.9k,Financial Services | Bangalore Rural +10 other locations
+776,Amneal Pharmaceuticals,4.2,984,5.2k,Bridgewater +27 other locations
+777,Tata Electronics,4.0,981,5.6k,Semiconductors | Mumbai +22 other locations
+778,Atul,3.9,982,4.9k,Chemicals | Valsad +56 other locations
+779,Eaton Corporation,4.0,980,7.1k,Power | Cleveland +21 other locations
+780,SKF,4.1,981,4.4k,Auto Components | Gothenburg +64 other locations
+781,Wistron,3.9,979,5.3k,Electronics Manufacturing | Taipei +22 other locations
+782,Vestas,4.2,979,5k,Power | Aarhus +45 other locations
+783,Amazon Logistics,4.3,979,3.8k,Logistics | Greater Noida +130 other locations
+784,Sonata Software,3.5,977,10.8k,IT Services & Consulting | Bangalore/Bengaluru +11 other locations
+785,PNB Housing Finance,3.8,975,4.1k,NBFC | Delhi/NCR +125 other locations
+786,CreditAccess Grameen,4.3,975,2.5k,NBFC | Bangalore/Bengaluru +277 other locations
+787,Decathlon,3.9,973,3.7k,Retail | Lille +61 other locations
+788,iSON Xperiences,3.4,973,3.2k,Lagos +36 other locations
+789,Slk Software Services,3.4,974,8.7k,IT Services & Consulting | Bangalore/Bengaluru +12 other locations
+790,DENSO,4.2,973,3.7k,Auto Components | Kariya +36 other locations
+791,The Jaypee Group,3.8,971,3.6k,Engineering & Construction | Noida +99 other locations
+792,Best Sellers,4.2,970,3.1k,Fashion & Textile | Brande +85 other locations
+793,Intel,4.3,969,8.2k,Semiconductors | Santa Clara +32 other locations
+794,Worley,4.1,969,6.4k,Engineering & Construction | North Sydney +49 other locations
+795,Fresenius Kabi,4.2,968,4.4k,Pharma | Bad Homburg +59 other locations
+796,TE Connectivity,4.2,968,6.3k,Electronics Manufacturing | Schaffhausen +15 other locations
+797,ManpowerGroup,3.9,966,4.9k,New Delhi +121 other locations
+798,R Systems International,3.4,966,7.1k,Software Product | El Dorado Hills +17 other locations
+799,ANZ Banking Group,4.1,962,7.5k,Financial Services | Melbourne +17 other locations
+800,DISH TV,3.5,961,3.4k,Broadcasting | Noida +143 other locations
+801,ANZ Banking Group,4.1,962,7.5k,Financial Services | Melbourne +17 other locations
+802,TUV SUD,3.9,959,3.7k,Munich +102 other locations
+803,GEP Worldwide,3.7,958,7.7k,IT Services & Consulting | Clark +11 other locations
+804,Shriram Life Insurance,3.7,957,3.8k,Insurance | Hyderabad/Secunderabad +245 other locations
+805,Bajaj Housing Finance,3.8,957,5.2k,NBFC | Pune +136 other locations
+806,Luminous Power Technologies,4.2,960,3.4k,Consumer Electronics & Appliances | Gurgaon/Gurugram +113 other locations
+807,Sunknowledge Services,3.9,955,2.9k,BPO | New York +11 other locations
+808,OpenText Technologies,3.8,956,10k,Software Product | Waterloo +10 other locations
+809,Saipem,4.1,954,3.2k,Engineering & Construction | San Donato Milanese +39 other locations
+810,Tenneco,3.8,954,4.8k,Auto Components | Lake Forest +37 other locations
+811,Apexon,3.3,956,8.5k,IT Services & Consulting | Santa Clara +16 other locations
+812,Altimetrik,3.8,952,9.5k,IT Services & Consulting | Southfield +11 other locations
+813,V5 Global Services,3.9,952,3.1k,Delhi/NCR +173 other locations
+814,Baazar Retail Private Limited,4.7,952,1.1k,Retail | Kolkata +91 other locations
+815,Acuity Knowledge Partners,3.4,949,9.1k,Analytics & KPO | London +13 other locations
+816,iMerit,3.6,949,4.5k,IT Services & Consulting | Kolkata +12 other locations
+817,AIIMS,4.2,945,4.4k,Healthcare | Delhi/NCR +57 other locations
+818,JSW Cement,4.1,945,3.9k,Building Material | Mumbai +113 other locations
+819,Chetu,3.2,948,7.5k,Software Product | Sunrise +10 other locations
+820,Happiest Minds Technologies,3.8,944,10.1k,IT Services & Consulting | Bangalore / Bengaluru +14 other locations
+821,Medhaj Techno Concept,4.2,944,2.1k,Other | Lucknow +147 other locations
+822,PharmEasy,3.8,942,4.9k,Internet | Mumbai +56 other locations
+823,Shriram Pistons & Rings,4.1,941,4.5k,Auto Components | Delhi/NCR +53 other locations
+824,Airtel Payments Bank,4.1,941,4.4k,Delhi/NCR +236 other locations
+825,Brillio,3.4,937,9.3k,IT Services & Consulting | Edison +13 other locations
+826,Aditya Birla Finance,3.9,936,5.1k,NBFC | Mumbai +165 other locations
+827,RBL FinServe,4.1,920,3k,Financial Services | Mumbai +299 other locations
+828,Wind World,3.9,918,3.4k,Power | Mumbai +66 other locations
+829,Intertek,3.7,916,3.8k,Other | London +87 other locations
+830,Automotive Manufacturers,4.1,916,5.7k,Automobile | Mumbai +129 other locations
+831,Shubham Housing Development Finance,3.9,916,2.9k,NBFC | Gurgaon +125 other locations
+832,Hatsun Agro Product,4.0,914,4.3k,Food Processing | Chennai +106 other locations
+833,Nippon Paint India,4.0,912,3.8k,Chemicals | Osaka +127 other locations
+834,Aerial Telecom Solutions,4.4,909,2k,Telecom | Mohali +91 other locations
+835,Nykaa,3.5,909,5.5k,Internet | Mumbai +89 other locations
+836,GAIL,4.5,908,3.2k,Oil & Gas | Delhi/NCR +94 other locations
+837,Zoho,4.3,909,7.3k,Software Product | Chennai +28 other locations
+838,Godrej Consumer Products,4.2,908,4.4k,FMCG | Mumbai +117 other locations
+839,ACG Worldwide,4.0,909,3.4k,Pharma | Mumbai +24 other locations
+840,Thyrocare Technologies,3.5,907,4.3k,Healthcare | Mumbai +65 other locations
+841,Kotak Mahindra Prime,4.0,909,4.4k,NBFC | Mumbai +138 other locations
+842,Muthoot Microfin,4.4,906,2.3k,NBFC | Ernakulam +275 other locations
+843,Karur Vysya Bank,3.7,909,3.8k,Banking | Karur +155 other locations
+844,TEKsystems,3.4,909,9.1k,IT Services & Consulting | Hanover +14 other locations
+845,Aircel,4.3,902,1.6k,Telecom | Gurgaon/Gurugram +113 other locations
+846,Piaggio,3.6,902,3.9k,Automobile | Pontedera +74 other locations
+847,Altisource,3.7,902,4.6k,Real Estate | Bangalore/Bengaluru +9 other locations
+848,Coca-Cola Company,4.2,898,3.1k,Beverage | Atlanta +171 other locations
+849,More Supermarket,3.8,897,3.5k,Retail | Mumbai +134 other locations
+850,Qualcomm,3.8,898,11.4k,Semiconductors | San Diego +15 other locations
+851,MedPlus,3.6,896,3.5k,Retail | Hyderabad +94 other locations
+852,Samsung Research,3.2,896,8.4k,Consumer Electronics & Appliances | Seocho-gu +11 other locations
+853,Mu Sigma,2.7,896,6.8k,Analytics & KPO | Northbrook +12 other locations
+854,Ion Exchange India,3.8,896,4.5k,Waste Management | Mumbai +95 other locations
+855,Spencer's Retail,3.8,894,3k,Retail | Kolkata +57 other locations
+856,Sahara India Pariwar,3.8,894,2.6k,Broadcasting | Lucknow +230 other locations
+857,Zydus Wellness,4.2,893,2.5k,FMCG | Ahmedabad +110 other locations
+858,Bajaj Motors,3.9,893,3.4k,Automobile | Gurgaon +67 other locations
+859,Johnson Lifts,4.0,890,3.5k,Chennai +67 other locations
+860,Podar International School,4.2,890,2.9k,Education & Training | Mumbai +113 other locations
+861,Kirloskar Oil Engines,4.2,888,3.8k,Industrial Machinery | Pune +93 other locations
+862,Incedo,3.3,889,8.6k,IT Services & Consulting | Iselin +11 other locations
+863,Nexa,4.0,887,2.5k,Automobile | Delhi/NCR +187 other locations
+864,NielsenIQ,3.9,891,5.9k,IT Services & Consulting | Chicago +37 other locations
+865,Atos Global IT Solutions And Services,4.0,885,7.9k,IT Services & Consulting | Navi Mumbai +17 other locations
+866,PNC Infratech,3.9,885,3.3k,Engineering & Construction | Delhi/NCR +80 other locations
+867,Novo Nordisk,4.1,885,5.3k,Pharma | New York City +64 other locations
+868,Karma Ayurveda,4.5,883,398,Healthcare | Kota +5 other locations
+869,Bharat Sanchar Nigam,4.0,881,2.7k,Telecom | Delhi/NCR +217 other locations
+870,Episource,3.8,880,3.8k,IT Services & Consulting | Gardena +14 other locations
+871,Nielsen,3.7,881,5.6k,Analytics & KPO | New York City +71 other locations
+872,Parexel International,3.9,880,5.6k,Clinical Research | Durham +12 other locations
+873,Fidelity Investments,4.3,878,8k,Financial Services | Boston +17 other locations
+874,H.G. Infra Engineering,4.3,877,2.7k,Engineering & Construction | Jaipur +84 other locations
+875,Jacobs Engineering Group,4.1,877,4.6k,Engineering & Construction | Dallas +38 other locations
+876,PayPal,3.9,876,8.1k,FinTech | San Jose +13 other locations
+877,Pacific BPO,3.4,874,4.3k,Healthcare | Noida +18 other locations
+878,Kinara Capital,4.5,874,2k,NBFC | Bangalore +113 other locations
+879,The Ramco Cements,4.2,874,3.5k,Building Material | Chennai +93 other locations
+880,Aarvee Associates,4.0,875,3k,Engineering & Construction | Hyderabad/Secunderabad +137 other locations
+881,Dhoot Transmission,3.7,874,3.9k,Power | Mumbai +32 other locations
+882,Softenger,4.3,874,2.4k,IT Services & Consulting | Pune +32 other locations
+883,Tata Consumer Products,3.7,873,4.3k,FMCG | Mumbai +173 other locations
+884,Dassault Systemes,4.0,871,6.2k,Software Product | Velizy-villacoublay +10 other locations
+885,Rockman Industries,3.9,869,3.8k,Auto Components | Delhi/NCR +31 other locations
+886,Prodapt,3.6,868,8k,IT Services & Consulting | Chennai +11 other locations
+887,Stanza Living,3.0,867,3.4k,Internet | New Delhi +31 other locations
+888,Edelweiss Tokio Life Insurance,3.7,867,3.7k,Insurance | Mumbai +119 other locations
+889,OM Logistics,3.9,867,3.3k,Delhi/NCR +107 other locations
+890,ZF Steering Gear,3.7,865,6.1k,Auto Components | Pune +23 other locations
+891,JK Lakshmi Cement,3.9,865,3.5k,Building Material | Delhi/NCR +118 other locations
+892,Adani Ports and SEZ,3.9,865,3.9k,Ports & Shipping | Ahmedabad +56 other locations
+893,Siemens Gamesa Renewable Power Private Limited,4.1,864,5k,Power | Chennai +57 other locations
+894,Zf Rane Automotive,4.0,864,3.8k,Auto Components | Bavla +44 other locations
+895,JW Marriott,4.1,863,2.2k,Hospitality | Bethesda +40 other locations
+896,CenturyPly,3.8,862,3.8k,Furniture & Furnishing | Kolkata +108 other locations
+897,Onward Technologies Inc,3.2,859,5.6k,Software Product | Mumbai +62 other locations
+898,Barbeque Nation,4.0,858,2.6k,Hospitality | Bangalore/Bengaluru +71 other locations
+899,Orchids International School,3.0,858,3.5k,Education & Training | Nasik/Nashik +30 other locations
+900,HPCL-Mittal Energy Limited,4.3,859,4.4k,Petrochemicals | Noida +24 other locations
+901,Strides Pharma,4.0,857,4.1k,Pharma | Bangalore/Bengaluru +31 other locations
+902,Viraj Profiles,3.9,857,4.2k,Iron & Steel | Mumbai +21 other locations
+903,Zepto,3.6,857,4k,Internet | Mumbai +35 other locations
+904,Petrofac,4.4,855,2.8k,Oil & Gas | Jermyn Street +39 other locations
+905,Colliers India,4.0,855,4.3k,Real Estate | Vancouver +37 other locations
+906,Tikona Infinet,3.6,854,3k,Telecom | Mumbai +45 other locations
+907,MDIndia Health Insurance TPA,3.8,854,3.5k,Insurance | Pune +77 other locations
+908,SBFC Finance,3.7,852,2.5k,NBFC | Mumbai +169 other locations
+909,Power Grid Corporation of India,4.3,852,2k,Power | Gurgaon/Gurugram +193 other locations
+910,1point1 Solutions,3.4,848,3.1k,BPO | Navi Mumbai +15 other locations
+911,Evision Technoserve,4.8,847,226,Recruitment | Delhi/NCR +63 other locations
+912,Ceasefire Industries,3.2,846,2.6k,Industrial Machinery | New Delhi +72 other locations
+913,Fusion Microfinance,4.1,846,2.5k,NBFC | Delhi +229 other locations
+914,Gannon Dunkerley & Co.,3.8,845,2.2k,Engineering & Construction | Mumbai +71 other locations
+915,TKIL,4.2,842,4.5k,Pune +49 other locations
+916,Air India,3.8,841,4.2k,Aviation | Kinshasa +55 other locations
+917,Adani Green Energy,4.1,841,4.4k,Power | Ahmedabad +81 other locations
+918,Sri Chaitanya Educational Institutions,3.8,840,3k,Education & Training | Hyderabad/Secunderabad +87 other locations
+919,Hyundai Mobis,3.9,841,4.8k,Auto Components | Kanchipuram +42 other locations
+920,Northern Trust,3.8,839,7.7k,Financial Services | Mumbai +14 other locations
+921,Piramal Pharma,4.0,836,4.8k,Pharma | Mumbai +58 other locations
+922,Diageo,4.1,834,5.7k,Beverage | London +86 other locations
+923,Syngenta,4.2,834,3.5k,Agriculture | Basel +148 other locations
+924,Mando Automotive,3.9,830,4.6k,Auto Components | Kanchipuram +18 other locations
+925,Genius Consultants,3.8,831,3.8k,Kolkata +80 other locations
+926,Teva Pharmaceuticals,4.0,830,4.2k,Dublin +38 other locations
+927,CALIBEHR,4.0,827,2.7k,IT Services & Consulting | Mumbai +142 other locations
+928,Caratlane Trading,4.3,826,2.3k,Jewellery | Chennai +65 other locations
+929,Infra.Market,4.1,827,2.6k,Building Material | Thane +79 other locations
+930,Kendriya Vidyalaya Sangathan,4.4,827,1.7k,Education & Training | Delhi/NCR +216 other locations
+931,The Akshaya Patra Foundation,4.6,825,2k,Non-Profit | Bangalore/Bengaluru +67 other locations
+932,ICICI Prudential Mutual Fund,3.8,825,5.1k,Financial Services | New Delhi +141 other locations
+933,V2 Retail,3.4,824,2.3k,Retail | Delhi/NCR +96 other locations
+934,CarDekho,3.7,824,4.7k,Internet | Jaipur +70 other locations
+935,Sundaram Finance,4.2,820,3.1k,NBFC | Chennai +218 other locations
+936,Kirloskar Brothers,4.0,820,4.2k,Industrial Machinery | Pune +59 other locations
+937,BGR Energy Systems,3.8,820,3.8k,Engineering & Construction | Chennai +52 other locations
+938,Jubilant Pharmova,3.9,819,3.8k,Pharma | Noida +54 other locations
+939,XcelServ Solutions,4.5,818,496,IT Services & Consulting | Las Vegas +35 other locations
+940,Rashmi Metaliks,3.5,816,3.9k,Iron & Steel | Kolkata +27 other locations
+941,eClinicalWorks,3.9,818,4.9k,Software Product | Westborough +12 other locations
+942,Tube Investments of India,4.0,818,3.1k,Engineering & Construction | Chennai +57 other locations
+943,TradeIndia (Infocom Network Private Limited),3.4,815,4.5k,Internet | Noida +39 other locations
+944,Nasser S. Al Hajri Corporation,3.5,816,2k,Engineering & Construction | Al Jubail +47 other locations
+945,KIMS Hospital,4.0,815,3.1k,Hyderabad/Secunderabad +43 other locations
+946,Vistaar Finance,4.1,812,2.1k,NBFC | Bengaluru/Bangalore +171 other locations
+947,iQor Global Services,3.6,813,2.6k,BPO | Saint Petersburg +49 other locations
+948,Imperial Auto Industries,3.9,810,4.3k,Auto Components | Faridabad +35 other locations
+949,Hindustan Zinc,3.9,810,4.3k,Metals & Mining | Udaipur +27 other locations
+950,Shalby Hospitals,4.5,810,2k,Healthcare | Ahmedabad +22 other locations
+951,Spandana Sphoorty Financial,3.8,809,2.3k,NBFC | Hyderabad/Secunderabad +244 other locations
+952,JTEKT,4.2,811,3.9k,Auto Components | Osaka +24 other locations
+953,TechnipFMC,4.0,809,5.3k,Industrial Machinery | Paris +41 other locations
+954,Unicharm,4.1,809,2.7k,FMCG | Mita +152 other locations
+955,Serco,4.4,809,1.5k,Analytics & KPO | Hook +39 other locations
+956,Centre for Development of Advanced Computing,3.8,809,5.5k,IT Services & Consulting | Pune +31 other locations
+957,AJIO,3.7,807,2.7k,Internet | Bengaluru +188 other locations
+958,T-Systems ICT India,3.8,806,7.3k,IT Services & Consulting | Frankfurt +12 other locations
+959,Metropolis Healthcare,4.1,804,3.4k,Healthcare | Mumbai +82 other locations
+960,MakeMyTrip,3.7,804,6.6k,Internet | Gurgaon +37 other locations
+961,Digit Insurance,3.8,803,4.1k,Insurance | Bengaluru/Bangalore +69 other locations
+962,Salesforce,4.1,799,9.3k,Software Product | San Francisco +27 other locations
+963,Nilkamal,3.9,800,3.3k,Furniture & Furnishing | Mumbai +97 other locations
+964,Ahluwalia Contracts India,4.1,800,3k,Engineering & Construction | Delhi/NCR +50 other locations
+965,Capital Numbers Infotech,4.6,799,1k,IT Services & Consulting | Kolkata +8 other locations
+966,VIP Industries,3.8,799,3.2k,Retail | Mumbai +88 other locations
+967,Consolidated Contractors,4.5,796,1.4k,Engineering & Construction | Marousi +50 other locations
+968,Grant Thornton,3.7,797,9k,Chicago +46 other locations
+969,Arvind Lifestyle Brands,4.1,794,2.4k,Retail | Bangalore / Bengaluru +83 other locations
+970,Colgate Palmolive,4.2,794,4k,FMCG | New York +100 other locations
+971,VeeTechnologies,3.8,794,4.4k,IT Services & Consulting | New York +32 other locations
+972,Indium Software,4.0,795,5.5k,IT Services & Consulting | Chennai +10 other locations
+973,Pizza Hut,3.9,793,2.1k,Hospitality | Plano +112 other locations
+974,Secure Meters,4.1,793,4.3k,Electronics Manufacturing | Udaipur +68 other locations
+975,Dana Anand,4.2,792,2.9k,Auto Components | Delhi/NCR +40 other locations
+976,SHYAM METALICS AND ENERGY,3.6,791,3.5k,Iron & Steel | Kolkata +51 other locations
+977,SitusAMC,3.4,790,4.6k,Software Product | Faridabad +18 other locations
+978,Gmmco,4.1,790,2.6k,Industrial Machinery | Chennai +79 other locations
+979,TK Elevator,4.0,790,3.8k,Industrial Machinery | Essen +69 other locations
+980,Uber,4.2,789,7.4k,Internet | San Francisco +45 other locations
+981,FLSmidth,3.7,790,4.5k,Copenhagen +21 other locations
+982,Birla Corporation,4.2,788,3.4k,Building Material | Kolkata +124 other locations
+983,Patra Corporation,3.8,790,4k,BPO | El Dorado Hills +15 other locations
+984,LOREAL,4.0,787,3.6k,Beauty & Personal Care | Clichy +88 other locations
+985,Vedanta Aluminium,3.9,787,4.2k,Metals & Mining | Jharsuguda +31 other locations
+986,Visionet Systems,3.2,786,5.6k,IT Services & Consulting | Cranbury +15 other locations
+987,Aspire Systems,3.9,786,8.7k,IT Services & Consulting | Oak Brook +19 other locations
+988,Hathway,3.5,785,3.7k,Broadcasting | Mumbai +51 other locations
+989,Hikal,3.9,785,4.2k,Pharma | Mumbai +20 other locations
+990,AstraZeneca,4.1,782,6.3k,Pharma | Cambridge +44 other locations
+991,Citco,3.1,782,6.2k,Management Consulting | Cayman Islands +11 other locations
+992,Sundaram Clayton,4.1,782,2.9k,Auto Components | Chennai +24 other locations
+993,Punj Lloyd,4.4,781,1.9k,Engineering & Construction | Gurgaon/Gurugram +70 other locations
+994,Lemon Tree Hotels,4.2,780,2.7k,Hospitality | Delhi/NCR +67 other locations
+995,HFCL,4.1,780,3.6k,Telecom | Delhi/NCR +98 other locations
+996,Test Yantra Software Solutions,3.2,780,20.9k,IT Services & Consulting | Bangalore/Bengaluru +16 other locations
+997,MAHLE ANAND Filter Systems,4.0,780,3.2k,Auto Components | Stuttgart +27 other locations
+998,Indira IVF Hospital,3.9,779,2.5k,Mumbai +88 other locations
+999,Apex Group,2.7,778,5.4k,Financial Services | Hamilton +23 other locations
+1000,United Alliance Technology,4.9,777,34,IT Services & Consulting | Bangalore / Bengaluru +9 other locations
+1001,Sri Chaitanya Techno Schools,3.7,777,3k,Education & Training | Hyderabad/Secunderabad +122 other locations
+1002,Innova Solutions,3.5,777,6.4k,IT Services & Consulting | Atlanta +27 other locations
+1003,Willis Towers Watson,3.8,777,6.6k,Management Consulting | London +15 other locations
+1004,City Union Bank,3.3,777,4.6k,Banking | Thanjavur +130 other locations
+1005,Baroda Global Shared Services,4.0,776,2.5k,Banking | Mumbai +117 other locations
+1006,Allianz Technology,4.2,776,6.4k,IT Services & Consulting | Munich +13 other locations
+1007,Meril,3.8,776,3.8k,Vapi +64 other locations
+1008,Astral Pipe,4.1,775,3.2k,Building Material | Haldwani +104 other locations
+1009,Volkswagen,4.2,776,3.2k,Automobile | Mumbai +96 other locations
+1010,Amara Raja Group,4.2,775,3.5k,Auto Components | Bangalore/Bengaluru +59 other locations
+1011,Pernod Ricard,3.7,772,4k,Beverage | Paris +101 other locations
+1012,INDO-MIM,4.2,769,3.8k,Bangalore/Bengaluru +22 other locations
+1013,Perfetti Van Melle,4.2,770,2.6k,Food Processing | Lainate +129 other locations
+1014,London Stock Exchange Group,4.1,768,8.3k,Financial Services | London +9 other locations
+1015,Troikaa Pharmaceuticals,3.6,767,3.3k,Ahmedabad +75 other locations
+1016,Temenos,3.3,767,8.6k,Software Product | Geneva +8 other locations
+1017,SK Finance Limited,4.3,765,2.4k,NBFC | Jaipur +192 other locations
+1018,Leadec India,4.1,764,3.2k,Facility Management Services | Stuttgart +60 other locations
+1019,Pricol,4.0,764,4.1k,Auto Components | Coimbatore +27 other locations
+1020,Air India Sats Airport Services,3.7,765,2.2k,Aviation | Mumbai +35 other locations
+1021,Federal Bank,3.8,764,4.6k,Banking | Aluva +124 other locations
+1022,Mahindra First Choice Wheels,3.8,761,3.3k,Internet | Mumbai +110 other locations
+1023,Ford Business Solutions,4.4,760,3.5k,IT Services & Consulting | Dearborn +43 other locations
+1024,ValueMomentum,3.3,759,7.9k,IT Services & Consulting | New Jersey +10 other locations
+1025,Next Education India,3.7,759,3k,EdTech | Hyderabad/Secunderabad +83 other locations
+1026,Apotex Research,4.1,758,2.7k,Pharma | Brantford +13 other locations
+1027,Kalpataru Group,4.0,756,4k,Real Estate | Mumbai +68 other locations
+1028,DLF,4.0,757,3.8k,Real Estate | Gurgaon/Gurugram +30 other locations
+1029,Globant,3.9,757,7.8k,Software Product | San Francisco +13 other locations
+1030,Feedback Infrastructure Services,3.5,755,2.9k,Engineering & Construction | Gurgaon/Gurugram +121 other locations
+1031,Schaeffler India,4.2,754,4.5k,Auto Components | Mumbai +18 other locations
+1032,Aparna Constructions and Estates,4.1,753,3.3k,Real Estate | Hyderabad/Secunderabad +19 other locations
+1033,Otis Elevator,4.0,753,3.8k,Industrial Machinery | Farmington +63 other locations
+1034,Edubridge Learning,4.1,750,1.3k,EdTech | Mumbai +63 other locations
+1035,Cult.fit,3.7,750,4k,Fitness & Wellness | Bangalore +36 other locations
+1036,Skill Lync,3.1,750,3.6k,EdTech | Palo Alto +14 other locations
+1037,Egis  India Consulting Engineers,4.1,749,2.6k,Engineering & Construction | Gurgaon/Gurugram +101 other locations
+1038,Aarvi Encon,4.0,750,2.7k,Recruitment | Mumbai +106 other locations
+1039,Lowe's,4.2,748,8k,Retail | Mooresville +6 other locations
+1040,Kohler,3.8,745,4.3k,Building Material | Kohler +43 other locations
+1041,Bounteous x Accolite,3.5,747,6.6k,IT Services & Consulting | Dallas +13 other locations
+1042,Mastek,3.6,745,6.3k,IT Services & Consulting | Mumbai +20 other locations
+1043,CNH Industrial,4.0,743,3.7k,Automobile | London +59 other locations
+1044,Better.com,3.0,741,4.1k,Financial Services | New York City +6 other locations
+1045,Bosch Chassis Systems,4.1,741,2.8k,Auto Components | Gerlingen +21 other locations
+1046,C&S Electric,4.0,741,3.6k,Electrical Equipment | Delhi/NCR +50 other locations
+1047,Nirma,4.3,740,3.1k,FMCG | Ahmedabad +58 other locations
+1048,Biocon Biologics,3.6,740,5.8k,Biotechnology | Bangalore/Bengaluru +22 other locations
+1049,Capacit'e Infraprojects,3.6,738,3.2k,Engineering & Construction | Mumbai +31 other locations
+1050,Gharda Chemicals Limited,4.0,738,4.1k,Agro Chemicals | Mumbai +62 other locations
+1051,Westside,4.1,738,1.9k,Fashion & Textile | Mumbai +101 other locations
+1052,Intex Technologies,3.7,737,1.7k,Consumer Electronics & Appliances | Delhi/NCR +72 other locations
+1053,Rungta Mines,4.1,737,3.7k,Metals & Mining | Singhbum +27 other locations
+1054,Asirvad Microfinance,3.9,736,2k,NBFC | Chennai +223 other locations
+1055,Vertiv,4.0,735,3.5k,IT Services & Consulting | Columbus +47 other locations
+1056,Netcracker Technology,3.0,735,8.5k,IT Services & Consulting | Waltham +10 other locations
+1057,Lakshmi Machine Works,4.0,735,3.9k,Industrial Machinery | Coimbatore +25 other locations
+1058,Knorr-Bremse,4.0,735,4k,Auto Components | Munich +27 other locations
+1059,LEAD School,3.3,735,2.9k,EdTech | Mumbai +90 other locations
+1060,Everest Industries,4.1,734,3k,Building Material | Noida +75 other locations
+1061,Fractal Analytics,4.0,735,7.1k,Emerging Technologies | New York City +13 other locations
+1062,Future Focus Infotech,3.6,734,4.6k,IT Services & Consulting | Chennai +53 other locations
+1063,Prochant,4.3,733,1.7k,BPO | Prochant +7 other locations
+1064,Tata Chemicals,4.1,733,2.8k,Chemicals | Mumbai +80 other locations
+1065,Rupeek,3.7,733,3.3k,FinTech | Bangalore +56 other locations
+1066,SLK Global Services,3.8,732,3.3k,BPO | Dallas +8 other locations
+1067,NetAmbit,3.5,736,2.9k,BPO | Noida +92 other locations
+1068,Shriram General Insurance,3.6,732,2.9k,Insurance | Jaipur +169 other locations
+1069,ExcelR Solutions,3.4,731,759,Education & Training | Houston +16 other locations
+1070,Rebel Foods,3.7,732,3.2k,Internet | Mumbai +67 other locations
+1071,Netscribes,2.8,731,3.1k,Analytics & KPO | New York +11 other locations
+1072,GVPR Engineers,3.8,731,2.8k,Engineering & Construction | Hyderabad/Secunderabad +67 other locations
+1073,Marks & Spencer,4.1,730,2.8k,Retail | London +57 other locations
+1074,Quantiphi Analytics Solutions Private Limited,3.1,731,6.1k,IT Services & Consulting | Marlborough +13 other locations
+1075,Godrej Agrovet,4.1,729,3k,Agriculture | Raigad +113 other locations
+1076,Star Cement,4.0,728,3k,Building Material | Kolkata +65 other locations
+1077,Wheels,4.1,728,4.8k,Auto Components | Chennai +36 other locations
+1078,Dunzo,3.4,728,3.4k,Internet | Bangalore +18 other locations
+1079,Pramerica Life Insurance,3.8,727,2.4k,Insurance | Gurgaon +120 other locations
+1080,Suzuki Motorcycle,4.1,727,3.7k,Automobile | Hamamatsu-shi +104 other locations
+1081,Zetwerk Manufacturing Businesses,4.1,724,3.2k,Industrial Machinery | Bangalore +88 other locations
+1082,Bank of India,3.9,723,2.7k,Banking | Mumbai +162 other locations
+1083,Incheon Motors,4.7,723,213,Automobile | Kochi +13 other locations
+1084,Reliance Power,4.2,721,3.3k,Power | Navi Mumbai +33 other locations
+1085,Thomas Cook,3.8,720,4k,Travel & Tourism | Mumbai +76 other locations
+1086,Napino Auto & Electronics,4.0,719,3.6k,Auto Components | Gurgaon/Gurugram +16 other locations
+1087,TNQ Tech Private Limited,3.6,718,3.7k,Printing & Publishing | Chennai +9 other locations
+1088,Aparajitha Corporate Services,4.1,719,2.7k,Legal | Madurai +77 other locations
+1089,Lumina Datamatics,3.3,718,4.3k,IT Services & Consulting | Mumbai +17 other locations
+1090,Page Industries,4.2,717,3.3k,Fashion & Textile | Bangalore/Bengaluru +77 other locations
+1091,Vedanta Resources,3.8,714,5.1k,Metals & Mining | London +61 other locations
+1092,Atlas Copco,4.2,715,4.3k,Industrial Machinery | Nacka Municipality +50 other locations
+1093,Vertex Customer Solutions,3.5,714,1.5k,IT Services & Consulting | Panchkula +31 other locations
+1094,MG Motor,4.0,715,4.2k,Automobile | To be Validated +73 other locations
+1095,Timken,3.9,712,3.9k,Industrial Machinery | Bangalore/Bengaluru +35 other locations
+1096,Xebia,3.4,712,4.7k,IT Services & Consulting | Atlanta +18 other locations
+1097,Prism Johnson,3.9,712,3.9k,Building Material | Mumbai +121 other locations
+1098,HT Media,3.3,711,4.8k,Media & Entertainment | Delhi/NCR +39 other locations
+1099,Varroc Polymers,3.7,708,3.1k,Auto Components | Aurangabad +32 other locations
+1100,Aviva Life Insurance India,3.6,709,2.7k,Insurance | London +108 other locations
+1101,Quest Retail Private Limited,4.5,707,879,Retail | Gurgaon/Gurugram +71 other locations
+1102,Sandhar Technologies,3.9,707,3.4k,Auto Components | Gurgaon/Gurugram +28 other locations
+1103,Porter,4.1,706,2.7k,Internet | Bangalore +24 other locations
+1104,Orion Edutech,3.2,705,1.9k,EdTech | Kolkata +108 other locations
+1105,NBC Bearings,3.9,705,3.1k,Auto Components | Jaipur +24 other locations
+1106,Defence Research & Development Organisation,4.5,704,3.5k,Defence & Aerospace | Delhi/NCR +44 other locations
+1107,InternEzy,4.9,703,4,EdTech | Bangalore Rural +5 other locations
+1108,Collins Aerospace,4.0,703,6.5k,Defence & Aerospace | Charlotte +7 other locations
+1109,Greenko Group,3.9,702,3.2k,Power | Hyderabad +61 other locations
+1110,Centum Electronics,3.9,702,3.6k,Electronics Manufacturing | Bangalore/Bengaluru +15 other locations
+1111,Qinecsa Solutions,2.9,702,2.8k,Clinical Research | New Delhi +12 other locations
+1112,Michelin,4.0,701,4.5k,Auto Components | Clermont-Ferrand +42 other locations
+1113,General Mills,4.1,701,4.5k,Food Processing | Minneapolis +44 other locations
+1114,ffreedom app,3.6,700,1.4k,Internet | Bengaluru/Bangalore +22 other locations
+1115,Alok Industries,3.8,699,3k,Fashion & Textile | Mumbai +28 other locations
+1116,C.R.I. Pumps,3.8,696,2.9k,Industrial Machinery | Coimbatore +60 other locations
+1117,Bayer,4.1,695,4k,Pharma | Monheim Am Rhein +103 other locations
+1118,HomeLane,3.5,695,3.9k,Architecture & Interior Design | Bangalore +34 other locations
+1119,Medha Servo Drives,4.2,695,2.7k,Electrical Equipment | Hyderabad/Secunderabad +47 other locations
+1120,Godfrey Phillips India,4.1,695,3k,FMCG | Delhi/NCR +92 other locations
+1121,Natco Pharma,4.0,694,3.4k,Pharma | Hyderabad/Secunderabad +51 other locations
+1122,KEI Industries,4.2,694,3.1k,Electrical Equipment | Delhi/NCR +79 other locations
+1123,Neel Metal Products,4.0,693,2.9k,Metals & Mining | Narasapuram +32 other locations
+1124,Signify,3.5,693,4k,Consumer Electronics & Appliances | Eindhoven +68 other locations
+1125,Yashoda Hospitals,3.8,693,3.3k,Healthcare | Ghaziabad +23 other locations
+1126,United Breweries,3.8,692,3.2k,Beverage | Khordha +93 other locations
+1127,Sykes Business Services Of India,3.4,688,2.8k,BPO | Tampa +18 other locations
+1128,KMV Projects Limited,4.4,688,2.1k,Engineering & Construction | Hyderabad/Secunderabad +58 other locations
+1129,Deccan Fine Chemicals,3.7,689,4.1k,Agro Chemicals | Hyderabad/Secunderabad +21 other locations
+1130,Nlb Services,4.1,687,3.2k,IT Services & Consulting | Alpharetta +20 other locations
+1131,Parekh Integrated Services,4.1,687,2.6k,Logistics | Mumbai +69 other locations
+1132,Svatantra Microfin,4.1,687,1.8k,NBFC | Mumbai +245 other locations
+1133,CADD Centre Training Services,4.1,686,2.4k,Education & Training | Chennai +127 other locations
+1134,Bechtel,4.0,686,3.1k,Engineering & Construction | Reston +25 other locations
+1135,Toppr,3.4,685,4.3k,EdTech | Mumbai +43 other locations
+1136,Velocis Systems,3.9,685,4.9k,IT Services & Consulting | Noida +48 other locations
+1137,AuthBridge Research Services,3.7,685,3.2k,IT Services & Consulting | Gurgaon +18 other locations
+1138,Amazon Web Services,3.9,685,5.5k,Software Product | Seattle +44 other locations
+1139,Fluor Corporation,4.3,684,1.9k,Hyderabad / Secunderabad +24 other locations
+1140,Nityo Infotech,3.2,685,5k,IT Services & Consulting | plainsboro New Jersey +28 other locations
+1141,Financial Software & Systems,3.8,684,5.2k,Software Product | Chennai +27 other locations
+1142,DP World,3.9,685,3.4k,Logistics | Dubai +64 other locations
+1143,J B Chemicals And Pharmaceuticals,3.9,683,2.8k,Pharma | Mumbai +76 other locations
+1144,ICCS,3.1,683,2.7k,BPO | Delhi/NCR +26 other locations
+1145,Aristo Pharmaceuticals,4.1,682,2.2k,Pharma | Mumbai +93 other locations
+1146,Naukri,4.0,681,2.8k,Internet | Noida +61 other locations
+1147,Duck Creek Technologies,4.5,683,1.2k,Software Product | Boston +6 other locations
+1148,Huhtamaki,3.9,681,2.8k,Packaging | Espoo +33 other locations
+1149,Schlumberger,4.0,680,5.1k,Oil & Gas | Houston +30 other locations
+1150,SFO Technologies,3.4,680,4.2k,Electronics Manufacturing | Kochi/Cochin +14 other locations
+1151,Precision Techserve,3.7,680,3k,IT Services & Consulting | Chennai +86 other locations
+1152,Athena BPO,3.2,680,2.7k,BPO | Mumbai +29 other locations
+1153,Hitachi Payment Services,3.8,679,3.1k,FinTech | Mumbai +56 other locations
+1154,Tata Cummins,4.4,678,1.1k,Auto Components | Pune +35 other locations
+1155,Updater Services,3.8,677,2.8k,Facility Management Services | Chennai +84 other locations
+1156,Merino Industries,3.8,678,3.1k,Furniture & Furnishing | Delhi/NCR +64 other locations
+1157,ivy,3.8,676,6.4k,Software Product | Hyderabad/Secunderabad +7 other locations
+1158,ICON Plc,4.3,676,3.3k,Clinical Research | Dublin +17 other locations
+1159,HSBC Bank,4.1,674,4.1k,Banking | Muzaffarpur +33 other locations
+1160,Fareportal,3.4,672,4k,Internet | New York +11 other locations
+1161,Indusind Marketing & Financial Services,4.0,672,1.8k,Financial Services | Chennai +259 other locations
+1162,Panacea Biotec,3.8,672,2.6k,Biotechnology | Delhi/NCR +55 other locations
+1163,Greaves Cotton,4.0,674,2.8k,Auto Components | Mumbai +41 other locations
+1164,Arohan Financial Services,4.0,672,2.1k,NBFC | Kolkata +174 other locations
+1165,Royal Sundaram General Insurance,4.0,672,2.7k,Insurance | Chennai +98 other locations
+1166,Shilpa Medicare,3.4,672,3.8k,Pharma | Raichur +29 other locations
+1167,Comviva Technology,3.2,671,5.6k,IT Services & Consulting | Gurgaon +18 other locations
+1168,NTT,4.0,671,5.4k,IT Services & Consulting | London +40 other locations
+1169,_VOIS,3.9,673,4k,IT Services & Consulting | Pune +12 other locations
+1170,Citigroup,3.6,670,8.8k,Financial Services | New York City +36 other locations
+1171,Jabil Circuit India,4.0,672,3.4k,Electronics Manufacturing | St Petersburg +14 other locations
+1172,ACL Digital,3.6,667,6k,IT Services & Consulting | Santa Clara +23 other locations
+1173,GE Healthcare,4.1,665,5.5k,Healthcare | Chicago +30 other locations
+1174,National Health Mission,3.6,664,2.2k,Healthcare | Guwahati +241 other locations
+1175,Medusind Solutions,3.8,663,2.9k,IT Services & Consulting | Mumbai +9 other locations
+1176,Sanden Vikas,4.0,663,2.8k,Auto Components | Faridabad +25 other locations
+1177,Artech Infosystems,3.6,661,4.1k,Morristown +20 other locations
+1178,Salcomp Manufacturing,4.1,662,3.6k,Electronics Manufacturing | Salo +21 other locations
+1179,Parag Milk Foods,4.3,658,2.4k,Food Processing | Mumbai +69 other locations
+1180,Future Supply Chain Solutions,4.3,657,3k,Logistics | Mumbai +63 other locations
+1181,Volvo,4.1,656,4.9k,Automobile | Gothenburg +37 other locations
+1182,TÜV NORD,3.8,656,3.6k,Other | Mumbai +61 other locations
+1183,Samsung E&A,4.1,655,2.4k,Engineering & Construction | Suwon-Si +49 other locations
+1184,Encora,3.8,656,6.1k,IT Services & Consulting | Scottsdale +14 other locations
+1185,Knight Frank,4.1,655,2.9k,Real Estate | London +46 other locations
+1186,Mswipe Technologies,3.1,655,2.8k,FinTech | Mumbai +84 other locations
+1187,Franklin Templeton Investments,4.2,654,4.5k,Financial Services | San Mateo +28 other locations
+1188,HP India,4.1,654,5k,Consumer Electronics & Appliances | Bengaluru +54 other locations
+1189,NoBrokerHOOD,3.3,654,1.9k,Software Product | Dharwad +28 other locations
+1190,OCS Group,4.0,653,2.5k,Facility Management Services | London +48 other locations
+1191,THE LEELA PALACES HOTELS & RESORTS,4.0,651,2.3k,Hospitality | Mumbai +27 other locations
+1192,Guardian India,4.0,651,4.2k,Insurance | New York  +10 other locations
+1193,Embibe,3.6,649,2.8k,EdTech | Bangalore +18 other locations
+1194,Tata Starbucks,4.3,650,1.7k,Hospitality | Mumbai +41 other locations
+1195,BNP Paribas India Solutions,3.9,648,6.6k,IT Services & Consulting | Paris +9 other locations
+1196,Ageas Federal Life Insurance,3.7,646,2.2k,Insurance | Mumbai +112 other locations
+1197,Musashi Auto Parts,3.9,647,2.7k,Auto Components | Gurgaon/Gurugram +20 other locations
+1198,Freshworks,3.5,646,5.7k,Software Product | San Mateo +38 other locations
+1199,MasterCard,4.0,646,8k,FinTech | Purchase +14 other locations
+1200,MasterCard,4.0,646,8k,FinTech | Purchase +14 other locations
+1201,OLX,3.8,645,3.5k,Internet | Gurgaon +52 other locations
+1202,NxtWave,4.0,644,1.6k,Hyderabad / Secunderabad +24 other locations
+1203,FIITJEE,3.2,644,2.2k,Delhi +46 other locations
+1204,Deepak Fertilisers and Petrochemicals,3.9,644,3.1k,Chemicals | Pune +49 other locations
+1205,mPokket,4.1,642,1.1k,NBFC | Kolkata +12 other locations
+1206,Silaris Informations,3.2,642,2.7k,BPO | Delhi/NCR +19 other locations
+1207,Brane Enterprises,2.2,643,3.2k,Software Product | Hyderabad/Secunderabad +9 other locations
+1208,Re Sustainability Limited,4.0,642,2.7k,Waste Management | Hyderabad +70 other locations
+1209,Mahindra Tractors,4.2,641,2.2k,Automobile | Mumbai +109 other locations
+1210,H&M,3.9,639,2.5k,Fashion & Textile | Stockholm +48 other locations
+1211,Simplilearn,3.2,639,4.6k,EdTech | San Francisco +9 other locations
+1212,JSW Group,4.0,641,3.9k,Iron & Steel | Mumbai +80 other locations
+1213,Times Internet,3.6,639,5.7k,Internet | Gurgaon +24 other locations
+1214,Wonder Cement,4.2,638,3.2k,Building Material | Ajmer +85 other locations
+1215,Amphenol Interconnect,4.2,639,3.2k,Electrical Equipment | Pune +12 other locations
+1216,Border Security Force,4.5,637,1.3k,Law Enforcement & Security | Delhi/NCR +93 other locations
+1217,Tata Capital Housing Finance,4.1,636,2.6k,NBFC | Mumbai +130 other locations
+1218,ALLEN Career Institute,3.9,637,3.3k,Education & Training | Kota +57 other locations
+1219,Bitwise Solutions,4.1,636,4.4k,IT Services & Consulting | Schaumburg +6 other locations
+1220,Balkrishna Industries,4.0,637,3.1k,Auto Components | Mumbai +23 other locations
+1221,Crompton Greaves Consumer Electricals,3.8,637,3.3k,Consumer Electronics & Appliances | Mumbai +86 other locations
+1222,Union Bank of India,4.0,634,2.7k,Banking | Mumbai +131 other locations
+1223,Tata Hitachi Construction Machinery,4.0,634,2.9k,Industrial Machinery | Bangalore/Bengaluru +71 other locations
+1224,Bpo Convergence,3.5,634,2k,BPO | Bhubaneswar +34 other locations
+1225,KGISL,2.9,634,5.2k,IT Services & Consulting | Coimbatore +15 other locations
+1226,IMPACT Infotech,3.5,631,2.5k,Recruitment | Pune +60 other locations
+1227,Astral Adhesives,4.0,631,2.2k,Chemicals | Ahmedabad +117 other locations
+1228,Tafe Motors & Tractors,3.9,630,2.6k,Automobile | New Delhi +51 other locations
+1229,Bill Gosling Outsourcing India,3.6,630,2.7k,BPO | Gurgaon/Gurugram +10 other locations
+1230,QX Global Group,3.4,630,3.3k,BPO | Skipton +16 other locations
+1231,Marsh McLennan,4.1,630,6.2k,Financial Services | New York +20 other locations
+1232,Adani Enterprises,3.8,629,3.8k,Ahmedabad +62 other locations
+1233,Ashirvad Pipes,4.1,628,2.8k,Building Material | Bangalore/Bengaluru +88 other locations
+1234,GirnarSoft,3.5,627,3.9k,IT Services & Consulting | Jaipur +44 other locations
+1235,uFaber,2.6,627,1.4k,Education & Training | Mumbai +18 other locations
+1236,Xceedance,3.7,627,5.1k,IT Services & Consulting | Boston +8 other locations
+1237,Eris Lifesciences,3.8,627,2.3k,Pharma | Ahmedabad +81 other locations
+1238,Snapdeal,3.9,627,3.1k,Internet | Delhi +30 other locations
+1239,Kaizen IT Services,4.5,626,1.1k,IT Services & Consulting | Kolkata +78 other locations
+1240,Shyam Steel Industries,3.6,626,3.1k,Iron & Steel | Kolkata +54 other locations
+1241,Malabar Gold and Diamonds,4.2,626,2.1k,Kozhikode +94 other locations
+1242,ALTEN,3.7,626,4.7k,IT Services & Consulting | Bengaluru/Bangalore +21 other locations
+1243,Cogoport,2.8,625,1.9k,Internet | Mumbai +12 other locations
+1244,Forever Living Products,4.3,625,1.5k,Fitness & Wellness | Scottsdale +71 other locations
+1245,DuPont,4.2,624,3.3k,Waste Management | Wilmington +47 other locations
+1246,Innodata India Private Limited,3.6,625,2k,IT Services & Consulting | New Jersey +11 other locations
+1247,Videocon d2h,3.8,623,1.5k,Internet | Mumbai +112 other locations
+1248,KaaShiv InfoTech Company,4.9,622,238,EdTech | Chennai +4 other locations
+1249,Target,4.2,622,5k,Retail | Minneapolis +15 other locations
+1250,eTeam,3.2,621,3.3k,Recruitment | South Plainfield +17 other locations
+1251,Veradigm,4.1,620,3.8k,Vadodara +6 other locations
+1252,CSM Technologies,4.4,620,1.9k,IT Services & Consulting | Bhubaneswar +19 other locations
+1253,Yokohama Off-Highway Tires,3.7,620,3.5k,Auto Components | Mumbai +27 other locations
+1254,Rallis India,4.3,619,2.5k,Agro Chemicals | Mumbai +97 other locations
+1255,Karvy Stock Broking,3.7,619,2.4k,Hyderabad/Secunderabad +104 other locations
+1256,Integra Software Services,3.9,619,2.8k,IT Services & Consulting | Pondicherry +13 other locations
+1257,Galfar,4.2,619,1.9k,Engineering & Construction | Muscat +35 other locations
+1258,Varthana,4.4,618,1.3k,NBFC | Bangalore +79 other locations
+1259,Mahindra Automotives,4.1,618,4.1k,Automobile | Hyderabad +104 other locations
+1260,Mahindra Automotives,4.1,618,4.1k,Automobile | Hyderabad +104 other locations
+1261,Progressive Infotech,3.5,616,2.9k,IT Services & Consulting | Noida +58 other locations
+1262,Navayuga Engineering Company,4.0,617,2.2k,Engineering & Construction | Hyderabad/Secunderabad +61 other locations
+1263,Quess IT Staffing Solutions,3.3,615,2k,Thane +54 other locations
+1264,Lumen Technologies,4.0,615,4.6k,Hardware & Networking | Monroe +13 other locations
+1265,EaseMyTrip.com,4.5,615,1.3k,Internet | Delhi +7 other locations
+1266,First Advantage,3.9,614,5.9k,Recruitment | Atlanta +12 other locations
+1267,Carborundum Universal Limited,4.0,614,3.1k,Metals & Mining | Chennai +75 other locations
+1268,Vaco Binary Semantics,3.4,614,4.1k,IT Services & Consulting | Gurgaon/Gurugram +33 other locations
+1269,Metso Outotec,4.3,615,2.5k,Metals & Mining | Espoo +38 other locations
+1270,Wonder Home Finance,4.7,613,581,Financial Services | jaipur +89 other locations
+1271,ESL Steel,4.1,613,2.4k,Iron & Steel | Jharkhand +20 other locations
+1272,RAMTeCH Software Solutions,3.8,612,3k,IT Services & Consulting | Noida +29 other locations
+1273,Investors Clinic,3.7,612,1.7k,Real Estate | Noida +25 other locations
+1274,Steag Energy Services,4.2,612,2.8k,Power | Essen +42 other locations
+1275,Epsilon,4.0,611,6.7k,Texas +14 other locations
+1276,Electronica Finance,4.1,613,2.2k,NBFC | Pune +114 other locations
+1277,Rico Auto Industries,3.8,612,3.3k,Auto Components | Gurgaon/Gurugram +25 other locations
+1278,Skipper,3.8,612,2.7k,Industrial Machinery | Kolkata +72 other locations
+1279,Acme Cleantech Solutions,3.9,611,2.5k,Industrial Machinery | Gurgaon/Gurugram +87 other locations
+1280,Primus Global Technologies,4.0,610,2.8k,IT Services & Consulting | Irving +27 other locations
+1281,Swaraj Tractors,4.2,610,3.1k,Automobile | Mumbai +81 other locations
+1282,Eveready Industries,4.0,609,2.3k,Consumer Electronics & Appliances | Kolkata +80 other locations
+1283,Kurlon,4.3,608,2.4k,Furniture & Furnishing | Bangalore/Bengaluru +84 other locations
+1284,Ramco Systems,3.5,629,5.3k,Software Product | Chennai +25 other locations
+1285,Engineers India,4.4,607,3.4k,Delhi/NCR +62 other locations
+1286,Amul Dairy,4.1,--,--,Food Processing | Anand +127 other locations
+1287,Sandvik Asia,4.3,606,1.9k,Industrial Machinery | Stockholm +35 other locations
+1288,Jaya Hind Industries,3.7,606,2.5k,Auto Components | Pune +24 other locations
+1289,Hitachi Energy,4.1,606,4.9k,Power | Zurich +29 other locations
+1290,CRB Tech Solution,4.1,605,555,EdTech | Pune +9 other locations
+1291,Assystem,3.8,605,1.8k,Power | Paris +62 other locations
+1292,World Network Services,3.4,606,5.5k,BPO | Mumbai +19 other locations
+1293,Jaro Education,2.5,603,2.2k,EdTech | Mumbai +23 other locations
+1294,Denave,3.7,604,2.7k,Marketing & Advertising | Noida +62 other locations
+1295,L&T Power,3.9,603,3.8k,Power | Mumbai +91 other locations
+1296,MagicBricks,3.1,602,4.2k,Internet | Noida +29 other locations
+1297,Siemens Energy,4.2,603,4.1k,Power | Munich +39 other locations
+1298,Greenlam Industries,4.2,603,2.5k,Furniture & Furnishing | Delhi/NCR +91 other locations
+1299,TCNS Clothing Company,4.0,601,1.7k,Fashion & Textile | Delhi/NCR +99 other locations
+1300,Radical Minds,2.9,601,2.6k,BPO | Gurgaon/Gurugram +9 other locations
+1301,Zydus Healthcare,4.0,601,2.2k,Pharma | Mumbai +79 other locations
+1302,LifeCell International,3.4,600,2.6k,Biotechnology | Chennai +69 other locations
+1303,Maveric Systems,3.6,600,7k,IT Services & Consulting | Chennai +9 other locations
+1304,MOURI Tech,3.9,600,5.4k,IT Services & Consulting | Dallas +9 other locations
+1305,Pratap Technocrats,4.0,599,1.9k,Telecom | Jaipur +108 other locations
+1306,Cigniti Technologies,3.8,599,6.7k,IT Services & Consulting | Irving +7 other locations
+1307,Baxter International,4.0,599,3.4k,Healthcare | Deerfield +26 other locations
+1308,Shaktiman Tirth Agro Technology,4.2,599,2.7k,Industrial Machinery | Rajkot +47 other locations
+1309,Hitachi,4.1,598,4.2k,Industrial Machinery | Tokyo +76 other locations
+1310,McDermott International,4.3,598,3.7k,Engineering & Construction | Houston +28 other locations
+1311,CIEL HR,4.0,598,2.6k,Recruitment | Bangalore +84 other locations
+1312,Vijay Sales,4.1,597,2.4k,Consumer Electronics & Appliances | Mumbai +42 other locations
+1313,Biba Apparels,3.9,596,2.3k,Fashion & Textile | Gurgaon +90 other locations
+1314,Ienergizer BPO Services,4.1,595,1.5k,BPO | Gurgaon / Gurugram +12 other locations
+1315,Orient Electric,3.8,595,2.8k,Consumer Electronics & Appliances | Delhi/NCR +59 other locations
+1316,PUMA,4.3,595,2.5k,Fashion & Textile | Herzogenaurach +86 other locations
+1317,Royal Migration Solutions,4.9,596,7,Durgapur +7 other locations
+1318,Ups Logistics,3.8,594,3.5k,Atlanta +33 other locations
+1319,HIL,4.1,593,2.3k,Building Material | Hyderabad/Secunderabad +85 other locations
+1320,Rodic Consultants,4.3,594,1.9k,Engineering & Construction | Delhi/NCR +109 other locations
+1321,Careernet,3.7,594,4.1k,Recruitment | Bangalore +20 other locations
+1322,Wipro Infrastructure Engineering,3.8,592,3.9k,Industrial Machinery | Bangalore/Bengaluru +35 other locations
+1323,Hitachi Digital Services,3.6,592,5.4k,IT Services & Consulting | Santa Clara +13 other locations
+1324,Advik Hi Tech,3.8,591,2.9k,Auto Components | Pune +22 other locations
+1325,Sharda Motor Industries,3.8,592,2.7k,Auto Components | Delhi/NCR +25 other locations
+1326,DAV Public School,4.1,591,1.4k,Education & Training | Delhi/NCR +140 other locations
+1327,Kutumbh Care,3.9,589,1.7k,Recruitment | Noida +155 other locations
+1328,Thermo Fisher Scientific,3.9,590,4.7k,Pharma | Waltham +27 other locations
+1329,India Cements,3.8,590,2.5k,Building Material | Chennai +81 other locations
+1330,SKH Metals,4.0,589,2.4k,Auto Components | Gurgaon/Gurugram +17 other locations
+1331,Columbia Asia,4.5,589,1.9k,Healthcare | Bangalore/Bengaluru +20 other locations
+1332,McKinsey & Company,3.9,588,7.5k,Management Consulting | New York +24 other locations
+1333,Luxoft,3.7,588,4.3k,IT Services & Consulting | Zug +14 other locations
+1334,Nippon Life India Asset Management,4.7,587,1.5k,Financial Services | Mumbai +160 other locations
+1335,Government of India,4.3,587,4k,Government | New Delhi +142 other locations
+1336,Finolex Cables,3.8,588,2.5k,Electrical Equipment | Pune +64 other locations
+1337,Qualitest,3.7,587,6.3k,IT Services & Consulting | Bridgewater +13 other locations
+1338,EMERSON PROCESS MANAGEMENT,4.0,586,4.2k,Industrial Machinery | St. Louis +28 other locations
+1339,Petpooja,4.3,586,1.1k,Software Product | Ahmedabad +49 other locations
+1340,Carnival Cruise Lines,4.3,586,811,Sports & Recreation | Miami +28 other locations
+1341,ICA Edu Skills,3.8,585,1.6k,Education & Training | Kolkata +117 other locations
+1342,Neeyamo Enterprise Solutions,3.7,585,3.9k,Chennai +10 other locations
+1343,Fleetguard Filters,4.2,585,2.4k,Auto Components | Pune +74 other locations
+1344,Lea Associates South Asia,4.3,584,1.8k,Engineering & Construction | Delhi/NCR +123 other locations
+1345,Teamware Solutions,4.2,586,3k,Recruitment | Chennai +20 other locations
+1346,Magna International,4.0,584,4.3k,Auto Components | Aurora +19 other locations
+1347,Sun Life Financial,4.2,584,4k,Financial Services | Toronto +10 other locations
+1348,Travel Food Services,4.1,583,1.9k,Hospitality | Mumbai +28 other locations
+1349,Bhanzu,3.9,584,806,Education & Training | Hyderabad +6 other locations
+1350,ACTE,4.7,582,77,Education & Training | Chennai +10 other locations
+1351,Zuventus Healthcare,3.9,582,1.9k,Pharma | Mumbai +81 other locations
+1352,IFFCO,4.1,582,1.9k,Agro Chemicals | Delhi/NCR +90 other locations
+1353,Central Industrial Security Force,4.5,581,1.6k,Law Enforcement & Security | Delhi/NCR +74 other locations
+1354,Ukb Electronics,4.1,581,2.1k,Electronics Manufacturing | Noida +18 other locations
+1355,Vastu Housing Finance,4.3,580,1.7k,Financial Services | Mumbai +132 other locations
+1356,Ugam Solution,3.6,580,4k,IT Services & Consulting | Mumbai +13 other locations
+1357,Microtek International,3.7,579,2.5k,Consumer Electronics & Appliances | Delhi/NCR +97 other locations
+1358,Tiger Analytics,3.6,579,5.9k,IT Services & Consulting | Santa Clara +11 other locations
+1359,IBS Software Services,3.7,578,5.7k,Software Product | Thiruvananthapuram +15 other locations
+1360,Integreon,3.3,578,3.6k,Legal | Fargo +10 other locations
+1361,National Payments Corporation of India,4.0,577,3.4k,Mumbai +11 other locations
+1362,Somany Ceramics,4.2,576,2.5k,Building Material | Noida +67 other locations
+1363,IIFL Home Finance,3.9,577,1.9k,NBFC | Aurangabad +189 other locations
+1364,India Shelter Finance Corporation,4.0,576,2.1k,NBFC | Gurgaon +130 other locations
+1365,Chennai Radha Engineering Works,4.0,577,2.4k,Engineering & Construction | Chennai +43 other locations
+1366,GlaxoSmithKline Consumer Healthcare,4.4,576,2k,Pharma | London +92 other locations
+1367,Sunbeam Auto,3.7,576,2.8k,Auto Components | Gurgaon/Gurugram +26 other locations
+1368,Apollo Health and Lifestyle,4.5,576,2.3k,Healthcare | Hyderabad/Secunderabad +63 other locations
+1369,Amazon Sellers Services,4.2,575,2.1k,Retail | Bangalore / Bengaluru +59 other locations
+1370,Hindware Limited,3.9,576,2.5k,Building Material | Gurgaon +99 other locations
+1371,VA Tech Wabag,3.9,575,2.8k,Waste Management | Chennai +45 other locations
+1372,Wipro Consumer Care & Lighting,3.8,574,3.3k,FMCG | Bangalore/Bengaluru +88 other locations
+1373,Rane (Madras),4.0,574,2.1k,Auto Components | Vallancherry +27 other locations
+1374,Toyo Engineering,4.0,574,3.4k,Engineering & Construction | Mumbai +35 other locations
+1375,TO THE NEW,3.8,572,4.7k,IT Services & Consulting |  Singapore +18 other locations
+1376,Linde India,4.1,571,3.5k,Oil & Gas | Pullach +46 other locations
+1377,Isuzu Motors,4.1,572,2.9k,Automobile | Tokyo +30 other locations
+1378,ShareChat,3.6,571,2.5k,Internet | Bangalore +36 other locations
+1379,JK Paper,3.9,571,2.6k,Pulp & Paper | Delhi/NCR +44 other locations
+1380,TO THE NEW,3.8,572,4.7k,IT Services & Consulting |  Singapore +18 other locations
+1381,Progressive Infovision,4.2,570,1k,Recruitment | Delhi/NCR +74 other locations
+1382,NSB Bpo Solutions,2.8,570,1.7k,BPO | Bhopal +77 other locations
+1383,Lovely Professional University,3.4,570,1.9k,Education & Training | Phagwara +24 other locations
+1384,Hapag-Lloyd,3.9,570,2.8k,Ports & Shipping | Hamburg +12 other locations
+1385,K Raheja Corp,4.3,569,2.5k,Real Estate | Mumbai +16 other locations
+1386,Navitasys India,4.0,569,2.3k,Electronics Manufacturing | Bawal +18 other locations
+1387,Bayer Crop Science Vegetable Seeds,4.4,570,725,Dhamtari +130 other locations
+1388,Indo Autotech,3.8,569,2.7k,Auto Components | Faridabad +28 other locations
+1389,CMS Computers Limited (INDIA),3.8,568,3.1k,IT Services & Consulting | Mumbai +69 other locations
+1390,Guidehouse,3.9,568,3.8k,Management Consulting | Trivandrum/Thiruvananthapuram +12 other locations
+1391,Impact Guru,4.5,568,1.2k,Internet | Mumbai +16 other locations
+1392,Flash Electronics,3.7,568,2.4k,Electronics Manufacturing | Pune +18 other locations
+1393,Hitachi Systems Micro Clinic,3.9,567,3.3k,IT Services & Consulting | Chiyoda City +73 other locations
+1394,Redington,4.0,567,3.1k,Hardware & Networking | Dubai +44 other locations
+1395,Mott MacDonald,4.3,567,2.4k,Management Consulting | Croydon +43 other locations
+1396,Sutherland Healthcare Solutions,3.9,567,3.5k,Analytics & KPO | Clifton +8 other locations
+1397,Transsion,4.2,568,2.8k,Consumer Electronics & Appliances | Shenzhen +61 other locations
+1398,Rentokil Pest Control,3.7,566,2k,Facility Management Services | Mumbai +102 other locations
+1399,Dhani Services,3.6,564,1.9k,Mumbai +77 other locations
+1400,Bses Rajdhani Power,3.7,563,2.6k,Power | Delhi/NCR +14 other locations
+1401,Thriveni Earthmovers,4.0,563,2.5k,Metals & Mining | Salem +35 other locations
+1402,Apar Industries,4.1,563,3k,Semiconductors | Vadodara/Baroda +56 other locations
+1403,WSP,4.3,563,1.9k,Management Consulting | Montreal +28 other locations
+1404,M3M India,4.0,562,2.5k,Real Estate | Gurgaon +7 other locations
+1405,Indostar Capital Finance,4.5,563,1.7k,NBFC | Mumbai +208 other locations
+1406,Rackspace,3.9,561,4k,IT Services & Consulting | San Antonio +10 other locations
+1407,Psp Projects,3.9,562,2.3k,Engineering & Construction | Ahmedabad +43 other locations
+1408,Hilti,3.6,562,2.9k,Industrial Machinery | Schaan +42 other locations
+1409,National Informatics Centre,4.0,561,4k,Government | New Delhi +70 other locations
+1410,TIAA Global Business Services,3.9,559,5.2k,Financial Services | Manhattan +8 other locations
+1411,Ingram Micro,3.9,558,3.4k,IT Services & Consulting | Irvine +46 other locations
+1412,Micromax Informatics,3.6,556,1.6k,Consumer Electronics & Appliances | Gurgaon/Gurugram +114 other locations
+1413,Tavant Technologies,3.9,556,5.8k,IT Services & Consulting | Santa Clara +13 other locations
+1414,Csc E Governance Services,3.9,556,1.7k,Government | Delhi +180 other locations
+1415,Sona Comstar,4.2,557,3.1k,Auto Components | Gurgaon / Gurugram +14 other locations
+1416,TDK India Private Limited,3.9,556,2.4k,Semiconductors | Nashik +23 other locations
+1417,Poorvika Mobiles,4.6,555,1.4k,Retail | Kodambakkam +78 other locations
+1418,Principal Global Services,4.1,555,4.8k,Insurance | Des Moines +9 other locations
+1419,Ihg Group,4.0,555,2.8k,Hospitality | Gurgaon/Gurugram +44 other locations
+1420,Amadeus,4.0,555,6.5k,IT Services & Consulting | Bengaluru/Bangalore +14 other locations
+1421,Poorvika Mobiles,4.6,555,1.4k,Retail | Kodambakkam +78 other locations
+1422,Principal Global Services,4.1,555,4.8k,Insurance | Des Moines +9 other locations
+1423,Experis IT,3.1,555,3.2k,Recruitment | Milwaukee +33 other locations
+1424,Vijaya Diagnostic Centre,3.9,554,1.8k,Healthcare | Hyderabad/Secunderabad +32 other locations
+1425,Ness Digital Engineering,3.4,555,5.1k,IT Services & Consulting | Teaneck +10 other locations
+1426,IDEMIA,4.1,553,3.6k,Law Enforcement & Security | Courbevoie +38 other locations
+1427,Action Construction Equipment,3.7,553,2.6k,Industrial Machinery | Delhi/NCR +46 other locations
+1428,Wapcos,3.4,552,2.2k,Engineering & Construction | Gurgaon/Gurugram +122 other locations
+1429,Zee Entertainment Enterprises,3.5,552,4.2k,Media & Entertainment | Mumbai +28 other locations
+1430,Clarivate,3.9,551,5.1k,Philadelphia +12 other locations
+1431,Deepak Nitrite,4.0,549,3k,Chemicals | Vadodara/Baroda +15 other locations
+1432,Expleo Solutions,3.8,549,4.5k,IT Services & Consulting | Mumbai +15 other locations
+1433,Fedbank Financial Services,4.1,549,2.7k,NBFC | Mumbai +131 other locations
+1434,PeopleStrong,3.5,550,3.2k,Recruitment | Gurgaon +18 other locations
+1435,Titan Eye Plus,4.3,548,1.3k,Other | Bangalore/Bengaluru +111 other locations
+1436,MAS Financial Services,3.6,548,1.9k,Financial Services | Ahmedabad +105 other locations
+1437,Technip Energies,4.0,547,3.8k,Engineering & Construction | Nanterre - France +30 other locations
+1438,Creambell,4.0,547,2k,Food Processing | Baddi +92 other locations
+1439,Genpact Headstrong Capital Markets,3.8,547,4.9k,IT Services & Consulting | New Delhi +16 other locations
+1440,Syneos Health,3.9,547,3.1k,Morrisville +12 other locations
+1441,Credence Resource Management,3.5,546,2.5k,BPO | Dallas +5 other locations
+1442,The Lalit,3.6,546,1.8k,Hospitality | New Delhi +29 other locations
+1443,Caparo Engineering India,4.0,545,2.7k,Auto Components | Gurgaon/Gurugram +35 other locations
+1444,Ag Industries,4.0,545,2.8k,Auto Components | Delhi/NCR +26 other locations
+1445,BDO India LLP,3.5,544,3.8k,Accounting & Auditing | New Delhi +26 other locations
+1446,Epicenter Technologies,3.6,545,2.4k,BPO | Mumbai +6 other locations
+1447,Steel Authority Of India,4.1,545,2.2k,Iron & Steel | Delhi/NCR +35 other locations
+1448,UKG,3.2,544,4.1k,Software Product | Noida +7 other locations
+1449,Crowne Plaza,4.1,544,1.5k,Hospitality | Atlanta +31 other locations
+1450,Bridge & Roof Co,3.5,543,2.8k,Engineering & Construction | Kolkata +61 other locations
+1451,Adidas,3.9,543,3.3k,Fashion & Textile | Herzogenaurach +60 other locations
+1452,Bikanervala,4.0,543,2.1k,FMCG | Delhi/NCR +52 other locations
+1453,Raychem RPG,3.9,542,2.4k,Electrical Equipment | Mumbai +24 other locations
+1454,Echobooom Management & Entrepreneurial Solutions,3.8,542,390,Management Consulting | Mumbai +21 other locations
+1455,Molex,3.9,541,3.4k,Semiconductors | Lisle +15 other locations
+1456,Nexdigm,3.7,540,2.9k,Management Consulting | Asansol +11 other locations
+1457,Micro Turners,3.8,539,2.3k,Auto Components | Panchkula +35 other locations
+1458,Collegedunia,2.8,539,3.1k,EdTech | Gurgaon/Gurugram +20 other locations
+1459,Lambda Therapeutic Research,4.6,539,1.3k,Clinical Research | Ahmedabad +7 other locations
+1460,Collegedunia,2.8,539,3.1k,EdTech | Gurgaon/Gurugram +20 other locations
+1461,Reliance Smart,4.2,538,2k,Retail | Mumbai +203 other locations
+1462,Alshaya Group,4.0,538,2.4k,Retail | Kuwait City +27 other locations
+1463,Testbook.com,3.6,537,3.3k,EdTech | Mumbai +23 other locations
+1464,Welspun World,3.7,537,2.6k,Building Material | Mumbai +47 other locations
+1465,Medreich,3.8,537,2.6k,Pharma | Bangalore/Bengaluru +12 other locations
+1466,Wipro Digital,3.5,537,6.6k,IT Services & Consulting | Brooklyn +25 other locations
+1467,Poly Medicure,3.7,537,2.5k,Medical Equipment | Delhi/NCR +28 other locations
+1468,Smollan Group,4.2,536,1.5k,Marketing & Advertising | Johannesburg +114 other locations
+1469,GAMMON INDIA,3.9,535,1.4k,Engineering & Construction | Mumbai +67 other locations
+1470,PrimEra Medical Technologies,3.9,535,3k,IT Services & Consulting | Hyderabad/Secunderabad +8 other locations
+1471,Aequs,3.6,535,3.1k,Defence & Aerospace | Belagavi/Belgaum +11 other locations
+1472,SLMG Beverages,4.0,535,2.3k,Beverage | Balrampur +57 other locations
+1473,UnitedLex,3.1,534,3.4k,Legal | New York +7 other locations
+1474,Tata Power Delhi Distribution,3.9,534,2.7k,Power | New Delhi +32 other locations
+1475,LanceSoft,3.2,535,3.8k,Recruitment | Herndon +26 other locations
+1476,MothersonSumi INfotech & Designs,3.3,534,4.1k,IT Services & Consulting | Noida +16 other locations
+1477,Fidelity International,4.0,533,4.9k,Investment Banking / Venture Capital / Private Equity | London +13 other locations
+1478,India Japan Lighting,4.3,533,2.4k,Auto Components | Chennai +29 other locations
+1479,Telenor,4.3,532,682,Telecom | Fornebu +114 other locations
+1480,ZaranTech,1.5,532,98,IT Services & Consulting | Bangalore/Bengaluru +17 other locations
+1481,Medlife,3.7,532,3.2k,Internet | Bangalore +28 other locations
+1482,Veritas,4.0,532,4.6k,Software Product | Santa Clara +39 other locations
+1483,Wuerth,3.8,532,2.2k,Industrial Machinery | Mumbai +58 other locations
+1484,JSW Paints,3.9,533,2.4k,Chemicals | Mumbai +113 other locations
+1485,Hinduja Housing Finance,3.7,533,1.9k,NBFC | Chennai +146 other locations
+1486,Encore Capital Group,4.1,531,2.3k,IT Services & Consulting | San Diego +2 other locations
+1487,Sterlite Power,3.9,531,2.9k,Power | Delhi/NCR +64 other locations
+1488,Diebold Nixdorf,3.9,531,3.6k,IT Services & Consulting | North Canton +42 other locations
+1489,Rockwell Automation,3.8,531,4.6k,Industrial Automation | Milwaukee +20 other locations
+1490,Greenply,4.0,530,2.3k,Furniture & Furnishing | Gurgaon/Gurugram +75 other locations
+1491,Alorica,3.1,529,2k,BPO | Irvine +11 other locations
+1492,Ask Automotive,4.1,529,2.7k,Auto Components | Gurgaon/Gurugram +25 other locations
+1493,Axtria,3.0,529,5.6k,Software Product | Berkeley Heights +8 other locations
+1494,BankBazaar,3.4,530,3.2k,FinTech | Chennai +13 other locations
+1495,Osource Global,3.9,529,2.5k,BPO | Raipur +22 other locations
+1496,Medikabazaar,4.6,527,751,Medical Equipment | Mumbai +32 other locations
+1497,Ather Energy,4.0,528,3.5k,Automobile | Bangalore +45 other locations
+1498,BASF,4.5,528,2.4k,Chemicals | Ludwigshafen +76 other locations
+1499,Mount Litera Zee School,4.0,526,1.6k,Education & Training | Mumbai +119 other locations
+1500,Mount Litera Zee School,4.0,526,1.6k,Education & Training | Mumbai +119 other locations
+1501,Royal Caribbean International,4.5,525,820,Sports & Recreation | Miami +19 other locations
+1502,NRB Bearings,4.2,525,2.2k,Auto Components | Mumbai +18 other locations
+1503,MPS Limited,3.8,526,2.9k,Content Development | Noida +21 other locations
+1504,Jain Irrigation Systems,4.0,525,2.2k,Agriculture | Jalgaon +84 other locations
+1505,Quatrro,3.5,525,1.9k,BPO | Gurgaon +7 other locations
+1506,BUSINESSNEXT,4.0,546,3.3k,Software Product | Noida +8 other locations
+1507,Casagrand,3.9,525,3k,Real Estate | Chennai +12 other locations
+1508,Marlabs,3.3,523,5.5k,IT Services & Consulting | Piscataway +12 other locations
+1509,Sl Lumax,3.4,522,2.4k,Auto Components | Sriperumbudur +14 other locations
+1510,RR kabel,4.1,522,2.4k,Electrical Equipment | Mumbai +90 other locations
+1511,Lenovo,4.3,521,3.4k,Consumer Electronics & Appliances | Bangalore / Bengaluru +74 other locations
+1512,Neuland Laboratories,4.1,520,2.7k,Pharma | Hyderabad/Secunderabad +7 other locations
+1513,Qatar Airways,4.0,521,1.9k,Aviation | Doha +24 other locations
+1514,Amrit Cement,4.2,519,1.2k,Building Material | Kolkata +34 other locations
+1515,Turbo Energy,4.2,519,2.1k,Auto Components | Chennai +20 other locations
+1516,Y-Axis Overseas Careers,3.4,519,1.4k,Legal | Hyderabad/Secunderabad +16 other locations
+1517,Dhani Healthcare,3.6,519,2.3k,FinTech | Jabalpur +79 other locations
+1518,Goodyear,3.8,519,2.5k,Auto Components | Akron +58 other locations
+1519,Thryve Digital,4.0,519,4.8k,IT Services & Consulting | Chennai +7 other locations
+1520,Lionbridge Technologies,3.7,518,3.8k,Content Development | Waltham +13 other locations
+1521,Bunge India,4.0,519,2.8k,Food Processing | St. Louis +58 other locations
+1522,Ramky Infrastructure,4.2,518,1.8k,Engineering & Construction | Hyderabad +43 other locations
+1523,CTS Consulting & Technical Support,3.8,518,9k,Engineering & Construction | Eysines +30 other locations
+1524,Wipro PARI,3.5,519,2.5k,Industrial Automation | Michigan +17 other locations
+1525,Writer Corporation,3.7,518,2.1k,Facility Management Services | Mumbai +77 other locations
+1526,Times Group,3.9,518,4.8k,Printing & Publishing | Mumbai +44 other locations
+1527,Bristlecone,3.7,517,5.5k,IT Services & Consulting | Pune +12 other locations
+1528,CtrlS,4.0,517,2.8k,IT Services & Consulting | Hyderabad +15 other locations
+1529,Affinity Express,3.1,517,2.6k,Marketing & Advertising | Elgin +9 other locations
+1530,EPL Limited,4.0,518,1.8k,Packaging | Mumbai +32 other locations
+1531,Aurigo,4.8,518,899,Software Product | Austin +4 other locations
+1532,Victora Auto Private Limited,3.8,517,2.8k,Automobile | Faridabad +25 other locations
+1533,TTK Prestige,4.0,516,2.2k,Consumer Electronics & Appliances | Bangalore/Bengaluru +75 other locations
+1534,Yatra,3.4,516,3.2k,Travel & Tourism | Gurgaon +19 other locations
+1535,Fiat India Automobiles,3.6,516,2.3k,Automobile | Mumbai +20 other locations
+1536,Apple,4.3,517,4.5k,Consumer Electronics & Appliances | Cupertino +93 other locations
+1537,Orient Cement,4.4,515,2.4k,Building Material | Hyderabad/Secunderabad +61 other locations
+1538,Housing.com,3.8,515,2.8k,Internet | Gurgaon +35 other locations
+1539,Bharti Infratel,4.4,514,1.5k,Telecom | Gurgaon/Gurugram +66 other locations
+1540,Grab A Grub Services,3.9,514,1.8k,Logistics | Mumbai +105 other locations
+1541,Hindustan Sanitaryware & Industries,4.1,514,2.5k,Furniture & Furnishing | Gurgaon/Gurugram +56 other locations
+1542,Care Hospital,4.2,514,1.9k,Healthcare | Hyderabad/Secunderabad +36 other locations
+1543,ChannelPlay,3.9,515,1.8k,Marketing & Advertising | Gurgaon/Gurugram +69 other locations
+1544,NecLife,3.6,514,2.3k,Pharma | Chandigarh +22 other locations
+1545,Patel Infrastructure,3.9,514,2.1k,Engineering & Construction | Vadodara/Baroda +49 other locations
+1546,AVEVA,4.3,514,1.9k,Software Product | Cambridge +12 other locations
+1547,Satya MicroCapital,3.7,514,1.8k,Financial Services | Delhi +126 other locations
+1548,HRH Next Services,3.1,513,1.8k,BPO | Hyderabad/Secunderabad +15 other locations
+1549,Holiday Inn,3.9,512,1.5k,Hospitality | Memphis +49 other locations
+1550,Licious,3.7,512,2.6k,Internet | Bangalore +34 other locations
+1551,Omaxe,4.1,511,2.2k,Real Estate | Delhi/NCR +21 other locations
+1552,GKN,3.8,510,2.4k,Industrial Machinery | Redditch +28 other locations
+1553,Nvidia,3.8,510,4.6k,Hardware & Networking | Santa Clara +10 other locations
+1554,Leverage Edu,4.2,510,1.4k,EdTech | Delhi +13 other locations
+1555,Bharat Serums and Vaccines,4.0,510,2.1k,Pharma | Mumbai +55 other locations
+1556,Shivam Autotech,3.7,510,2.4k,Auto Components | Gurgaon/Gurugram +19 other locations
+1557,Aisin Automotive Haryana,4.2,510,2.3k,Auto Components | Gurgaon/Gurugram +24 other locations
+1558,Emids Technologies Limited,3.7,510,5.3k,IT Services & Consulting | Franklin +7 other locations
+1559,United Spirits,4.0,509,1.8k,Beverage | Bangalore/Bengaluru +93 other locations
+1560,Kothari Agritech,4.7,508,624,Building Material | Pune +130 other locations
+1561,Quislex Legal Services,3.9,508,1.8k,Legal | New York +8 other locations
+1562,V-Trans,4.1,508,1.8k,Logistics | Mumbai +72 other locations
+1563,Jai Balaji Group,3.6,508,2.8k,Iron & Steel | Kolkata +28 other locations
+1564,OutworX,4.1,509,1.7k,IT Services & Consulting |  San Jose +35 other locations
+1565,Bisk Farm,4.0,508,1.4k,Food Processing | Kolkata +96 other locations
+1566,Coal India,4.0,507,1.9k,Metals & Mining | Kolkata +57 other locations
+1567,Saint Gobain Glass,4.0,506,1.6k,Building Material | Raipur +49 other locations
+1568,Medtronic,4.1,505,3.9k,Pharma | Mumbai +42 other locations
+1569,Ebix Software India,3.2,505,4.7k,IT Services & Consulting | Atlanta +32 other locations
+1570,Shriram Housing Finance,3.9,506,2k,Financial Services | Mumbai +126 other locations
+1571,Syrma Technology,4.1,505,2.5k,Electronics Manufacturing | Chennai +16 other locations
+1572,Mindarika,3.8,503,2.1k,Auto Components | Gurgaon/Gurugram +24 other locations
+1573,Doosan Power Systems,4.2,504,2.6k,Power | Crawley +27 other locations
+1574,AVTEC,3.7,504,2.1k,Auto Components | Delhi/NCR +21 other locations
+1575,Patel Engineering,4.1,504,2.2k,Engineering & Construction | Mumbai +56 other locations
+1576,Mitsubishi Electric,4.2,505,2.5k,Electronics Manufacturing | Chiyoda City +42 other locations
+1577,Venus Remedies,4.4,504,931,Pharma | Panchkula +35 other locations
+1578,Electrotherm,4.2,505,2.9k,Iron & Steel | Ahmedabad +32 other locations
+1579,Sintex Industries,4.0,503,2.3k,Industrial Machinery | Kalol +53 other locations
+1580,Forbes Marshall,4.1,503,2.6k,Industrial Machinery | Pune +21 other locations
+1581,RITES,3.9,503,2.3k,Engineering & Construction | Gurgaon/Gurugram +64 other locations
+1582,JM Financial,3.8,503,3.4k,Financial Services | Mumbai +57 other locations
+1583,Praj Industries,4.1,503,2.8k,Biotechnology | Pune +26 other locations
+1584,Boeing,3.9,504,6.3k,Aviation | Arlington +11 other locations
+1585,Ameriprise Financial,3.7,503,4.3k,Financial Services | Minneapolis +11 other locations
+1586,Gayatri Projects,3.8,502,2.2k,Engineering & Construction | Hyderabad/Secunderabad +66 other locations
+1587,Visteon,3.7,502,4.5k,Software Product | Van Buren Township +16 other locations
+1588,ASG Eye Hospital,3.6,501,1.5k,Jodhpur +66 other locations
+1589,PPG Asian Paints,4.1,501,2.7k,Chemicals | Mumbai +52 other locations
+1590,Turtlemint,3.6,501,2.2k,Internet | Mumbai +90 other locations
+1591,ITC Limited Foods Division,4.0,501,1.9k,Food Processing | Kolkata +69 other locations
+1592,Suraksha Diagnostic,3.9,501,1.5k,Kolkata +28 other locations
+1593,Orient Technologies,3.7,501,3k,IT Services & Consulting | Chiyoda-ku +45 other locations
+1594,Gartner,4.1,500,5.5k,Management Consulting | Stamford +12 other locations
+1595,3M,4.3,500,3k,Electronics Manufacturing | Saint Paul +44 other locations
+1596,Nihilent,3.3,500,5.3k,IT Services & Consulting | Pune +8 other locations
+1597,LG Soft India,3.3,499,3.9k,Consumer Electronics & Appliances | Bangalore/Bengaluru +14 other locations
+1598,Netmeds.com,3.6,499,2.4k,Internet | Chennai +107 other locations
+1599,Amway India Enterprises,4.1,499,2.1k,Fitness & Wellness | Ada Township +76 other locations
+1600,Surya Roshni,4.1,498,2.1k,Real Estate | Delhi/NCR +59 other locations
+1601,RenewBuy,3.5,496,2.4k,Internet | Gurgaon +84 other locations
+1602,Entrata,4.4,495,2.4k,Software Product | Provo +3 other locations
+1603,Dhanuka Agritech,3.8,495,1.7k,Agro Chemicals | Gurgaon/Gurugram +86 other locations
+1604,Saudi Aramco,4.5,495,1.6k,Oil & Gas | Dhahran +30 other locations
+1605,CARE,4.4,494,1.3k,Non-Profit | Noida +109 other locations
+1606,Kissht Finance,3.9,494,1.8k,FinTech | Mumbai +60 other locations
+1607,Triveni Engineering & Industries,4.1,494,2.3k,Food Processing | Mysore/Mysuru +49 other locations
+1608,Country Holidays Inn & Suites,4.4,493,166,Travel & Tourism | Noida +20 other locations
+1609,Nomura Holdings,3.9,493,5.9k,Investment Banking / Venture Capital / Private Equity | Mumbai +9 other locations
+1610,Wakefit,4.0,494,2.1k,Furniture & Furnishing | Bangalore +37 other locations
+1611,Hilton,4.3,492,1.6k,Hospitality | Mclean +35 other locations
+1612,Moglix,3.5,492,2.9k,Internet | Singapore +34 other locations
+1613,Vaaman Engineers,3.9,492,1.9k,Engineering & Construction | Mumbai +34 other locations
+1614,Jubilant Generics,4.0,491,2.7k,Pharma | Noida +20 other locations
+1615,OMICS International,2.5,490,2.3k,Printing & Publishing | Hyderabad/Secunderabad +6 other locations
+1616,Tata Power Solar,4.1,491,2.4k,Power | Mumbai +64 other locations
+1617,Quikr,3.8,490,3k,Internet | Bangalore +24 other locations
+1618,Medcode,4.6,490,23,IT Services & Consulting | Chennai +6 other locations
+1619,Samunnati Financial Intermediation and Services,4.4,490,858,Financial Services | Chennai +51 other locations
+1620,Emami Agrotech,3.8,488,2.4k,Food Processing | Kolkata +56 other locations
+1621,ThoughtWorks,3.9,489,4.9k,IT Services & Consulting | Chicago +11 other locations
+1622,Lohia Group,3.7,490,2.3k,Industrial Machinery | Kanpur +18 other locations
+1623,TVS Electronics,3.8,488,2k,Consumer Electronics & Appliances | Chennai +61 other locations
+1624,Gandhi Automations,4.1,488,1.2k,Industrial Machinery | Mumbai +20 other locations
+1625,Advantmed,3.7,488,2.3k,Healthcare | Santa Ana +8 other locations
+1626,Courtyard by Marriott,4.2,488,1.2k,Hospitality | Bethesda +37 other locations
+1627,Optimum Infosystem,3.4,488,3k,IT Services & Consulting | Singapore +12 other locations
+1628,Okaya Power,3.7,488,2.1k,Electrical Equipment | Delhi/NCR +82 other locations
+1629,Centaur Pharmaceuticals,3.6,489,2.6k,Pharma | Mumbai +54 other locations
+1630,TCI Express,3.9,488,1.8k,Logistics | Gurugram  +69 other locations
+1631,Infor Global Solution,4.1,487,5.5k,Software Product | New York +8 other locations
+1632,Rane NSK Steering Systems,4.2,488,1.9k,Auto Components | Noida +19 other locations
+1633,DBG Technology,4.0,486,1.6k,Electronics Manufacturing | Huizhou +16 other locations
+1634,DealShare,3.4,487,2.3k,Internet | Jaipur +43 other locations
+1635,Škoda Auto Volkswagen,4.2,486,3.2k,Automobile | Pune +15 other locations
+1636,Future Lifestyle Fashion,4.2,486,2k,Retail | Mumbai +61 other locations
+1637,BSH Home Appliances Group,4.1,487,2.1k,Consumer Electronics & Appliances | Munich +45 other locations
+1638,Quality Austria Central Asia,3.5,485,1.8k,Other | Delhi/NCR +54 other locations
+1639,Asb International,4.0,485,2.5k,Industrial Machinery | Thane +16 other locations
+1640,Signutra (Health & Nutrition Division of Win - Medicare Pvt Ltd),4.6,484,360,Pharma | Wilmington +74 other locations
+1641,General Motors,4.4,483,2.5k,Automobile | Detroit +34 other locations
+1642,Suma Soft,3.8,483,2.9k,IT Services & Consulting | Pune +10 other locations
+1643,Ongc Petro Additions,4.1,483,3.6k,Petrochemicals | Vadodara/Baroda +27 other locations
+1644,PTC,4.2,483,3.7k,Software Product | Boston +41 other locations
+1645,Data Entry,4.1,484,1.9k,BPO | New Delhi +93 other locations
+1646,Amber Enterprises India,3.9,483,2.5k,Consumer Electronics & Appliances | Mumbai +29 other locations
+1647,Keventer,3.8,482,2.1k,FMCG | Kolkata +54 other locations
+1648,Livpure,4.0,482,1.8k,Consumer Electronics & Appliances | Gurgaon +74 other locations
+1649,Nucleus Software Exports,3.5,482,4.4k,Software Product | Noida +12 other locations
+1650,Unimoni,3.9,481,2.9k,FinTech | Abu Dhabi +126 other locations
+1651,Genesys International Corporation,3.7,481,2.6k,IT Services & Consulting | Mumbai +14 other locations
+1652,Renovision Automation Services,3.5,480,1.9k,IT Services & Consulting | New Delhi +65 other locations
+1653,Delta Electronics,4.0,481,3.2k,Electronics Manufacturing | Gurgaon/Gurugram +36 other locations
+1654,Dodla Dairy,4.3,480,1.7k,Food Processing | Hyderabad/Secunderabad +60 other locations
+1655,Nephroplus,4.1,479,5.2k,Healthcare | Hyderabad +94 other locations
+1656,Dr. Batras' Positive Health Clinic,3.8,479,1.1k,Healthcare | Mumbai +83 other locations
+1657,Pennar Industries,3.6,480,2.9k,Engineering & Construction | Hyderabad/Secunderabad +25 other locations
+1658,Blue Yonder,4.1,478,5.8k,IT Services & Consulting | Scottsdale +14 other locations
+1659,Ge India Industrial,4.3,478,2.3k,Industrial Machinery | Bangalore +20 other locations
+1660,Avalon Technologies,3.7,478,3.1k,Electronics Manufacturing | Indore +15 other locations
+1661,Blue Yonder,4.1,478,5.8k,IT Services & Consulting | Scottsdale +14 other locations
+1662,Renault,4.3,478,1.9k,Automobile | Boulogne Billancourt Cedex +140 other locations
+1663,HBL Power Systems,3.9,478,2.1k,Electrical Equipment | Hyderabad/Secunderabad +43 other locations
+1664,PCBL Limited,3.9,478,2.4k,Petrochemicals | Kolkata +20 other locations
+1665,Indorama,4.0,478,2k,Fashion & Textile | Jakarta +41 other locations
+1666,Akal Information Systems,3.9,479,1.8k,IT Services & Consulting | Delhi/NCR +40 other locations
+1667,Trimax IT Infrastructure Services,3.3,477,1.5k,IT Services & Consulting | Mumbai +72 other locations
+1668,Ramboll,4.2,477,2.8k,Engineering & Construction | Copenhagen +28 other locations
+1669,Yokogawa,3.6,477,3.5k,Auto Components | Tokyo +22 other locations
+1670,Vizag Steel,4.1,477,1.5k,Iron & Steel | Visakhapatnam/Vizag +20 other locations
+1671,Creative Synergies Group,4.4,477,1.8k,IT Services & Consulting | Okemos (MI) +6 other locations
+1672,Hetero Healthcare,3.7,477,2.1k,Pharma | Hyderabad/Secunderabad +61 other locations
+1673,Agrostar,3.9,476,1.5k,Internet | Pune +42 other locations
+1674,Prama Hikvision India,3.7,476,2.4k,Electronics Manufacturing | Hangzhou +46 other locations
+1675,Geojit Financial Services,3.8,476,2k,Financial Services | Kochi +126 other locations
+1676,Metriqe Solutions,4.2,476,1.1k,BPO | Irving +3 other locations
+1677,HDFC Asset Management Company,4.0,477,2.2k,Mumbai +119 other locations
+1678,Jyothy Laboratories,4.2,475,1.6k,FMCG | Mumbai +117 other locations
+1679,Razorpay,3.6,475,4.7k,FinTech | Bangalore +22 other locations
+1680,Razorpay,3.6,475,4.7k,FinTech | Bangalore +22 other locations
+1681,Central Reserve Police Force,4.7,476,1.1k,Government | Delhi/NCR +79 other locations
+1682,Portea Medical,4.4,474,1.4k,Healthcare | Bangalore +39 other locations
+1683,SoftAge Information Technology,3.3,474,933,IT Services & Consulting | Gurgaon/Gurugram +126 other locations
+1684,Army Public School,4.1,474,1.2k,Education & Training | Delhi/NCR +87 other locations
+1685,VRL Logistics,3.9,474,1.5k,Logistics | Hubballi +90 other locations
+1686,Vakrangee,3.7,473,1.4k,BPO | Mumbai +84 other locations
+1687,Damco Solutions,4.1,473,2k,IT Services & Consulting | Princeton +19 other locations
+1688,Khazana Jewellery,4.0,473,1.6k,Jewellery | Chennai +51 other locations
+1689,Waaree Energies,3.9,474,2.5k,Power | Mumbai +40 other locations
+1690,Welspun Corp,4.1,474,1.9k,Iron & Steel | Mumbai +24 other locations
+1691,Corteva Agriscience,4.3,473,2.4k,Agro Chemicals | Wilmington +87 other locations
+1692,Toothsi,2.8,472,2.1k,Internet | Mumbai +16 other locations
+1693,BEML,4.1,472,1.7k,Industrial Machinery | Bangalore/Bengaluru +31 other locations
+1694,Google Operations Center,3.6,471,3k,Internet | Bangalore Rural +16 other locations
+1695,Centum Learning,3.8,471,1.5k,Education & Training | Delhi/NCR +77 other locations
+1696,Talentpro,4.1,472,2.2k,Recruitment | Chennai +99 other locations
+1697,Maxgen Technologies,4.6,471,1.2k,IT Services & Consulting | Mumbai +7 other locations
+1698,Medley Pharmaceuticals,4.0,471,1.7k,Pharma | Mumbai +67 other locations
+1699,Pyramid IT Consulting,3.0,471,2.7k,Recruitment | Atlanta +21 other locations
+1700,Airports Authority of India,4.3,471,1.9k,Aviation | Delhi/NCR +81 other locations
+1701,House Of Anita Dongre,4.1,470,1.5k,Fashion & Textile | Navi Mumbai +41 other locations
+1702,Kellogg,4.3,470,2.1k,FMCG | Battle Creek +74 other locations
+1703,Shriram Automall,3.8,470,1.3k,Automobile | Delhi/NCR +97 other locations
+1704,My Home Industries,4.2,471,2.2k,Building Material | Hyderabad/Secunderabad +61 other locations
+1705,Continental,3.9,469,3.5k,Auto Components | Hanover +44 other locations
+1706,Varun Motors,3.9,469,2k,Automobile | Hyderabad/Secunderabad +34 other locations
+1707,Capco Technologies,3.7,470,3.8k,IT Services & Consulting | London +16 other locations
+1708,Realty Assistant,4.3,469,486,Real Estate | Noida +12 other locations
+1709,Karvy Data Management Services,3.8,468,2.5k,Analytics & KPO | Hyderabad/Secunderabad +74 other locations
+1710,Bahwan CyberTek,3.8,467,3.9k,IT Services & Consulting | Chennai +19 other locations
+1711,B. G. Shirke Construction Technology,4.3,468,2.5k,Engineering & Construction | Pune +22 other locations
+1712,Royaloak Incorporation,3.9,467,1.4k,Furniture & Furnishing | Bangalore/Bengaluru +39 other locations
+1713,Glenmark Life Sciences,3.8,466,3.6k,Pharma | Mumbai +19 other locations
+1714,WayCool Foods and Products,3.5,466,2.8k,FMCG | Chennai +40 other locations
+1715,Foray Software,3.5,467,3.9k,IT Services & Consulting | Hyderabad/Secunderabad +16 other locations
+1716,CDK Global,3.7,467,3.5k,IT Services & Consulting | Austin +6 other locations
+1717,Bridgestone,4.1,466,2.4k,Auto Components | Tokyo +52 other locations
+1718,Finastra,3.9,467,4.6k,Software Product | Paddington +10 other locations
+1719,Vestige,4.3,466,1.5k,Fitness & Wellness | Delhi/NCR +102 other locations
+1720,"Commonwealth Bank of Australia, India",3.5,466,5k,Financial Services | Sydney +8 other locations
+1721,CDK Global,3.7,467,3.5k,IT Services & Consulting | Austin +6 other locations
+1722,Koch Business Solutions,3.5,467,4.2k,Engineering & Construction | Wichita +8 other locations
+1723,Five-Star Business Finance,4.3,465,1.7k,NBFC | Chennai +170 other locations
+1724,Me n Moms,4.3,465,1.1k,Retail | Mumbai +66 other locations
+1725,Reliance BP Mobility,3.5,465,2.2k,Oil & Gas | Seohara +81 other locations
+1726,Vadilal Industries,4.1,465,1.7k,FMCG | Ahmedabad +77 other locations
+1727,SG Analytics,3.2,465,2.8k,Analytics & KPO | Pune +8 other locations
+1728,BMC Software,4.1,464,3.8k,IT Services & Consulting | Houston +8 other locations
+1729,Philips Innovation Campus,3.8,464,4.1k,Healthcare | Amsterdam +17 other locations
+1730,Cuemath,3.8,463,1.9k,EdTech | Bangalore +20 other locations
+1731,Saud Bahwan Group,3.4,463,1.2k,Automobile | Muscat +18 other locations
+1732,Inox Wind,3.7,464,1.9k,Power | Noida +37 other locations
+1733,Rashmi Group,3.8,463,2.5k,Iron & Steel | Kolkata +19 other locations
+1734,Utility Powertech,3.9,462,1.8k,Power | Noida +90 other locations
+1735,B.L. Kashyap & Sons,3.9,462,1.6k,Engineering & Construction | Delhi/NCR +23 other locations
+1736,Fiem Industries,3.8,461,2.6k,Auto Components | New Delhi +23 other locations
+1737,Go First,3.7,461,2.2k,Aviation | Mumbai +32 other locations
+1738,Bluestream Software Solution,4.7,460,30,IT Services & Consulting | New Delhi +8 other locations
+1739,United Colors of Benetton,4.4,460,1.3k,Fashion & Textile | Gurgaon/Gurugram +65 other locations
+1740,Godrej Industries,4.2,460,2.7k,Chemicals | Mumbai +60 other locations
+1741,Tracxn,3.2,460,2.4k,Internet | Bangalore +8 other locations
+1742,HLL Lifecare,3.8,460,1.7k,Healthcare | Trivandrum/Thiruvananthapuram +97 other locations
+1743,Becton Dickinson,4.1,462,3.1k,Medical Equipment | Franklin Lakes +31 other locations
+1744,RealPage,3.7,460,3.6k,IT Services & Consulting | Richardson +9 other locations
+1745,Ferrero,3.7,459,1.8k,Food Processing | Pune +76 other locations
+1746,Prince Pipes & Fittings,4.3,459,2.1k,Building Material | Mumbai +59 other locations
+1747,Family Health Plan,3.9,459,1.9k,Insurance | Hyderabad/Secunderabad +31 other locations
+1748,GlobalData,3.5,459,3.5k,Analytics & KPO | London +10 other locations
+1749,Ziqitza Health Care,4.0,459,1.2k,Healthcare | Mumbai +54 other locations
+1750,NICE,3.6,461,3.6k,Software Product | Hoboken +14 other locations
+1751,NetConnectGlobal,3.4,460,2.5k,IT Services & Consulting | Bangalore/Bengaluru +40 other locations
+1752,Genus Power Infrastructures,4.0,458,2.5k,Consumer Electronics & Appliances | Jaipur +51 other locations
+1753,VDart,4.5,457,791,IT Services & Consulting | Alpharetta +2 other locations
+1754,Lear Corporation,4.0,457,2.9k,Auto Components | Southfield +18 other locations
+1755,Tecnimont,3.8,458,2.5k,Engineering & Construction | Milan +28 other locations
+1756,Autoliv,4.0,458,2.5k,Auto Components | Klarabergsviadukten 70 +17 other locations
+1757,BT E Serv,4.2,456,2.6k,Telecom | Delhi/NCR +5 other locations
+1758,Livguard,4.1,456,1.9k,Electronics Manufacturing | Gurgaon +70 other locations
+1759,Perficient,3.6,456,3.6k,IT Services & Consulting | St Louis +10 other locations
+1760,BharatMatrimony.com,4.0,457,1.6k,Internet | Chennai +30 other locations
+1761,AI Airport Services,3.6,456,1.2k,Jabalpur +51 other locations
+1762,Sadbhav Engineering,4.4,456,1.7k,Engineering & Construction | Ahmedabad +64 other locations
+1763,Sudarshan Chemical Industries,3.7,455,2.5k,Chemicals | Pune +23 other locations
+1764,JK Tech,3.6,455,3.8k,IT Services & Consulting | Noida +18 other locations
+1765,Ivrcl Infrastructures & Projects,4.2,455,974,Engineering & Construction | Hyderabad/Secunderabad +51 other locations
+1766,ManipalCigna Health Insurance,4.0,455,2.5k,Insurance | Mumbai +94 other locations
+1767,ATS Infrastructure,3.9,455,2.1k,Real Estate | Noida +12 other locations
+1768,Cyfuture,3.1,454,2.6k,IT Services & Consulting | Noida +31 other locations
+1769,North East Small Finance Bank,3.8,455,1.6k,Banking | Guwahati +73 other locations
+1770,Gestamp,3.7,454,2.2k,Auto Components | Madrid +7 other locations
+1771,Einfochips,3.4,453,3.5k,IT Services & Consulting | San Jose +11 other locations
+1772,RapiPay,4.0,453,1.5k,Noida +96 other locations
+1773,Watchyourhealth.com,4.9,458,305,Emerging Technologies | Thane +3 other locations
+1774,Trigent Software,3.6,452,3.6k,IT Services & Consulting | Southborough +25 other locations
+1775,Jaipur Rugs,4.4,452,806,Fashion & Textile | Jaipur +18 other locations
+1776,Colt Technology Services,4.4,452,3.2k,Hardware & Networking | London +12 other locations
+1777,EdgeVerve Systems,3.4,453,4.3k,Software Product | Bangalore/Bengaluru +12 other locations
+1778,Intellipaat Software Solutions,3.1,451,1.7k,Jaipur +15 other locations
+1779,FCC Clutch,4.0,451,2.2k,Auto Components | Hamamatsu +22 other locations
+1780,Vasudha Pharma Chem,3.9,451,2.2k,Pharma | Hyderabad/Secunderabad +8 other locations
+1781,Peel-works,4.0,450,742,Software Product | Mumbai +25 other locations
+1782,Webskitters,4.4,450,597,IT Services & Consulting | Kolkata +3 other locations
+1783,Cvent,3.4,450,4.2k,Software Product | Fairfax +4 other locations
+1784,Vikram Solar,4.0,450,2.2k,Power | Kolkata +32 other locations
+1785,CJ Darcl Logistics Limited,4.0,449,1.6k,Logistics | Gurgaon / Gurugram +61 other locations
+1786,SMC Global Securities,3.5,451,2.3k,SMC Global Securities Ltd. +63 other locations
+1787,Levi Strauss & Co.,4.4,449,1.8k,Fashion & Textile | San Francisco +71 other locations
+1788,CSC Global,3.6,448,3.4k,Financial Services | Delaware +8 other locations
+1789,URC Construction,3.6,448,2.1k,Engineering & Construction | Chennai +38 other locations
+1790,DHL Global Forwarding,4.1,448,2.8k,Logistics | Bonn +20 other locations
+1791,Central Bank of India,3.8,448,1.3k,Banking | Mumbai +127 other locations
+1792,The Times of India,3.9,447,3k,Media & Entertainment | New Delhi +49 other locations
+1793,Manjushree Technopack,3.7,447,2.6k,Packaging | Bangalore/Bengaluru +23 other locations
+1794,iNurture Education Solutions,2.5,447,1.5k,EdTech | Bangalore +38 other locations
+1795,Wolters Kluwer,3.9,447,4.1k,Software Product | Alphen Aan Den Rijn +14 other locations
+1796,Sintex-bapl,3.8,447,2.3k,Petrochemicals | Pune +53 other locations
+1797,Hi Tech Gears,3.7,446,2.2k,Auto Components | Gurgaon/Gurugram +25 other locations
+1798,Wissen Technology,3.9,446,2.9k,IT Services & Consulting | Bengaluru +9 other locations
+1799,Torry Harris Integration Solutions,3.9,446,4.7k,IT Services & Consulting | Perth Amboy +7 other locations
+1800,CompuCom,3.9,445,3.1k,IT Services & Consulting | Fort Mill +6 other locations
+1801,Vivanta by Taj,4.1,445,1.1k,Hospitality | Gurgaon/Gurugram +37 other locations
+1802,Aptiv,3.4,446,4.4k,Auto Components | Dublin +16 other locations
+1803,Dishman Carbogen Amcis,3.8,445,2k,Healthcare | Bubendorf +11 other locations
+1804,Hamilton Housewares,3.8,444,2.3k,Consumer Electronics & Appliances | Mumbai +32 other locations
+1805,Kidzee,4.1,444,1.2k,EdTech | Ernakulam +107 other locations
+1806,TSYS|Total System Services,4.2,445,3.4k,Financial Services | Columbus +7 other locations
+1807,Ofbusiness,3.3,444,2.2k,Internet | Gurgaon +34 other locations
+1808,Stock Holding Corporation of India,3.5,443,1.8k,Financial Services | Mumbai +94 other locations
+1809,Cpf India,4.1,443,1.6k,Food Processing | Bangalore/Bengaluru +54 other locations
+1810,Scaler Academy,3.8,443,2.1k,EdTech | Bangalore +5 other locations
+1811,Super Smelters,4.0,443,1.9k,Metals & Mining | Kolkata +20 other locations
+1812,Essjay Ericsson,4.2,442,1.1k,Analytics & KPO | Delhi +78 other locations
+1813,Chaayos,3.4,442,1.6k,Hospitality | Delhi +21 other locations
+1814,Maharashtra State Electricity Distribution Company,4.2,442,1.1k,Power | Mumbai +77 other locations
+1815,Blackberrys,4.1,444,1.8k,Fashion & Textile | Gurgaon/Gurugram +79 other locations
+1816,ACKO,3.8,441,2.1k,Insurance | Bengaluru/Bangalore +9 other locations
+1817,Impetus Technologies,3.5,441,4.9k,IT Services & Consulting | Los Gatos +14 other locations
+1818,Ministry of Defence,4.4,441,1.9k,Government | Delhi/NCR +65 other locations
+1819,Axiscades,3.2,440,3.4k,IT Services & Consulting | Bangalore/Bengaluru +10 other locations
+1820,Sasken,3.7,441,3.7k,Automobile | Bangalore/Bengaluru +11 other locations
+1821,Cotiviti,3.9,438,3.6k,Analytics & KPO | South Jordan +8 other locations
+1822,Excitel Broadband,3.7,439,1.8k,Telecom | Delhi +43 other locations
+1823,Carrier,3.8,438,3.5k,Consumer Electronics & Appliances | Florida +43 other locations
+1824,J K Fenner,3.9,437,1.9k,Engineering & Construction | Chennai +49 other locations
+1825,ExportersIndia,4.9,438,130,Internet | New Delhi +1 other locations
+1826,ANR Software Private Limited,4.5,438,1.1k,IT Services & Consulting | Noida +3 other locations
+1827,Eicher Motors,4.2,437,1.6k,Automobile | Gurgaon +78 other locations
+1828,NJ India Invest,3.8,436,1.1k,Financial Services | Surat +77 other locations
+1829,Baker Hughes,4.0,437,3.8k,Oil & Gas | Boston  +35 other locations
+1830,Sulekha.com,4.2,436,2.1k,Internet | Chennai +19 other locations
+1831,Kajaria Ceramics,4.2,435,1.8k,Building Material | Delhi/NCR +69 other locations
+1832,Maini Precision Products,3.5,435,2.9k,Auto Components | Bangalore/Bengaluru +9 other locations
+1833,Efs Facilities Services,3.8,435,1.3k,Facility Management Services | Dubai +50 other locations
+1834,Herbalife International,4.0,435,2.6k,Healthcare | Los Angeles +80 other locations
+1835,Suroj Buildcon,4.2,435,1.4k,Engineering & Construction | Pune +39 other locations
+1836,Amar Ujala,3.9,435,1.8k,Printing & Publishing | Noida +47 other locations
+1837,Inspirisys Solution,3.9,435,3.5k,IT Services & Consulting | Chennai +44 other locations
+1838,T.v. Sundram Iyengar & Sons,4.2,434,1.5k,Automobile | Chennai +78 other locations
+1839,Schindler Group,3.7,434,2.1k,Industrial Machinery | Ebikon +49 other locations
+1840,Schindler Group,3.7,434,2.1k,Industrial Machinery | Ebikon +49 other locations
+1841,L & W Constructions,3.6,434,2k,Engineering & Construction | Bangalore/Bengaluru +14 other locations
+1842,ANAROCK Property Consultants,3.8,434,2.6k,Real Estate | Mumbai +25 other locations
+1843,Solara Active Pharma Sciences,3.8,434,2.8k,Pharma | Chennai +17 other locations
+1844,Karvy Data Management,3.2,433,1.8k,Coimbatore +43 other locations
+1845,Danfoss Industries,4.0,433,2.8k,Industrial Machinery | Nordborg +18 other locations
+1846,Inspira Enterprise India Limited,3.7,433,3k,IT Services & Consulting | Mumbai +32 other locations
+1847,Transrail Lighting,3.9,433,2k,Engineering & Construction | Mumbai +65 other locations
+1848,K D Hospital,4.8,432,343,Healthcare | Ahmedabad +3 other locations
+1849,RadiSys,4.1,432,2k,Hardware & Networking | Bangalore/Bengaluru +9 other locations
+1850,Kirloskar Pneumatic,4.2,431,2.5k,Industrial Machinery | Pune +15 other locations
+1851,Dineshchandra R Agarwal Infracon,4.2,432,1.9k,Engineering & Construction | Ahmedabad +59 other locations
+1852,Vedang Cellular Services,3.9,431,1.5k,Telecom | Mumbai +57 other locations
+1853,Williams Lea,3.9,432,3.1k,BPO | New York +17 other locations
+1854,2COMS,3.8,431,1.2k,Kolkata +44 other locations
+1855,Ramkrishna Forgings,3.6,432,2.4k,Auto Components | Kolkata +17 other locations
+1856,Voltech,3.5,432,1.7k,Electrical Equipment | Chennai +41 other locations
+1857,Celebi Aviation Holding,3.9,431,910,Aviation | Bangalore Rural +13 other locations
+1858,ReSource Pro,4.1,432,1.9k,BPO | Bangalore/Bengaluru +6 other locations
+1859,Writer Information Management Services,3.3,431,2.2k,BPO | Mumbai +44 other locations
+1860,IDBI Intech Limited,3.6,430,2.7k,IT Services & Consulting | Navi Mumbai +26 other locations
+1861,Cashify,3.8,430,2.2k,Other | Gurgaon +48 other locations
+1862,Marelli,3.8,431,2.5k,Auto Components | Corbetta +15 other locations
+1863,Wissen Infotech,3.8,430,3.6k,IT Services & Consulting | Hyderabad/Secunderabad +11 other locations
+1864,Infiniti Research,4.0,430,1.9k,London +7 other locations
+1865,Offshore Infrastructures,4.2,430,1.9k,Engineering & Construction | Mumbai +44 other locations
+1866,Heidelberg Cement,4.2,430,1.8k,Building Material | Gurgaon/Gurugram +64 other locations
+1867,Paras Dairy,3.5,429,1.6k,Food Processing | Delhi/NCR +50 other locations
+1868,TVS Eurogrip,3.7,428,1.8k,Auto Components | Madurai +54 other locations
+1869,Hettich,4.0,428,2.1k,Furniture & Furnishing | Kirchlengern +39 other locations
+1870,Xerox,3.8,428,2.3k,Printing & Publishing | Dubai +33 other locations
+1871,South Indian Bank,3.5,428,2.6k,Banking | Thrissur/Trichur +71 other locations
+1872,Jindal Poly Films,3.6,428,2.4k,Packaging | Delhi/NCR +12 other locations
+1873,Coats,3.9,428,1.8k,Fashion & Textile | Middlesex +49 other locations
+1874,Saudi Binladin Group,4.1,427,735,Engineering & Construction | Jeddah +29 other locations
+1875,Sapphire Foods India,3.9,427,1.7k,Retail | Mumbai +53 other locations
+1876,NBTC GROUP,3.6,425,1.2k,Oil & Gas | Al Ahmadi +22 other locations
+1877,VDA Infosolutions,3.9,425,1.8k,IT Services & Consulting | Mumbai +30 other locations
+1878,People Tech Group,2.7,425,3.9k,IT Services & Consulting | Redmond +9 other locations
+1879,Novac Technology Solutions,3.9,425,3.5k,Software Product | Chennai +20 other locations
+1880,Mecon,4.0,425,1.9k,Metals & Mining | Ranchi +46 other locations
+1881,HealthifyMe,3.0,424,1.6k,Internet | Bangalore/Bengaluru +12 other locations
+1882,Glorious Insight,4.7,424,205,IT Services & Consulting | Noida +2 other locations
+1883,Cadbury,4.4,425,1k,Food Processing | London +98 other locations
+1884,Surin Automotive,3.9,424,2k,Auto Components | Bangalore/Bengaluru +20 other locations
+1885,Healthians,3.5,426,1.8k,Healthcare | Gurgaon +41 other locations
+1886,Radico Khaitan,3.9,423,1.8k,Beverage | Delhi/NCR +56 other locations
+1887,Trianz,3.6,423,4.3k,IT Services & Consulting | Santa Clara +5 other locations
+1888,RuralShores,3.9,423,1.1k,BPO | Bangalore +43 other locations
+1889,RAK Ceramics,4.0,423,1.7k,Building Material | Ras Al Khaimah +50 other locations
+1890,Etech Global Services,4.3,422,1.7k,BPO | Nacogdoches +10 other locations
+1891,IKEA,4.1,422,2k,Retail | Delft +20 other locations
+1892,Accion Labs,3.5,421,4.6k,IT Services & Consulting | Bridgeville +16 other locations
+1893,Canon,4.1,422,2k,Consumer Electronics & Appliances | Ota City +62 other locations
+1894,NLC India Limited,4.5,422,1.1k,Metals & Mining | Chennai +16 other locations
+1895,Transport Corporation Of India,4.0,422,1.8k,Logistics | Gurgaon +71 other locations
+1896,CSG International,4.0,423,3.8k,Software Product | Englewood +11 other locations
+1897,Bajaj Capital Insurance,3.6,422,1.3k,Insurance | New Delhi +105 other locations
+1898,Reshamandi,3.6,421,606,Fashion & Textile | Bangalore +31 other locations
+1899,Jayaswal Neco Industries,4.1,421,1.9k,Iron & Steel | Nagpur +25 other locations
+1900,Pathkind Diagnostics Private Limited,4.0,421,1.6k,Healthcare | Gurgaon/Gurugram +84 other locations
+1901,Tuaman Engineering,4.1,421,1.4k,Engineering & Construction | Kolkata +25 other locations
+1902,Magic Edtech,3.1,421,3.2k,IT Services & Consulting | New York +6 other locations
+1903,Vindhya Telelinks,4.1,421,1.8k,Hardware & Networking | Delhi/NCR +63 other locations
+1904,Gainwell Commosales,4.2,421,1.9k,Kolkata +65 other locations
+1905,Orient Craft,3.7,421,2k,Fashion & Textile | Gurgaon/Gurugram +14 other locations
+1906,BSCPL Infrastructure,3.8,420,1.6k,Engineering & Construction | Hyderabad/Secunderabad +44 other locations
+1907,Carlsberg,4.2,419,1.7k,Beverage | Vesterbro +55 other locations
+1908,McNally Bharat Engineering,4.1,420,1.6k,Engineering & Construction | Kolkata +54 other locations
+1909,Nelito System,3.6,420,2.8k,IT Services & Consulting | Navi Mumbai +38 other locations
+1910,Toyota Industries Engine India,4.3,420,1.5k,Kariya +8 other locations
+1911,Educomp Solutions,3.6,419,760,EdTech | Gurgaon/Gurugram +112 other locations
+1912,Sapiens,3.4,419,4.3k,Software Product | Holon +7 other locations
+1913,Crystal Crop Protection,3.9,419,1.7k,Agro Chemicals | Delhi/NCR +73 other locations
+1914,Gopal Snacks Limited,4.5,419,1.1k,FMCG | Rajkot +85 other locations
+1915,Dr. Reddy's Foundation,4.0,418,1.6k,Non-Profit | Hyderabad/Secunderabad +77 other locations
+1916,Virtual Employee,3.4,419,3.2k,Recruitment | Noida +14 other locations
+1917,Reliance Jewels,3.9,416,1.2k,Jewellery | Mumbai +103 other locations
+1918,ExxonMobil,3.8,418,3.3k,Oil & Gas | Irving +34 other locations
+1919,Pinnacle Infotech,3.5,416,2.4k,IT Services & Consulting | Houston +15 other locations
+1920,Blackrock,3.9,415,4.5k,Management Consulting | New York City +13 other locations
+1921,Reliance Jewels,3.9,416,1.2k,Jewellery | Mumbai +103 other locations
+1922,CodeClouds,4.5,416,1.1k,Software Product | Pipitea +7 other locations
+1923,Tredence,3.6,415,3.7k,IT Services & Consulting | San Jose +8 other locations
+1924,IDP Education Limited,3.6,416,2.4k,EdTech | Melbourne +47 other locations
+1925,AT&T,4.1,415,3.9k,Telecom | Dallas +16 other locations
+1926,Wellness Forever Medicare,3.9,415,1.6k,Retail | Mumbai +35 other locations
+1927,Craftsman Automation,3.8,415,2.4k,Industrial Machinery | Coimbatore +21 other locations
+1928,Dodsal Engineering & Construction,4.4,414,847,Engineering & Construction | Dubai +38 other locations
+1929,Riya Travel,3.7,414,1.8k,Travel & Tourism | Mumbai +35 other locations
+1930,R.S. Infraprojects,4.0,415,1.5k,Real Estate | Noida +62 other locations
+1931,Krsnaa Diagnostics,3.7,414,1.3k,Healthcare | Pune +67 other locations
+1932,McCain Foods,4.2,414,1.4k,Food Processing | Toronto +58 other locations
+1933,Pace Setters Business Solutions,3.3,414,1.2k,BPO | Mumbai +20 other locations
+1934,Wood Group,3.7,414,2.5k,Engineering & Construction | Aberdeen City +28 other locations
+1935,Texmo Industries,3.9,414,1.6k,Industrial Machinery | Coimbatore +34 other locations
+1936,Zycus Infotech,3.0,414,3.4k,Software Product | Princeton +8 other locations
+1937,Macawber Beekay,4.1,414,1.6k,Industrial Machinery | Noida +48 other locations
+1938,Baoiam Innovations,4.6,413,29,EdTech | New Delhi +12 other locations
+1939,Bharat Gears,4.1,413,2.1k,Auto Components | Mumbai +21 other locations
+1940,Magneti Marelli Motherson Auto System,3.9,414,1.7k,Auto Components | Pune +16 other locations
+1941,Bharat Gears,4.1,413,2.1k,Auto Components | Mumbai +21 other locations
+1942,TriGeo Technologies,3.2,413,1.9k,IT Services & Consulting | Hyderabad/Secunderabad +5 other locations
+1943,Universal Sompo General Insurance,3.8,413,2k,Insurance | Mumbai +81 other locations
+1944,Monte Carlo,4.2,413,2.2k,Fashion & Textile | San Francisco +81 other locations
+1945,Maersk Line,4.3,413,2.6k,Logistics | Copenhagen +25 other locations
+1946,Marble Box,4.1,412,812,BPO | Kolkata +5 other locations
+1947,BLK Super Speciality Hospital,4.1,412,1.4k,Healthcare | Delhi/NCR +11 other locations
+1948,Congruex Asia Pacific,3.3,410,1.8k,Engineering & Construction | Boulder +19 other locations
+1949,Innominds Software,3.2,411,4.6k,IT Services & Consulting | Hyderabad/Secunderabad +6 other locations
+1950,Anlitiks,4.8,410,4,Bangalore / Bengaluru +1 other locations
+1951,Emerson Electric Co.,4.1,410,3.2k,IT Services & Consulting | St Louis +24 other locations
+1952,Zolo,3.5,410,2.1k,Internet | Bangalore +18 other locations
+1953,Andritz Hydro Location India,3.7,410,2.5k,Industrial Machinery | Graz +19 other locations
+1954,Ergode IT Services,3.5,410,1.4k,IT Services & Consulting | Houston +9 other locations
+1955,Technotask Business Solutions,3.5,411,1.5k,BPO | Bhopal +15 other locations
+1956,India Post,3.8,411,1.4k,Government | Mysore/Mysuru +169 other locations
+1957,S P Singla Constructions,3.7,411,1.6k,Engineering & Construction | Panchkula +53 other locations
+1958,Magic Bus India Foundation,3.9,409,1.4k,Non-Profit | Mumbai +55 other locations
+1959,IRB Infrastructure,4.0,409,1.3k,Engineering & Construction | Mumbai +55 other locations
+1960,Elite Elevators,3.9,410,741,Industrial Machinery | Chennai +30 other locations
+1961,Electrosteel Casting,3.8,409,2.1k,Building Material | Kolkata +19 other locations
+1962,Sulzer,3.9,410,2.5k,Industrial Machinery | Winterthur +21 other locations
+1963,Castrol,4.2,409,1.8k,Petrochemicals | Pangbourne +102 other locations
+1964,FMC Corporation,4.1,408,1.7k,Agro Chemicals | Philadelphia +99 other locations
+1965,Yokohama,3.7,408,1.9k,Auto Components | tokyo +36 other locations
+1966,Mavenir Systems,3.6,408,3.3k,IT Services & Consulting | Richardson +16 other locations
+1967,Spoton Logistics,4.5,407,1.3k,Logistics | Bangalore +71 other locations
+1968,IL&FS Engineering and Construction,4.4,407,1.1k,Engineering & Construction | Hyderabad/Secunderabad +50 other locations
+1969,Cairn Energy,4.0,407,3.1k,Oil & Gas | Edinburgh +26 other locations
+1970,Roop Polymers,4.0,408,1.8k,Auto Components | Gurgaon/Gurugram +19 other locations
+1971,Hindusthan National Glass,3.6,408,2k,Packaging | Kolkata +19 other locations
+1972,Wockhardt Hospital,4.3,406,1.7k,Healthcare | Mumbai +19 other locations
+1973,Navin Fluorine International,3.9,406,2.5k,Chemicals | Mumbai +16 other locations
+1974,GAVS Technologies,3.8,406,4.6k,IT Services & Consulting | Princeton +12 other locations
+1975,N+A,3.8,405,16.6k,Financial Services | Los Angeles +54 other locations
+1976,PureSoftware,3.2,405,3.2k,IT Services & Consulting | Singapore +9 other locations
+1977,Almarai,4.2,405,901,Food Processing | Riyadh +34 other locations
+1978,MediBuddy,3.9,405,1.9k,Internet | Bangalore +17 other locations
+1979,Aster Dm Healthcare,3.8,405,2.3k,Healthcare | Dubai +35 other locations
+1980,In Time Tec Visionsoft,4.1,408,2k,IT Services & Consulting | Meridian +7 other locations
+1981,Serum Institute of India,4.2,405,2.7k,Biotechnology | Pune +19 other locations
+1982,Deloitte Digital,3.9,404,2.8k,IT Services & Consulting | New York +18 other locations
+1983,Iksula,3.5,404,2.9k,IT Services & Consulting | Mumbai +43 other locations
+1984,Fena,4.1,404,1.4k,FMCG | Delhi/NCR +67 other locations
+1985,Bharat Biotech International,3.1,404,1.9k,Biotechnology | Hyderabad +28 other locations
+1986,Senco Gold,4.0,405,1.2k,Jewellery | Kolkata +61 other locations
+1987,M Square Media,4.4,403,399,Analytics & KPO | Gurgaon / Gurugram +20 other locations
+1988,ZTE Corporation,3.9,403,1.5k,Telecom | shenzhen +45 other locations
+1989,Nibav Lifts,3.9,406,1k,Industrial Machinery | Chennai +31 other locations
+1990,Bahwan Engineering,4.2,402,1.1k,Engineering & Construction | Ruwi +20 other locations
+1991,Mahindra Integrated Business Solutions,3.5,402,2.2k,BPO | Mumbai +55 other locations
+1992,Indecomm Global Services,3.8,402,3.1k,IT Services & Consulting | Edison +13 other locations
+1993,FinThrive,3.8,403,1.5k,Software Product | Plano +8 other locations
+1994,SIS Prosegur Holdings,3.6,401,1.2k,Law Enforcement & Security | Patna +75 other locations
+1995,Paramount Health Services Tpa,3.8,401,2.1k,Insurance | Mumbai +32 other locations
+1996,Anmol Industries,3.9,401,1.6k,Food Processing | Kolkata +62 other locations
+1997,Central Public Works Department,4.2,401,1.4k,Government | Delhi/NCR +108 other locations
+1998,Pepperfry,3.2,400,2k,Furniture & Furnishing | Mumbai +34 other locations
+1999,Alcon,3.7,400,2.3k,Medical Equipment | Fort Worth +36 other locations
