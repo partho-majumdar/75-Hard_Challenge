@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NER Form</title>
+    <style>
+      /* body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      } */
+
+      .ner-form-container {
+        background: #ffffff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+        padding: 20px 30px;
+        width: 100%;
+        max-width: 500px;
+      }
+
+      .ner-form-container h1 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+
+      .ner-form-container textarea {
+        width: 100%;
+        height: 150px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-size: 16px;
+        color: #333;
+        resize: none;
+        outline: none;
+      }
+
+      .ner-form-container textarea:focus {
+        border-color: #5b9bd5;
+        box-shadow: 0 0 5px rgba(91, 155, 213, 0.5);
+      }
+
+      .ner-form-container button {
+        background-color: #5b9bd5;
+        color: #fff;
+        font-size: 16px;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+        margin-top: 15px;
+      }
+
+      .ner-form-container button:hover {
+        background-color: #4a8ac4;
+      }
+
+      .ner-form-container button:active {
+        background-color: #3a6d99;
+      }
+    </style>
+  </head>
+  <body>
+    {% if response %} {% for i in response['entities'] %}
+    <p>{{i["text"] + " " + str(i["start"]) + " " + str(i["end"])}}</p>
+    {% endfor %} {% endif %}
+
+    <div class="ner-form-container">
+      <h1>NER Text Input</h1>
+      <form action="/perform_ner" method="POST">
+        <textarea
+          name="ner_text"
+          placeholder="Enter text for NER analysis..."
+          required
+        ></textarea>
+        <button type="submit">Analyze</button>
+      </form>
+    </div>
+  </body>
+</html>

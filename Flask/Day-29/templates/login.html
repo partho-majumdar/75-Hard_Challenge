@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login page using flask</title>
+    <link rel="stylesheet" href="../static/css/style.css" />
+  </head>
+  <body>
+    {% if message %}
+    <p style="color: green">{{ message }}</p>
+    {% endif %} {% if loginMessage %}
+    <p style="color: red">{{ loginMessage }}</p>
+    {% endif %}
+
+    <form action="/perform_login" , method="post">
+      <div class="wrapper">
+        <div class="login_box">
+          <div class="login-header">
+            <span>Login</span>
+          </div>
+          <div class="input_box">
+            <input
+              type="email"
+              id="user"
+              class="input-field"
+              name="loginEmail"
+              required
+            />
+            <label for="user" class="label">Email</label>
+            <i class="bx bx-user icon"></i>
+          </div>
+          <div class="input_box">
+            <input
+              type="password"
+              id="pass"
+              class="input-field"
+              name="loginPassword"
+              required
+            />
+            <label for="pass" class="label">Password</label>
+            <i class="bx bx-lock-alt icon"></i>
+          </div>
+          <div class="remember-forgot">
+            <div class="remember-me">
+              <input type="checkbox" id="remember" />
+              <label for="remember">Remember me</label>
+            </div>
+            <div class="forgot">
+              <a href="#">Forgot password?</a>
+            </div>
+          </div>
+          <div class="input_box">
+            <input type="submit" class="input-submit" value="Login" />
+          </div>
+          <div class="register">
+            <span>Don't have an account? <a href="/register">Register</a></span>
+          </div>
+        </div>
+      </div>
+    </form>
+    <script src="../static/js/script.js"></script>
+  </body>
+</html>
