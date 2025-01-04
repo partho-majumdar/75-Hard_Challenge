@@ -1,0 +1,75 @@
+~ RDBMS 
+    - Database server -> DBMS (phpMyAdmin) control -> Database -> Multiple table -> Store data in table
+
+~ Types of SQL (Structured Query Language) command
+    - DDL -> Data Definition Language 
+        - CREATE (create new database objects)
+        - ALTER (modify existing database objects)
+        - DROP (delete existing database objects)
+        - TRUNCATE (remove all rows from table)
+    
+    - DML -> Data Manipulation Language
+        - INSERT (create new rows in tables)
+        - UPDATE (modify data in tables)
+        - DELETE (delete data from tables)
+        - SELECT (retrieve data from tables)
+    
+    - DCL -> Data Control Language
+        - GRANT (provides access rights on database)
+        - REVOKE (withdraw access rights on database)
+
+    - TCL -> Transaction Control Language
+        - COMMIT (save database change and end transaction)
+        - ROLLBACK (undo change that are not committed and end transaction)
+
+
+~ ~ ~ ---------- DDL Command ---------- ~ ~ ~
+    01. CREATE
+    CREATE DATABASE firstdemoddl
+    CREATE DATABASE IF NOT EXISTS firstdemoddl
+
+    02. DROP 
+    DROP DATABASE firstdemoddl
+    DROP DATABASE IF EXISTS firstdemoddl
+
+    03. DDL command for table 
+    
+    -- CREATE --
+    CREATE TABLE users (
+	    user_id INTEGER,
+        name VARCHAR(255),
+        email VARCHAR(255),
+        password VARCHAR(255)
+    )
+
+    -- TRUNCATE -- 
+    CREATE TRUNCATE users 
+
+    -- DROP -- 
+    DROP TABLE IF EXISTS users 
+
+
+~ ~ ~ ---------- Data Integrity ---------- ~ ~ ~
+    - Constraints (set of rules, follow to add data, remove data, edit data)
+    - Transaction
+    - Normalization
+
+
+~ ~ ~ ---------- Constraints in MySQL ---------- ~ ~ ~
+    01. NOT NULL (column can not contain NULL value)
+    02. UNIQUE ()
+    03. PRIMARY KEY (can not be null & be unique)
+    04. AUTO INCREMENT
+    05. CHECK (add condition)
+    06. DEFAULT
+    07. FOREIGN KEY 
+
+    -- NOT NULL -- 
+    CREATE TABLE users (
+        user_id INTEGER NOT NULL, 
+        name VARCHAR(255) NOT NULL,
+        email VARCHAR(255),
+        password VARCHAR(255)
+    )
+
+    -- UNIQUE --
