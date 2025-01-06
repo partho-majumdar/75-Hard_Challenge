@@ -1,0 +1,27 @@
+
+- Story
+    - Dashboard
+        - Sheet
+
+Today Project
+The Story of olympics (Story):
+    - Overall Dashboard
+        - Map
+        - Medal Tally
+    - EDA Dashboard
+        - Number of athletes
+        - Number of countries
+        - Gender pie chart
+        - Age histogram
+        - Height and weight scatter-plot
+    - Country Dashboard
+        - Year wise medal tally
+        - Top athletes
+        - Top sports
+
+
+In tableau
+    - Green (Numerical)
+    - Light Gray (Categorical)
+
+Live Server: https://public.tableau.com/views/Book1_17361691531990/TheStoryOfOlympics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
