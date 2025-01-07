@@ -1,0 +1,54 @@
+~ ~ ~ ---------- INSERT Query ---------- ~ ~ ~
+
+Database == Schema
+
+CREATE DATABASE dmlcampusx
+
+CREATE TABLE users (
+	user_id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL
+)
+
+# R - 01
+INSERT INTO dmlcampusx.users (user_id, name, email, password)
+VALUES(NULL, 'partho', 'partho@gmail.com', '1234') 
+
+# R - 02
+INSERT INTO dmlcampusx.users
+VALUES(NULL, 'pappu', 'pappu@gmail.com', '4342')
+
+    - if want to pass only name or email 
+INSERT INTO dmlcampusx.users(name, email) VALUES ('tinku', 'tinku@gmail.com')
+
+    - another way of INSERT 
+INSERT INTO dmlcampusx.users(password, name)
+VALUES(36278, 'ohaio')
+
+    - add multiple row
+INSERT INTO dmlcampusx.users VALUES
+(NULL, 'aa', 'a@gmail.com', 8392),
+(NULL, 'bb', 'b@gmail.com', 3678),
+(NULL, 'cc', 'c@gmail.com', 7202)
+
+
+~ ~ ~ ---------- SELECT Query ---------- ~ ~ ~
+
+    -- SELECT all --
+SELECT * FROM dmlcampusx.smartphones WHERE 1
+
+    -- Filter columns (order not matter) --
+SELECT model, price, rating FROM dmlcampusx.smartphones WHERE 1
+
+    -- Rename column / alias -- 
+ SELECT os AS 'Operating System', model, battery_capacity AS 'mAh' FROM dmlcampusx.smartphones WHERE 1
+
+    -- Create expression using column -- 
+SELECT model, (SQRT((resolution_width*resolution_width) + (resolution_height*resolution_height)) / screen_size) AS 'ppi' FROM dmlcampusx.smartphones WHERE 1
+
+    -- Constant column -- 
+SELECT model, 'smartphones' AS 'type' FROM dmlcampusx.smartphones WHERE 1 
+
+    -- Distinct (unique) value from column -- 
+SELECT DISTINCT (os) AS 'all_processors' FROM dmlcampusx.smartphones WHERE 1
