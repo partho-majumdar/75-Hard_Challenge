@@ -1,0 +1,32 @@
+01. Tableau basic
+    - customer bar chart
+    - categories pie chart
+    - amount vs profit scatter plot
+    - city bubble chart
+    - month by month profit line chart 
+    - most profitable subcategory
+
+02. Hierarchial level of granularity
+    - categories + subcategories vs amount bar chart 
+    - state + cities table with number of orders, revenue and profit 
+
+03. Common filters and card 
+    - total customer
+    - total profit 
+    - total revenue
+
+04. Calculated fields and table calculation
+    - percentage change of revenue line chart month by month 
+    - orders cumulative sum chart 
+    - orders by week day 
+    - scatter-plot with color as profit percent 
+    - calculated field for quantity
+
+05. Working with geographical cols 
+    - hierarchy
+    - fixing error 
+    - level of granularity
+
+06. Dashboard and interactive filters
+    - creating dashboard 
+    - creating interactive filter
