@@ -1,0 +1,41 @@
+~ ~ ~ ---------- Views ---------- ~ ~ ~
+
+    - View is a virtual table that does not store any data on its own but presents a customized view of one or more tables in a database
+    - Virtual table physically not exist in memory
+
+    - Simple Views - Created from 1 single table
+
+# Ex - 01
+
+SELECT * FROM flights;
+
+CREATE VIEW indigo AS 
+SELECT * FROM flights
+WHERE Airline = 'Indigo';
+
+SELECT * FROM indigo
+
+# Ex-02  
+
+CREATE VIEW join_order_data AS 
+SELECT order_id, amount, r_name, name, date, delivery_time, delivery_rating, restaurant_rating 
+FROM orders t1
+JOIN users t2 ON t1.user_id = t2.user_id
+JOIN restaurants t3 ON t1.r_id = t3.r_id
+
+SELECT r_name, MONTHNAME(date), SUM(amount) FROM join_order_data
+GROUP BY r_name
+
+    - Complex Views - Created from multiple tables with the help of joins, subquery etc.
+
+
+    -- Read only Vs Updatable Views --
+
+    - Read-only views: cannot be updated. They are used to simplify the process of querying data, but they cannot be used to modify or delete data in the underlying tables.
+
+    - Updatable views: Updatable views are views that allow you to modify, insert or delete data in the underlying tables through the view. They behave like normal tables, but with restrictions.
+        - if i change anything in view original table will be changed
+
+    -- Materialized Views -- (* * *)
+        - store the result of query
+        - Views not help to reduce execution time but Materialized View reduce execution time 
